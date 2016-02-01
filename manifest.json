@@ -1,18 +1,31 @@
 {
     //指定您的应用包要求的清单文件格式的版本
-    "manifest_version" : 2,
+    "manifest_version": 2,
     // 应用名称
-    "name":"myExp",
+    "name": "myExp",
     // 版本的字符串
-    "version":"1.0.0",
+    "version": "1.0.0",
     // 默认语言
-    "defaule_locale":"en",
+    "defaule_locale": "en",
     // 描述
-    "description":"这个工具是干嘛的",
+    "description": "这个工具是干嘛的",
     // 图标,128安装过程所用图标，48 管理页面显示的图标，16的图标 收藏夹或者 信息栏中的显示图标,支持的 bmp、gif、ico、png、jpeg
-    "icons" :{
-        
+    "icons": {
+        "16": "./images/icon16.png",
+        "48": "./images/icon48.png",
+        "128": "./images/icon128.png"
+    },
+    // browser_action 和 page_action 选其中一个
+    // 其中包括 图标 提示 徽章 和 弹出内容
+    "browser_action": {
+        // 图标
+        "default_icon": {
+            "19": "images/icon19.png",
+            "38": "images/icon38.png"
+        },
+        // 鼠标停留标题
+        "default_title":"myExp",
+        // 弹出内容
+        "default_popup":"popup.html"
     }
-    
-    
 }
