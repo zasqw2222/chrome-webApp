@@ -65,4 +65,17 @@
     // 隐身模式
     // 选择的准则是，如果您的应用或者应用需要在隐身模式下加载标签页，请使用 split 隐身行为。如果您的应用或应用需要登录远程服务器或者在本地保留设置，请使用 spanning 隐身行为
     "incognito":"spanning 或 split",
+    "key": "公钥",
+    // 浏览器版本
+    "minimum_chrome_version": "版本字符串",
+    // 离线时可用
+    // "offline_enabled" 的默认值为 true
+    "offline_enabled": true,
+    // 设定页面
+    // 为了让用户自定义您的应用的行为，您可能会提供一个选项页面
+    // 使用 storage API 保存这些首选项，这样您的应用中任意脚本都能访问这些值
+    "options-page":"aFile.html",
+    // 声明权限
+    // 详细信息 参见 README.md
+    "permissions":["tabs"]
 }
