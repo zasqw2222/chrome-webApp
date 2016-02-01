@@ -24,47 +24,51 @@
             "38": "images/icon38.png"
         },
         // 鼠标停留标题
-        "default_title":"myExp",
+        "default_title": "myExp",
         // 弹出内容
-        "default_popup":"popup.html"
+        "default_popup": "popup.html"
     },
     // 作者
-    "author":"zasqw2222",
+    "author": "zasqw2222",
     // "automation":
     // 后台网页
     // 应用通常需要有一个长时间运行的脚本来管理一些任务或状态，而后台网页就是为这一目的而设立
     // 后台就是一个html页面 在应用的进程中 它在整个生命周期中都存在的 一般情况下 后台页面不需要任何html标记 这种情况下 后台可以使用js文件实现
-    "background":{
+    "background": {
         // html
-        "page" :"background.html",
+        "page": "background.html",
         // js
-        "scripts":["background.js"],
+        "scripts": [
+            "background.js"
+        ],
         // 是否持久连接 如果没有 "persistent" 键，您将得到一个普通的后台网页。是否持久存在是事件页面与后台网页之间的根本区别
         "persistent": false
     },
     // "commands":快捷键
     // 内容脚本
     // 内容脚本是在网页的上下文中运行的 JavaScript 文件，它们可以通过标准的文档对象模型（DOM）来获取浏览器访问的网页详情，或者作出更改
-    "content_scripts":[
+    "content_scripts": [
         {
             // 制定要插入到哪些页面
-            "matches":["http://www.google.com/*"],
+            "matches": [
+                "http://www.google.com/*"
+            ],
             // 不插入哪些页面
-            "exclude_matches" : [],
+            "exclude_matches": [],
             // 插入哪些css文件列表
-            "css":[],
+            "css": [],
             // 要插入哪些页面的js文件列表
-            "js":[]
+            "js": []
         }
     ],
     // 内容安全策略
     // 清单文件中的 externally_connectable 属性声明哪些应用、应用和网页可以通过 runtime.connect 和 runtime.sendMessage 连接到您的应用
     "content_security_policy": "script-src 'self' https://example.com; object-src 'self'",
     // 该应用的主页 URL。应用管理页面（bdbrowser://extension）将包含指向该 URL 的链接。如果您在您自己的网站上托管应用，该属性很有用
-    "homepage_url":"http://github.com/zasqw2222",
+    "homepage_url": "http://github.com/zasqw2222",
     // 隐身模式
     // 选择的准则是，如果您的应用或者应用需要在隐身模式下加载标签页，请使用 split 隐身行为。如果您的应用或应用需要登录远程服务器或者在本地保留设置，请使用 spanning 隐身行为
-    "incognito":"spanning 或 split",
+    "incognito": "spanning 或 split",
     "key": "公钥",
     // 浏览器版本
     "minimum_chrome_version": "版本字符串",
@@ -74,8 +78,29 @@
     // 设定页面
     // 为了让用户自定义您的应用的行为，您可能会提供一个选项页面
     // 使用 storage API 保存这些首选项，这样您的应用中任意脚本都能访问这些值
-    "options-page":"aFile.html",
+    "options-page": "aFile.html",
     // 声明权限
     // 详细信息 参见 README.md
-    "permissions":["tabs"]
+    "permissions": [
+        "tabs"
+    ],
+    // NPAPI 插件 但是要淘汰
+    "plugins": [],
+    // 系统要求
+    "requirements": {},
+    "short_name": "短名称",
+    // 定义存储区
+    "storage": {
+        "managed_schema": "schema.json"
+    },
+    // 自动更新
+    "update_url": "http://www.baidu.com",
+    // 可在网页中访问的资源 类似于 白名单
+    "web_accessible_resources": [
+        "images/*.png",
+        "style/double-rainbow.css",
+        "script/double-rainbow.js",
+        "script/main.js",
+        "templates/*"
+    ]
 }
