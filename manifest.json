@@ -15,7 +15,7 @@
         "48": "./images/icon48.png",
         "128": "./images/icon128.png"
     },
-    // browser_action 和 page_action 选其中一个
+    // browser_action 和 page_action 选其中一个 配置选项都差不多
     // 其中包括 图标 提示 徽章 和 弹出内容
     "browser_action": {
         // 图标
@@ -27,5 +27,42 @@
         "default_title":"myExp",
         // 弹出内容
         "default_popup":"popup.html"
-    }
+    },
+    // 作者
+    "author":"zasqw2222",
+    // "automation":
+    // 后台网页
+    // 应用通常需要有一个长时间运行的脚本来管理一些任务或状态，而后台网页就是为这一目的而设立
+    // 后台就是一个html页面 在应用的进程中 它在整个生命周期中都存在的 一般情况下 后台页面不需要任何html标记 这种情况下 后台可以使用js文件实现
+    "background":{
+        // html
+        "page" :"background.html",
+        // js
+        "scripts":["background.js"],
+        // 是否持久连接 如果没有 "persistent" 键，您将得到一个普通的后台网页。是否持久存在是事件页面与后台网页之间的根本区别
+        "persistent": false
+    },
+    // "commands":快捷键
+    // 内容脚本
+    // 内容脚本是在网页的上下文中运行的 JavaScript 文件，它们可以通过标准的文档对象模型（DOM）来获取浏览器访问的网页详情，或者作出更改
+    "content_scripts":[
+        {
+            // 制定要插入到哪些页面
+            "matches":["http://www.google.com/*"],
+            // 不插入哪些页面
+            "exclude_matches" : [],
+            // 插入哪些css文件列表
+            "css":[],
+            // 要插入哪些页面的js文件列表
+            "js":[]
+        }
+    ],
+    // 内容安全策略
+    // 清单文件中的 externally_connectable 属性声明哪些应用、应用和网页可以通过 runtime.connect 和 runtime.sendMessage 连接到您的应用
+    "content_security_policy": "script-src 'self' https://example.com; object-src 'self'",
+    // 该应用的主页 URL。应用管理页面（bdbrowser://extension）将包含指向该 URL 的链接。如果您在您自己的网站上托管应用，该属性很有用
+    "homepage_url":"http://github.com/zasqw2222",
+    // 隐身模式
+    // 选择的准则是，如果您的应用或者应用需要在隐身模式下加载标签页，请使用 split 隐身行为。如果您的应用或应用需要登录远程服务器或者在本地保留设置，请使用 spanning 隐身行为
+    "incognito":"spanning 或 split",
 }
