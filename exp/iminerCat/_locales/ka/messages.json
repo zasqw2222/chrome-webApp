@@ -1,0 +1,245 @@
+{
+"account_deletion_confirm": {
+"message": "გინდათ ამ ანგარიშის წაშლა ?"
+},
+"appDesc": {
+"message": "ხელში ჩანს შინაარსი tab , რეგიონში ვებ გვერდზე, ან მთელი გვერდი , როგორც PNG იმიჯი. "
+},
+"autosave": {
+"message": "Autosave - მას შემდეგ, რაც ხელში, შემოვლითი რედაქტირება ეკრანზე და პირდაპირ გადარჩენა ტყვედ იმიჯი ნაგულისხმევ ვებ გვერდის სათაური , როგორც ნაგულისხმები ფაილის სახელი"
+},
+"bad_access_token": {
+"message": "არასწორი ძებნა ნიშნად."
+},
+"blur": {
+"message": "Blur"
+},
+"border": {
+"message": "მიაპყროს სასაზღვრო მხოლოდ"
+},
+"cancel": {
+"message": "გაუქმება"
+},
+"capture_area": {
+"message": "ხელში Page რეგიონი"
+},
+"capture_screen": {
+"message": "Capture Screen რეგიონი"
+},
+"capture_tip": {
+"message": "Drag and Capture (Press Esc გასასვლელად )"
+},
+"capture_webpage": {
+"message": "ხელში Whole გვერდი"
+},
+"capture_window": {
+"message": "ხელში Visible Content"
+},
+"capturing": {
+"message": "დაკავება, გთხოვთ დაელოდოთ ..."
+},
+"close": {
+"message": "Close"
+},
+"close_upload_wrapper": {
+"message": "Close"
+},
+"copy": {
+"message": "ასლი"
+},
+"default_title": {
+"message": "Screen Capture"
+},
+"deletion_title": {
+"message": "ანგარიშის წაშლა"
+},
+"edit_tip": {
+"message": "ქვემოთ არის screenshot თქვენ ტყვედ . "
+},
+"extensionName": {
+"message": "Screenshot Capture ( უკეთესია, ვიდრე Google ს)"
+},
+"facebook_get_photo_link": {
+"message": "მიღება სურათის ბმული ..."
+},
+"facebook_upload_header": {
+"message": "facebook"
+},
+"failed_to_connect_to_server": {
+"message": "ვერ ვუკავშირდები სერვერს."
+},
+"failed_to_get_photo_link": {
+"message": "ვერ ვიღებ photo ბმული."
+},
+"failed_to_get_user_info": {
+"message": "მიიღეთ შესახებ ინფორმაცია ვერ მოხერხდა, სცადეთ მოგვიანებით."
+},
+"failed_to_register_hot_key_for_screen_capture": {
+"message": "მალსახმობი Capture Screen რეგიონში რეგისტრირებულია სხვა პროგრამა. "
+},
+"failed_to_upload_image": {
+"message": "ვერ ატვირთეთ სურათი , გთხოვთ სცადოთ მოგვიანებით."
+},
+"failure_to_create_album": {
+"message": "ვერ შექმნა ალბომი, გთხოვთ სცადოთ მოგვიანებით."
+},
+"highlight": {
+"message": "Highlight"
+},
+"hot_key_conflict": {
+"message": "კომბინაციები კონფლიქტი."
+},
+"image_caption": {
+"message": "Image Title"
+},
+"invalid_album_id": {
+"message": "ალბომი არ არის ნაპოვნი."
+},
+"invalid_caption": {
+"message": "სურათის სათაური არის საჭირო."
+},
+"line": {
+"message": "ონლაინ"
+},
+"loading": {
+"message": "გვერდის იტვირთება, გთხოვთ მოითმინოთ ."
+},
+"lossless": {
+"message": "lossless screenshot"
+},
+"lossy": {
+"message": "lossy screenshot"
+},
+"ok": {
+"message": "OK"
+},
+"open_save_path": {
+"message": "ტურიზმი პაპკის"
+},
+"option": {
+"message": "პარამეტრები"
+},
+"options": {
+"message": "Screen Capture პარამეტრები"
+},
+"photo_link_text": {
+"message": "შეამოწმეთ Image"
+},
+"photo_size_tip": {
+"message": "მინიშნება: თქვენ შეიძლება ვერ ატვირთეთ უფრო დიდია, ვიდრე 3M bytes."
+},
+"picasa_upload_header": {
+"message": "Picasa Web"
+},
+"print": {
+"message": "Print"
+},
+"progress_info": {
+"message": "Image ატვირთვა, გთხოვთ დაელოდოთ ..."
+},
+"quality_setting": {
+"message": "Screenshot ხარისხის პარამეტრები:"
+},
+"rect": {
+"message": "შეავსოთ მთელი ფართი"
+},
+"redact": {
+"message": "ერთმანეთისგან"
+},
+"return_to_site_selection": {
+"message": "უკან"
+},
+"save": {
+"message": "Save"
+},
+"save_and_close": {
+"message": "შენახვა და დახურვა"
+},
+"save_fail": {
+"message": "გადარჩენა ვერ მოხერხდა screenshot."
+},
+"save_image": {
+"message": "Save Image"
+},
+"save_setting": {
+"message": "Screenshot Save Settings:"
+},
+"save_success": {
+"message": "Screenshot გადაარჩინა."
+},
+"save_tip": {
+"message": "Default save ადგილმდებარეობა:"
+},
+"saved_to_path": {
+"message": "სკრინშოტი უკვე შეინახება"
+},
+"set_save_path": {
+"message": "Browse ..."
+},
+"set_save_path_title": {
+"message": "არჩევა ნაგულისხმები Save საიდან"
+},
+"share": {
+"message": "share"
+},
+"share_to": {
+"message": "წილი"
+},
+"share_to_facebook_account": {
+"message": "იზიარებს თქვენი Facebook ანგარიშის"
+},
+"share_to_other_account": {
+"message": "წილი სხვა ანგარიშზე"
+},
+"share_to_picasa_account": {
+"message": "იზიარებს თქვენი Picasa Web ანგარიში"
+},
+"shortcut_setting": {
+"message": "Shortcut პარამეტრები:"
+},
+"shortcutsetting_text": {
+"message": "საშუალებას კლავიშთა"
+},
+"size_huge": {
+"message": "დიდი"
+},
+"size_large": {
+"message": "დიდი"
+},
+"size_normal": {
+"message": "ნორმალური"
+},
+"size_small": {
+"message": "პატარა"
+},
+"solid_black": {
+"message": "მყარი შავი"
+},
+"special": {
+"message": "ეს არის სპეციალური გვერდი. "
+},
+"text": {
+"message": "ტექსტი"
+},
+"tip_copy_failed": {
+"message": "ვერ კოპირება screenshot."
+},
+"tip_copy_succeed": {
+"message": "Screenshot გადაწერა."
+},
+"unknown_error": {
+"message": "უცნობი შეცდომა ."
+},
+"upload_sites_header": {
+"message": "Share Image To"
+},
+"user_authentication_tip": {
+"message": "პროფაილი აუტენტიფიკაციისთვის , გთხოვთ დაელოდოთ ..."
+},
+"user_denied": {
+"message": "შესახებ უარყო."
+},
+"user_logout_tip": {
+"message": "ხელმოწერის , გთხოვთ დაელოდოთ ..."
+}
+}

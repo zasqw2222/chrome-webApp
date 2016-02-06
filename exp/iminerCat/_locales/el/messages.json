@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "Θέλετε να καταργήσετε αυτόν το λογαριασμό ;"
+   },
+   "appDesc": {
+      "message": "Σύλληψη ορατό το περιεχόμενο μιας καρτέλας , μια περιοχή μιας ιστοσελίδας , ή το σύνολο της σελίδας ως εικόνα PNG . "
+   },
+   "autosave": {
+      "message": "Αυτόματη αποθήκευση - μετά τη σύλληψη , οθόνη επεξεργασίας παράκαμψης και άμεσα να αποθηκεύσετε το στιγμιότυπο εικόνας στην προεπιλεγμένη θέση με τον τίτλο της ιστοσελίδας ως προεπιλεγμένο όνομα αρχείου"
+   },
+   "bad_access_token": {
+      "message": "Μη έγκυρο διακριτικό πρόσβασης ."
+   },
+   "blur": {
+      "message": "θολούρα"
+   },
+   "border": {
+      "message": "Ισοπαλία σύνορα μόνον"
+   },
+   "cancel": {
+      "message": "Ακύρωση"
+   },
+   "capture_area": {
+      "message": "Σύλληψη Page Περιφέρεια"
+   },
+   "capture_screen": {
+      "message": "Οθόνη συλλαμβάνει Περιφέρεια"
+   },
+   "capture_tip": {
+      "message": "Σύρετε και Capture ( Πατήστε ESC για να βγείτε )"
+   },
+   "capture_webpage": {
+      "message": "Σύλληψη Ολόκληρη σελίδα"
+   },
+   "capture_window": {
+      "message": "Σύλληψη Ορατή Περιεχόμενο"
+   },
+   "capturing": {
+      "message": "Καταγραφή , παρακαλώ περιμένετε ..."
+   },
+   "close": {
+      "message": "κοντά"
+   },
+   "close_upload_wrapper": {
+      "message": "κοντά"
+   },
+   "copy": {
+      "message": "αντίγραφο"
+   },
+   "default_title": {
+      "message": "οθόνη συλλαμβάνει"
+   },
+   "deletion_title": {
+      "message": "Κατάργηση λογαριασμού"
+   },
+   "edit_tip": {
+      "message": "Παρακάτω είναι η εικόνα που τραβήξατε . "
+   },
+   "extensionName": {
+      "message": "Λήψη στιγμιότυπου οθόνης"
+   },
+   "facebook_get_photo_link": {
+      "message": "Ανάκτηση σύνδεσμος εικόνας ..."
+   },
+   "facebook_upload_header": {
+      "message": "Facebook"
+   },
+   "failed_to_connect_to_server": {
+      "message": "Δεν είναι δυνατή η σύνδεση με τον διακομιστή ."
+   },
+   "failed_to_get_photo_link": {
+      "message": "Απέτυχε η ανάκτηση σύνδεσμο φωτογραφία ."
+   },
+   "failed_to_get_user_info": {
+      "message": "Πάρτε πληροφορίες για το χρήστη απέτυχε, παρακαλώ δοκιμάστε ξανά αργότερα ."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "Η συντόμευση για την οθόνη συλλαμβάνει Περιφέρεια έχει καταχωρηθεί από άλλη εφαρμογή . "
+   },
+   "failed_to_upload_image": {
+      "message": "Αποτυχία να ανεβάσετε την εικόνα , δοκιμάστε ξανά αργότερα ."
+   },
+   "failure_to_create_album": {
+      "message": "Αποτυχία δημιουργίας άλμπουμ , δοκιμάστε ξανά αργότερα ."
+   },
+   "highlight": {
+      "message": "αποκορύφωμα"
+   },
+   "hot_key_conflict": {
+      "message": "Συντομεύσεις σύγκρουση ."
+   },
+   "image_caption": {
+      "message": "Τίτλος εικόνας"
+   },
+   "invalid_album_id": {
+      "message": "Δεν βρέθηκε λεύκωμα ."
+   },
+   "invalid_caption": {
+      "message": "Τίτλος εικόνας απαιτείται ."
+   },
+   "line": {
+      "message": "γραμμή"
+   },
+   "loading": {
+      "message": "Η σελίδα φορτώνει, παρακαλώ περιμένετε ."
+   },
+   "lossless": {
+      "message": "Lossless screenshot"
+   },
+   "lossy": {
+      "message": "με απώλειες screenshot"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open_save_path": {
+      "message": "Μετάβαση σε φάκελο"
+   },
+   "option": {
+      "message": "Επιλογές"
+   },
+   "options": {
+      "message": "Επιλογές οθόνη συλλαμβάνει"
+   },
+   "photo_link_text": {
+      "message": "Ελέγξτε την εικόνα"
+   },
+   "photo_size_tip": {
+      "message": "Συμβουλή : Μπορείτε να αποτύχει να φορτώσετε μια εικόνα μεγαλύτερη από ό, τι 3M bytes ."
+   },
+   "picasa_upload_header": {
+      "message": "Picasa Web"
+   },
+   "print": {
+      "message": "Εκτύπωση"
+   },
+   "progress_info": {
+      "message": "Μεταφόρτωση της εικόνας , παρακαλώ περιμένετε ..."
+   },
+   "quality_setting": {
+      "message": "Screenshot Ρυθμίσεις ποιότητας :"
+   },
+   "rect": {
+      "message": "Συμπληρώστε ολόκληρη την περιοχή"
+   },
+   "redact": {
+      "message": "συντάσσω"
+   },
+   "return_to_site_selection": {
+      "message": "πίσω"
+   },
+   "save": {
+      "message": "Αποθήκευση"
+   },
+   "save_and_close": {
+      "message": "Αποθήκευση & Κλείσιμο"
+   },
+   "save_fail": {
+      "message": "Αποτυχία να αποθηκεύσετε το στιγμιότυπο ."
+   },
+   "save_image": {
+      "message": "Αποθήκευση εικόνας"
+   },
+   "save_setting": {
+      "message": "Screenshot Αποθήκευση ρυθμίσεων :"
+   },
+   "save_success": {
+      "message": "Screenshot σωθεί ."
+   },
+   "save_tip": {
+      "message": "Προεπιλεγμένη θέση αποθήκευσης :"
+   },
+   "saved_to_path": {
+      "message": "Το στιγμιότυπο έχει αποθηκευτεί σε"
+   },
+   "set_save_path": {
+      "message": "Αναζήτηση ..."
+   },
+   "set_save_path_title": {
+      "message": "Επιλέξτε προεπιλεγμένη θέση αποθήκευσης"
+   },
+   "share": {
+      "message": "μετοχή"
+   },
+   "share_to": {
+      "message": "Μοιραστείτε το στο"
+   },
+   "share_to_facebook_account": {
+      "message": "Μοιραστείτε στο λογαριασμό σας στο Facebook"
+   },
+   "share_to_other_account": {
+      "message": "Μοιραστείτε σε άλλο λογαριασμό"
+   },
+   "share_to_picasa_account": {
+      "message": "Μοιραστείτε στο λογαριασμό σας στο Web Picasa"
+   },
+   "shortcut_setting": {
+      "message": "Συντόμευση Ρυθμίσεις :"
+   },
+   "shortcutsetting_text": {
+      "message": "Ενεργοποίηση συντομεύσεων πληκτρολογίου"
+   },
+   "size_huge": {
+      "message": "τεράστιος"
+   },
+   "size_large": {
+      "message": "μεγάλο"
+   },
+   "size_normal": {
+      "message": "κανονικός"
+   },
+   "size_small": {
+      "message": "μικρό"
+   },
+   "solid_black": {
+      "message": "Στερεά Μαύρο"
+   },
+   "special": {
+      "message": "Αυτή είναι μια ειδική σελίδα . "
+   },
+   "text": {
+      "message": "κείμενο"
+   },
+   "tip_copy_failed": {
+      "message": "Αποτυχία για να αντιγράψετε το screenshot ."
+   },
+   "tip_copy_succeed": {
+      "message": "Screenshot αντιγραφεί ."
+   },
+   "unknown_error": {
+      "message": "Άγνωστο σφάλμα ."
+   },
+   "upload_sites_header": {
+      "message": "Εικόνα Προς"
+   },
+   "user_authentication_tip": {
+      "message": "Ελέγχου ταυτότητας χρήστη , παρακαλώ περιμένετε ..."
+   },
+   "user_denied": {
+      "message": "Αρνήθηκε χρήστη ."
+   },
+   "user_logout_tip": {
+      "message": "Υπογραφή έξω , παρακαλώ περιμένετε ..."
+   }
+}

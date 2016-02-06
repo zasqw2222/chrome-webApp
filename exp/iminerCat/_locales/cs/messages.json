@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "Chcete odstranit tento účet ?"
+   },
+   "appDesc": {
+      "message": "Zachyťte viditelný obsah karty , oblasti webové stránky , nebo na celou stránku jako PNG . "
+   },
+   "autosave": {
+      "message": "Automatické ukládání - po zachycení , editaci bypass rozsahu a přímo uložit zachycené snímky do výchozího místa s názvem webové stránky jako výchozí název souboru"
+   },
+   "bad_access_token": {
+      "message": "Neplatný Access Token ."
+   },
+   "blur": {
+      "message": "rozmazat"
+   },
+   "border": {
+      "message": "Remíza Border Pouze"
+   },
+   "cancel": {
+      "message": "zrušit"
+   },
+   "capture_area": {
+      "message": "Zachyťte Page Region"
+   },
+   "capture_screen": {
+      "message": "Screen Capture Region"
+   },
+   "capture_tip": {
+      "message": "Drag a zachycení ( opustíte stisknutím klávesy Esc )"
+   },
+   "capture_webpage": {
+      "message": "Zachyťte Celá stránka"
+   },
+   "capture_window": {
+      "message": "Zachyťte viditelný obsah"
+   },
+   "capturing": {
+      "message": "Zachycení , čekejte prosím ..."
+   },
+   "close": {
+      "message": "zavřít"
+   },
+   "close_upload_wrapper": {
+      "message": "zavřít"
+   },
+   "copy": {
+      "message": "kopie"
+   },
+   "default_title": {
+      "message": "Screen Capture"
+   },
+   "deletion_title": {
+      "message": "Odebrat účet"
+   },
+   "edit_tip": {
+      "message": "Níže jescreenshot vás zachytil . "
+   },
+   "extensionName": {
+      "message": "Screenshot snímání ( lepší než Google je)"
+   },
+   "facebook_get_photo_link": {
+      "message": "Načítání obrázek odkaz ..."
+   },
+   "facebook_upload_header": {
+      "message": "Facebook"
+   },
+   "failed_to_connect_to_server": {
+      "message": "Nelze se připojit k serveru ."
+   },
+   "failed_to_get_photo_link": {
+      "message": "Nepodařilo se načíst fotografie odkaz ."
+   },
+   "failed_to_get_user_info": {
+      "message": "Získat informace o uživateli selhalo , zkuste to prosím později ."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "Zkratka pro snímání obrazovky kraji registrováno jinou aplikací . "
+   },
+   "failed_to_upload_image": {
+      "message": "Nepodařilo se nahrát obrázek , zkuste to prosím později ."
+   },
+   "failure_to_create_album": {
+      "message": "Nepodařilo se vytvořit album , zkuste to prosím později ."
+   },
+   "highlight": {
+      "message": "zdůraznit"
+   },
+   "hot_key_conflict": {
+      "message": "Klávesové zkratky konfliktu."
+   },
+   "image_caption": {
+      "message": "Image Název"
+   },
+   "invalid_album_id": {
+      "message": "Album nebyl nalezen."
+   },
+   "invalid_caption": {
+      "message": "Je zapotřebí titul fotografie ."
+   },
+   "line": {
+      "message": "linka"
+   },
+   "loading": {
+      "message": "Stránka se nahrává , čekejte prosím ."
+   },
+   "lossless": {
+      "message": "Lossless screenshot"
+   },
+   "lossy": {
+      "message": "Ztrátová screenshot"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open_save_path": {
+      "message": "Jděte do složky"
+   },
+   "option": {
+      "message": "Možnosti"
+   },
+   "options": {
+      "message": "Možnosti snímání obrazovky"
+   },
+   "photo_link_text": {
+      "message": "Zkontrolujte obraz"
+   },
+   "photo_size_tip": {
+      "message": "Tip : Můžete nepodaří nahrát obrázek větší než 3M bajtů ."
+   },
+   "picasa_upload_header": {
+      "message": "Picasa Web"
+   },
+   "print": {
+      "message": "tisk"
+   },
+   "progress_info": {
+      "message": "Image nahrávání , čekejte prosím ..."
+   },
+   "quality_setting": {
+      "message": "Screenshot Nastavení kvality :"
+   },
+   "rect": {
+      "message": "Vyplnit celé oblasti"
+   },
+   "redact": {
+      "message": "redigovat"
+   },
+   "return_to_site_selection": {
+      "message": "zpět"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "save_and_close": {
+      "message": "Uložit & Zavřít"
+   },
+   "save_fail": {
+      "message": "Nepodařilo se uložit screenshot ."
+   },
+   "save_image": {
+      "message": "Save Image"
+   },
+   "save_setting": {
+      "message": "Screenshot Uložit nastavení :"
+   },
+   "save_success": {
+      "message": "Screenshot uložen."
+   },
+   "save_tip": {
+      "message": "Výchozí uložení:"
+   },
+   "saved_to_path": {
+      "message": "Snímek byl uložen do"
+   },
+   "set_save_path": {
+      "message": "Procházet ..."
+   },
+   "set_save_path_title": {
+      "message": "Vybrat Výchozí Místo uložení"
+   },
+   "share": {
+      "message": "podíl"
+   },
+   "share_to": {
+      "message": "Sdílet"
+   },
+   "share_to_facebook_account": {
+      "message": "Podělte se ke svému účtu na Facebooku"
+   },
+   "share_to_other_account": {
+      "message": "Podíl na jiný účet"
+   },
+   "share_to_picasa_account": {
+      "message": "Podělte se k webovému účtu Picasa"
+   },
+   "shortcut_setting": {
+      "message": "Klávesové Nastavení :"
+   },
+   "shortcutsetting_text": {
+      "message": "Povolit klávesové zkratky"
+   },
+   "size_huge": {
+      "message": "obrovský"
+   },
+   "size_large": {
+      "message": "velký"
+   },
+   "size_normal": {
+      "message": "normální"
+   },
+   "size_small": {
+      "message": "malý"
+   },
+   "solid_black": {
+      "message": "Solid Black"
+   },
+   "special": {
+      "message": "Toto jespeciální stránka . "
+   },
+   "text": {
+      "message": "text"
+   },
+   "tip_copy_failed": {
+      "message": "Nepodařilo se zkopírovat screenshot ."
+   },
+   "tip_copy_succeed": {
+      "message": "Screenshot kopírovat."
+   },
+   "unknown_error": {
+      "message": "Neznámá chyba ."
+   },
+   "upload_sites_header": {
+      "message": "Share Obrázek k"
+   },
+   "user_authentication_tip": {
+      "message": "Uživatel ověřovací , čekejte prosím ..."
+   },
+   "user_denied": {
+      "message": "Uživatel popřel ."
+   },
+   "user_logout_tip": {
+      "message": "Odhlášení , čekejte prosím ..."
+   }
+}

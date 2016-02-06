@@ -1,0 +1,245 @@
+{
+"account_deletion_confirm": {
+"message": "Quapropter vis tollere ?"
+},
+"appDesc": {
+"message": "Excipio visibilis tab contentum , regionem paginam Totam aut ut PNG imago . "
+},
+"autosave": {
+"message": "Autosave - post captam , et bypass edendis directe nisi in screen imaginem cepit, cum web page title ut default locus lima ut default nomen"
+},
+"bad_access_token": {
+"message": "Aliquam et Thochen Access ."
+},
+"blur": {
+"message": "LABES"
+},
+"border": {
+"message": "Tantum Evagina Border"
+},
+"cancel": {
+"message": "Cancel"
+},
+"capture_area": {
+"message": "Excipio Page Region"
+},
+"capture_screen": {
+"message": "Excipio Region Screen"
+},
+"capture_tip": {
+"message": "Extraho quod Excipio ( Exit ad Esc Press )"
+},
+"capture_webpage": {
+"message": "Whole Page Excipio"
+},
+"capture_window": {
+"message": "Excipio Visibilis Content"
+},
+"capturing": {
+"message": "Capto , please wait ..."
+},
+"close": {
+"message": "Close"
+},
+"close_upload_wrapper": {
+"message": "Close"
+},
+"copy": {
+"message": "Copy"
+},
+"default_title": {
+"message": "Excipio Screen"
+},
+"deletion_title": {
+"message": "aufero propter"
+},
+"edit_tip": {
+"message": "Subter est a screenshot cepisti . "
+},
+"extensionName": {
+"message": "Excipio Screenshot ( melior quam a Google )"
+},
+"facebook_get_photo_link": {
+"message": "Retrieving ... image"
+},
+"facebook_upload_header": {
+"message": "Facebook"
+},
+"failed_to_connect_to_server": {
+"message": "Potest non coniungere ad server ."
+},
+"failed_to_get_photo_link": {
+"message": "Deficio reciperare photo link."
+},
+"failed_to_get_user_info": {
+"message": "Get user notitia defecit, postea ."
+},
+"failed_to_register_hot_key_for_screen_capture": {
+"message": "Nam commemoratus est a brevis Excipio Screen Region alius application . "
+},
+"failed_to_upload_image": {
+"message": "Deficio fasciculos ad imaginem Aliquam elit."
+},
+"failure_to_create_album": {
+"message": "Album facere potuit , Aliquam elit."
+},
+"highlight": {
+"message": "Highlight"
+},
+"hot_key_conflict": {
+"message": "Shortcuts certamen ."
+},
+"image_caption": {
+"message": "Image Title"
+},
+"invalid_album_id": {
+"message": "Album non invenit ."
+},
+"invalid_caption": {
+"message": "Image title requiritur ."
+},
+"line": {
+"message": "versus"
+},
+"loading": {
+"message": "Pagina est oneratisque sede ."
+},
+"lossless": {
+"message": "lossless screenshot"
+},
+"lossy": {
+"message": "Lossy screenshot"
+},
+"ok": {
+"message": "CALLIDE"
+},
+"open_save_path": {
+"message": "Vade ad folder"
+},
+"option": {
+"message": "Options"
+},
+"options": {
+"message": "Excipio Options Screen"
+},
+"photo_link_text": {
+"message": "Reprehendo Image"
+},
+"photo_size_tip": {
+"message": "Itaque nobis non licet maior quam imaginem impones 3m bytes."
+},
+"picasa_upload_header": {
+"message": "Web Picasa"
+},
+"print": {
+"message": "Print"
+},
+"progress_info": {
+"message": "Image uploading, please wait ..."
+},
+"quality_setting": {
+"message": "Quality Occasus Screenshot :"
+},
+"rect": {
+"message": "Imple inter omnes Orientales"
+},
+"redact": {
+"message": "Redactionem"
+},
+"return_to_site_selection": {
+"message": "Back"
+},
+"save": {
+"message": "Save"
+},
+"save_and_close": {
+"message": "Salvum fac \u0026 Close"
+},
+"save_fail": {
+"message": "Deficio in tortor nisi ."
+},
+"save_image": {
+"message": "Save Image"
+},
+"save_setting": {
+"message": "Save Occasus Screenshot :"
+},
+"save_success": {
+"message": "Screenshot salvari ."
+},
+"save_tip": {
+"message": "Default servo locus :"
+},
+"saved_to_path": {
+"message": "Et salva facta est ad screenshot"
+},
+"set_save_path": {
+"message": "Browse ..."
+},
+"set_save_path_title": {
+"message": "Default Select Save Location"
+},
+"share": {
+"message": "Share"
+},
+"share_to": {
+"message": "Share to"
+},
+"share_to_facebook_account": {
+"message": "Partis vestri Facebook ad rationem"
+},
+"share_to_other_account": {
+"message": "Share Aliud"
+},
+"share_to_picasa_account": {
+"message": "Partis vestri ad Web pro Picasa"
+},
+"shortcut_setting": {
+"message": "Brevis Occasus :"
+},
+"shortcutsetting_text": {
+"message": "Enable claviaturae"
+},
+"size_huge": {
+"message": "Ingens"
+},
+"size_large": {
+"message": "Large"
+},
+"size_normal": {
+"message": "Normal"
+},
+"size_small": {
+"message": "Small"
+},
+"solid_black": {
+"message": "Solidum Niger"
+},
+"special": {
+"message": "Hoc est peculiaris page . "
+},
+"text": {
+"message": "Text"
+},
+"tip_copy_failed": {
+"message": "Deficio ut effingo screenshot ."
+},
+"tip_copy_succeed": {
+"message": "Screenshot transtulerunt ."
+},
+"unknown_error": {
+"message": "Unknown error ."
+},
+"upload_sites_header": {
+"message": "Share Image"
+},
+"user_authentication_tip": {
+"message": "User authenticating , please wait ..."
+},
+"user_denied": {
+"message": "User negavit ."
+},
+"user_logout_tip": {
+"message": "Signans de sede ..."
+}
+}

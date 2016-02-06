@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "Bu hesabı kaldırmak istiyor musunuz ?"
+   },
+   "appDesc": {
+      "message": "PNG görüntü olarak bir sekme , bir web sayfasının bir bölge , ya da tam sayfa görünür içeriğini yakalayın . "
+   },
+   "autosave": {
+      "message": "Otomatik kaydetme - doğrudan yakalama , bypass düzenleme ekran ve sonra varsayılan dosya adı olarak web sayfası başlığı ile varsayılan konuma yakalanan görüntüyü kaydetmek"
+   },
+   "bad_access_token": {
+      "message": "Geçersiz Erişim Jetonu ."
+   },
+   "blur": {
+      "message": "bulanıklık"
+   },
+   "border": {
+      "message": "Beraberlik Sınır Sadece"
+   },
+   "cancel": {
+      "message": "iptal"
+   },
+   "capture_area": {
+      "message": "Sayfa Region Yakalama"
+   },
+   "capture_screen": {
+      "message": "Ekran Yakalama Bölge"
+   },
+   "capture_tip": {
+      "message": "Sürükle ve Yakalama ( Esc tuşuna basın Exit )"
+   },
+   "capture_webpage": {
+      "message": "Tüm Page Yakalama"
+   },
+   "capture_window": {
+      "message": "Görünür İçerik Yakalama"
+   },
+   "capturing": {
+      "message": "Yakalama , lütfen bekleyin ..."
+   },
+   "close": {
+      "message": "yakın"
+   },
+   "close_upload_wrapper": {
+      "message": "yakın"
+   },
+   "copy": {
+      "message": "kopya"
+   },
+   "default_title": {
+      "message": "ekran Yakalama"
+   },
+   "deletion_title": {
+      "message": "hesabı kaldır"
+   },
+   "edit_tip": {
+      "message": "Aşağıda yakalanan ekran görüntüsü . "
+   },
+   "extensionName": {
+      "message": "Ekran Yakalama ( Google'ın daha iyi )"
+   },
+   "facebook_get_photo_link": {
+      "message": "Görüntü bağlantısını alınıyor ..."
+   },
+   "facebook_upload_header": {
+      "message": "facebook"
+   },
+   "failed_to_connect_to_server": {
+      "message": "Sunucuya bağlanamıyor ."
+   },
+   "failed_to_get_photo_link": {
+      "message": "Fotoğraf bağlantısını alınamadı ."
+   },
+   "failed_to_get_user_info": {
+      "message": "Kullanıcı bilgileri başarısız olsun , sonra tekrar deneyin ."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "Ekran Yakalama Bölgesi için kısayol başka bir uygulama tarafından tescil edilmiştir . "
+   },
+   "failed_to_upload_image": {
+      "message": "Görüntüyü yüklenemedi , daha sonra tekrar deneyin ."
+   },
+   "failure_to_create_album": {
+      "message": "Albüm oluşturulamadı , daha sonra tekrar deneyin ."
+   },
+   "highlight": {
+      "message": "Vurgu"
+   },
+   "hot_key_conflict": {
+      "message": "Kısayollar çatışma ."
+   },
+   "image_caption": {
+      "message": "görüntü Adı"
+   },
+   "invalid_album_id": {
+      "message": "Albüm bulunamadı ."
+   },
+   "invalid_caption": {
+      "message": "Resim başlığı gereklidir ."
+   },
+   "line": {
+      "message": "çizgi"
+   },
+   "loading": {
+      "message": "Sayfa , lütfen bekleyin yükleniyor ."
+   },
+   "lossless": {
+      "message": "kayıpsız ekran"
+   },
+   "lossy": {
+      "message": "kayıplı ekran"
+   },
+   "ok": {
+      "message": "TAMAM"
+   },
+   "open_save_path": {
+      "message": "Klasöre git"
+   },
+   "option": {
+      "message": "Seçenekler"
+   },
+   "options": {
+      "message": "Ekran Yakalama Seçenekleri"
+   },
+   "photo_link_text": {
+      "message": "Resmi kontrol"
+   },
+   "photo_size_tip": {
+      "message": "İpucu: 3M bayt daha büyük bir görüntü yüklemek için başarısız olabilir ."
+   },
+   "picasa_upload_header": {
+      "message": "Picasa Web"
+   },
+   "print": {
+      "message": "baskı"
+   },
+   "progress_info": {
+      "message": "Görüntü yükleme , lütfen bekleyin ..."
+   },
+   "quality_setting": {
+      "message": "Ekran Kalitesi Ayarları :"
+   },
+   "rect": {
+      "message": "Tüm Alan doldurun"
+   },
+   "redact": {
+      "message": "yazıya dökmek"
+   },
+   "return_to_site_selection": {
+      "message": "geri"
+   },
+   "save": {
+      "message": "kaydet"
+   },
+   "save_and_close": {
+      "message": "Kaydet ve Kapat"
+   },
+   "save_fail": {
+      "message": "Ekran görüntüsü kaydedilemedi ."
+   },
+   "save_image": {
+      "message": "Görüntüyü Kaydet"
+   },
+   "save_setting": {
+      "message": "Ekran Ayarları Kaydet :"
+   },
+   "save_success": {
+      "message": "Ekran görüntüsü kaydedildi ."
+   },
+   "save_tip": {
+      "message": "Varsayılan kaydetme konumu :"
+   },
+   "saved_to_path": {
+      "message": "Ekran görüntüsü kaydedildi"
+   },
+   "set_save_path": {
+      "message": "Araştır ..."
+   },
+   "set_save_path_title": {
+      "message": "Seçin Standart Yer kaydet"
+   },
+   "share": {
+      "message": "pay"
+   },
+   "share_to": {
+      "message": "Paylaş"
+   },
+   "share_to_facebook_account": {
+      "message": "Facebook hesabınıza paylaş"
+   },
+   "share_to_other_account": {
+      "message": "Başka bir hesaba Paylaş"
+   },
+   "share_to_picasa_account": {
+      "message": "Picasa Web hesabınıza paylaş"
+   },
+   "shortcut_setting": {
+      "message": "Kısayol Ayarları :"
+   },
+   "shortcutsetting_text": {
+      "message": "Klavye kısayollarını etkinleştirin"
+   },
+   "size_huge": {
+      "message": "dev"
+   },
+   "size_large": {
+      "message": "büyük"
+   },
+   "size_normal": {
+      "message": "normal"
+   },
+   "size_small": {
+      "message": "küçük"
+   },
+   "solid_black": {
+      "message": "katı Siyah"
+   },
+   "special": {
+      "message": "Bu özel bir sayfadır . "
+   },
+   "text": {
+      "message": "metin"
+   },
+   "tip_copy_failed": {
+      "message": "Ekran görüntüsü kopyalamak için başarısız oldu ."
+   },
+   "tip_copy_succeed": {
+      "message": "Ekran kopyalandı."
+   },
+   "unknown_error": {
+      "message": "Bilinmeyen bir hata ."
+   },
+   "upload_sites_header": {
+      "message": "Share Görüntü"
+   },
+   "user_authentication_tip": {
+      "message": "Kullanıcı kimlik doğrulama , lütfen bekleyin ..."
+   },
+   "user_denied": {
+      "message": "Kullanıcı reddedildi ."
+   },
+   "user_logout_tip": {
+      "message": "Dışarı imzalanması , lütfen bekleyin ..."
+   }
+}

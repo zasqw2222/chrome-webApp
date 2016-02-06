@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "Haluatko poistaa tämän tilin ?"
+   },
+   "appDesc": {
+      "message": "Capture näkyvä sisältövälilehti ,alueweb-sivun, taikoko sivunPNG . "
+   },
+   "autosave": {
+      "message": "Automaattinen tallennus - pyynnin jälkeen ohituksen muokkausnäytössä ja suoraan tallentaaotettuja kuviaoletuksena sijaintisivun otsikko Oletustiedostonimi"
+   },
+   "bad_access_token": {
+      "message": "Virheellinen Access Token ."
+   },
+   "blur": {
+      "message": "hämärtää"
+   },
+   "border": {
+      "message": "Piirrä Border Vain"
+   },
+   "cancel": {
+      "message": "peruuttaa"
+   },
+   "capture_area": {
+      "message": "Capture Page Alue"
+   },
+   "capture_screen": {
+      "message": "Capture Screen Alue"
+   },
+   "capture_tip": {
+      "message": "Vedä ja Capture ( Lopeta painamalla Esc )"
+   },
+   "capture_webpage": {
+      "message": "Capture Koko sivu"
+   },
+   "capture_window": {
+      "message": "Capture näkyvä sisältö"
+   },
+   "capturing": {
+      "message": "Kaappaaminen , odota ..."
+   },
+   "close": {
+      "message": "lähellä"
+   },
+   "close_upload_wrapper": {
+      "message": "lähellä"
+   },
+   "copy": {
+      "message": "kopio"
+   },
+   "default_title": {
+      "message": "screen Capture"
+   },
+   "deletion_title": {
+      "message": "Poista tili"
+   },
+   "edit_tip": {
+      "message": "Alla onkuvakaappaus kiinni . "
+   },
+   "extensionName": {
+      "message": "Kuvaotos ( Parempi kuin Googlen )"
+   },
+   "facebook_get_photo_link": {
+      "message": "Haetaan kuva linkki ..."
+   },
+   "facebook_upload_header": {
+      "message": "Facebook"
+   },
+   "failed_to_connect_to_server": {
+      "message": "Ei voi yhdistää palvelimeen ."
+   },
+   "failed_to_get_photo_link": {
+      "message": "Noutaminen epäonnistui kuva linkki ."
+   },
+   "failed_to_get_user_info": {
+      "message": "Get käyttäjätiedot epäonnistui, yritä myöhemmin uudelleen ."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "Oikotie Capture Screen alue on rekisteröity toisen sovelluksen . "
+   },
+   "failed_to_upload_image": {
+      "message": "Epäonnistui lähetä kuva , yritä myöhemmin uudelleen ."
+   },
+   "failure_to_create_album": {
+      "message": "Luominen epäonnistui albumin , yritä myöhemmin uudelleen ."
+   },
+   "highlight": {
+      "message": "kohokohta"
+   },
+   "hot_key_conflict": {
+      "message": "Pikakuvakkeet konflikti ."
+   },
+   "image_caption": {
+      "message": "Kuvan nimi"
+   },
+   "invalid_album_id": {
+      "message": "Albumi ei löytynyt ."
+   },
+   "invalid_caption": {
+      "message": "Kuvan nimi vaaditaan ."
+   },
+   "line": {
+      "message": "linja"
+   },
+   "loading": {
+      "message": "Sivu latautuu , odota."
+   },
+   "lossless": {
+      "message": "Lossless kuvakaappaus"
+   },
+   "lossy": {
+      "message": "häviöllinen kuvakaappaus"
+   },
+   "ok": {
+      "message": "kunnossa"
+   },
+   "open_save_path": {
+      "message": "Siirry kansioon"
+   },
+   "option": {
+      "message": "Vaihtoehdot"
+   },
+   "options": {
+      "message": "Screen Capture Options"
+   },
+   "photo_link_text": {
+      "message": "TarkistaImage"
+   },
+   "photo_size_tip": {
+      "message": "Vihje : Voit jättää lataa kuva isompi kuin 3M tavua ."
+   },
+   "picasa_upload_header": {
+      "message": "Picasa Web"
+   },
+   "print": {
+      "message": "painatus"
+   },
+   "progress_info": {
+      "message": "Kuvien latausta , odota hetki ..."
+   },
+   "quality_setting": {
+      "message": "Screenshot Laatu Asetukset :"
+   },
+   "rect": {
+      "message": "Täytä koko alue"
+   },
+   "redact": {
+      "message": "redact"
+   },
+   "return_to_site_selection": {
+      "message": "takaisin"
+   },
+   "save": {
+      "message": "Tallenna"
+   },
+   "save_and_close": {
+      "message": "Tallenna & Sulje"
+   },
+   "save_fail": {
+      "message": "Tallennus epäonnistuikuvakaappaus."
+   },
+   "save_image": {
+      "message": "Tallenna kuva"
+   },
+   "save_setting": {
+      "message": "Screenshot Tallenna asetukset :"
+   },
+   "save_success": {
+      "message": "Kuvakaappaus tallennettu ."
+   },
+   "save_tip": {
+      "message": "Oletustallennussijainti :"
+   },
+   "saved_to_path": {
+      "message": "Kuvakaappaus on tallennettu"
+   },
+   "set_save_path": {
+      "message": "Selaa ..."
+   },
+   "set_save_path_title": {
+      "message": "Valitse oletustallennussijainti"
+   },
+   "share": {
+      "message": "osuus"
+   },
+   "share_to": {
+      "message": "Jaa"
+   },
+   "share_to_facebook_account": {
+      "message": "Jaa Facebook-tilillesi"
+   },
+   "share_to_other_account": {
+      "message": "Jaa toiselle tilille"
+   },
+   "share_to_picasa_account": {
+      "message": "Jaa Picasa Web tili"
+   },
+   "shortcut_setting": {
+      "message": "Oikotie asetukset :"
+   },
+   "shortcutsetting_text": {
+      "message": "Ota pikanäppäimet"
+   },
+   "size_huge": {
+      "message": "valtava"
+   },
+   "size_large": {
+      "message": "suuri"
+   },
+   "size_normal": {
+      "message": "normaali"
+   },
+   "size_small": {
+      "message": "pieni"
+   },
+   "solid_black": {
+      "message": "Solid Musta"
+   },
+   "special": {
+      "message": "Tämä onerityinen sivu . "
+   },
+   "text": {
+      "message": "teksti"
+   },
+   "tip_copy_failed": {
+      "message": "Kopiointi epäonnistuikuvakaappaus."
+   },
+   "tip_copy_succeed": {
+      "message": "Screenshot kopioida ."
+   },
+   "unknown_error": {
+      "message": "Tuntematon virhe ."
+   },
+   "upload_sites_header": {
+      "message": "Jaa Image"
+   },
+   "user_authentication_tip": {
+      "message": "Käyttäjän Todennusmoduuli , odota hetki ..."
+   },
+   "user_denied": {
+      "message": "Käyttäjä estetty."
+   },
+   "user_logout_tip": {
+      "message": "Kirjautuminen ulos , odota hetki ..."
+   }
+}

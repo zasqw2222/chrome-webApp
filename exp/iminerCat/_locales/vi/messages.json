@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "Bạn có muốn xóa tài khoản này ?"
+   },
+   "appDesc": {
+      "message": "Chụp nội dung hiển thị trong một tab , một khu vực của một trang web , hoặc toàn bộ trang như là một hình ảnh PNG . "
+   },
+   "autosave": {
+      "message": "Tự động - sau khi chụp, màn hình chỉnh sửa trực tiếp bỏ qua và lưu hình ảnh đến vị trí mặc định với các tiêu đề trang web như tên tập tin mặc định"
+   },
+   "bad_access_token": {
+      "message": "Mã truy cập không hợp lệ ."
+   },
+   "blur": {
+      "message": "Blur"
+   },
+   "border": {
+      "message": "Chỉ vẽ biên giới"
+   },
+   "cancel": {
+      "message": "hủy bỏ"
+   },
+   "capture_area": {
+      "message": "Chụp Region trang"
+   },
+   "capture_screen": {
+      "message": "Capture Screen Region"
+   },
+   "capture_tip": {
+      "message": "Kéo và Capture (Nhấn Esc để thoát )"
+   },
+   "capture_webpage": {
+      "message": "Chụp Tổng số trang"
+   },
+   "capture_window": {
+      "message": "Chụp Content Visible"
+   },
+   "capturing": {
+      "message": "Capturing , vui lòng đợi ..."
+   },
+   "close": {
+      "message": "gần"
+   },
+   "close_upload_wrapper": {
+      "message": "gần"
+   },
+   "copy": {
+      "message": "bản sao"
+   },
+   "default_title": {
+      "message": "Screen Capture"
+   },
+   "deletion_title": {
+      "message": "Xóa tài khoản"
+   },
+   "edit_tip": {
+      "message": "Dưới đây là ảnh chụp màn hình bạn đã chụp . "
+   },
+   "extensionName": {
+      "message": "Chụp ảnh màn hình ( Tốt hơn so với Google )"
+   },
+   "facebook_get_photo_link": {
+      "message": "Lấy link ảnh ..."
+   },
+   "facebook_upload_header": {
+      "message": "Facebook"
+   },
+   "failed_to_connect_to_server": {
+      "message": "Không thể kết nối đến máy chủ ."
+   },
+   "failed_to_get_photo_link": {
+      "message": "Không thể lấy link ảnh ."
+   },
+   "failed_to_get_user_info": {
+      "message": "Nhận thông tin người dùng không thành , vui lòng thử lại sau ."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "Các phím tắt cho Region Capture Screen được đăng ký bởi một ứng dụng khác . "
+   },
+   "failed_to_upload_image": {
+      "message": "Không thể tải lên hình ảnh , xin vui lòng thử lại sau ."
+   },
+   "failure_to_create_album": {
+      "message": "Không thể tạo album , vui lòng thử lại sau ."
+   },
+   "highlight": {
+      "message": "highlight"
+   },
+   "hot_key_conflict": {
+      "message": "Xung đột Shortcuts."
+   },
+   "image_caption": {
+      "message": "image Title"
+   },
+   "invalid_album_id": {
+      "message": "Album không được tìm thấy."
+   },
+   "invalid_caption": {
+      "message": "Tiêu đề của hình là cần thiết ."
+   },
+   "line": {
+      "message": "hàng"
+   },
+   "loading": {
+      "message": "Các trang đang tải, xin vui lòng chờ đợi ."
+   },
+   "lossless": {
+      "message": "screenshot lossless"
+   },
+   "lossy": {
+      "message": "screenshot lossy"
+   },
+   "ok": {
+      "message": "tốt"
+   },
+   "open_save_path": {
+      "message": "Tới thư mục"
+   },
+   "option": {
+      "message": "Tùy chọn"
+   },
+   "options": {
+      "message": "Screen Capture Tùy chọn"
+   },
+   "photo_link_text": {
+      "message": "Kiểm tra các hình ảnh"
+   },
+   "photo_size_tip": {
+      "message": "Gợi ý : Bạn có thể thất bại để tải lên một hình ảnh lớn hơn 3M bytes ."
+   },
+   "picasa_upload_header": {
+      "message": "Web Picasa"
+   },
+   "print": {
+      "message": "in"
+   },
+   "progress_info": {
+      "message": "Hình ảnh tải lên , vui lòng đợi ..."
+   },
+   "quality_setting": {
+      "message": "Ảnh chụp màn hình Cài đặt chất lượng:"
+   },
+   "rect": {
+      "message": "Điền Toàn bộ Area"
+   },
+   "redact": {
+      "message": "biên tập"
+   },
+   "return_to_site_selection": {
+      "message": "trở lại"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "save_and_close": {
+      "message": "Lưu & Đóng"
+   },
+   "save_fail": {
+      "message": "Không thể lưu ảnh chụp màn hình ."
+   },
+   "save_image": {
+      "message": "Save Image"
+   },
+   "save_setting": {
+      "message": "Screenshot Save Settings:"
+   },
+   "save_success": {
+      "message": "Ảnh chụp màn hình được lưu ."
+   },
+   "save_tip": {
+      "message": "Mặc định vị trí lưu :"
+   },
+   "saved_to_path": {
+      "message": "Các ảnh chụp màn hình đã được lưu vào"
+   },
+   "set_save_path": {
+      "message": "Duyệt ..."
+   },
+   "set_save_path_title": {
+      "message": "Chọn Mặc định Save Location"
+   },
+   "share": {
+      "message": "phần"
+   },
+   "share_to": {
+      "message": "Chia sẻ lên"
+   },
+   "share_to_facebook_account": {
+      "message": "Chia sẻ lên tài khoản Facebook của bạn"
+   },
+   "share_to_other_account": {
+      "message": "Chia sẻ tài khoản khác"
+   },
+   "share_to_picasa_account": {
+      "message": "Chia sẻ tài khoản Web Picasa của bạn"
+   },
+   "shortcut_setting": {
+      "message": "Cài đặt phím tắt :"
+   },
+   "shortcutsetting_text": {
+      "message": "Bật phím tắt"
+   },
+   "size_huge": {
+      "message": "khổng lồ"
+   },
+   "size_large": {
+      "message": "lớn"
+   },
+   "size_normal": {
+      "message": "bình thường"
+   },
+   "size_small": {
+      "message": "nhỏ"
+   },
+   "solid_black": {
+      "message": "rắn đen"
+   },
+   "special": {
+      "message": "Đây là một trang đặc biệt. "
+   },
+   "text": {
+      "message": "bản văn"
+   },
+   "tip_copy_failed": {
+      "message": "Không thể sao chép các ảnh chụp màn hình ."
+   },
+   "tip_copy_succeed": {
+      "message": "Ảnh chụp màn hình sao chép."
+   },
+   "unknown_error": {
+      "message": "Lỗi không xác định ."
+   },
+   "upload_sites_header": {
+      "message": "Chia sẻ hình ảnh Để"
+   },
+   "user_authentication_tip": {
+      "message": "Ký xác nhận, xin vui lòng chờ ..."
+   },
+   "user_denied": {
+      "message": "Người dùng từ chối."
+   },
+   "user_logout_tip": {
+      "message": "Ký ra , xin vui lòng chờ ..."
+   }
+}

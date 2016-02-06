@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "Ви дійсно хочете видалити цей аккаунт?"
+   },
+   "appDesc": {
+      "message": "Захоплення видимого вмісту вкладки, в області веб- сторінки, або всієї сторінки в зображення PNG. "
+   },
+   "autosave": {
+      "message": "Автозбереження - після захоплення , екран редагування байпаса і відразу зберегти захоплене зображення в папку за замовчуванням з назвою веб -сторінки в якості імені файлу за замовчуванням"
+   },
+   "bad_access_token": {
+      "message": "Невірний маркер доступу."
+   },
+   "blur": {
+      "message": "пляма"
+   },
+   "border": {
+      "message": "Малювати рамку тільки"
+   },
+   "cancel": {
+      "message": "Скасувати"
+   },
+   "capture_area": {
+      "message": "Захоплення сторінку Регіон"
+   },
+   "capture_screen": {
+      "message": "Захоплення екрану Регіон"
+   },
+   "capture_tip": {
+      "message": "Перетягніть і Capture (Натисніть Esc для виходу )"
+   },
+   "capture_webpage": {
+      "message": "Захоплення всій сторінці"
+   },
+   "capture_window": {
+      "message": "Захоплення видимого вмісту"
+   },
+   "capturing": {
+      "message": "Захоплення , будь ласка , зачекайте ..."
+   },
+   "close": {
+      "message": "близько"
+   },
+   "close_upload_wrapper": {
+      "message": "близько"
+   },
+   "copy": {
+      "message": "копія"
+   },
+   "default_title": {
+      "message": "Screen Capture"
+   },
+   "deletion_title": {
+      "message": "видалити акаунт"
+   },
+   "edit_tip": {
+      "message": "Нижче на малюнку ви захоплені в полон. "
+   },
+   "extensionName": {
+      "message": "Скріншот Захоплення ( краще, ніж Google , )"
+   },
+   "facebook_get_photo_link": {
+      "message": "Отримання посилання на зображення ..."
+   },
+   "facebook_upload_header": {
+      "message": "Facebook"
+   },
+   "failed_to_connect_to_server": {
+      "message": "Не вдається підключитися до сервера."
+   },
+   "failed_to_get_photo_link": {
+      "message": "Не вдалося отримати фото посилання ."
+   },
+   "failed_to_get_user_info": {
+      "message": "Отримати інформацію про користувачів не вдалася , спробуйте ще раз пізніше."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "Ярлик для захоплення екрану області зареєстровано іншим додатком . "
+   },
+   "failed_to_upload_image": {
+      "message": "Не вдалося завантажити зображення , повторіть спробу пізніше."
+   },
+   "failure_to_create_album": {
+      "message": "Не вдалося створити альбом, повторіть спробу пізніше."
+   },
+   "highlight": {
+      "message": "основний момент"
+   },
+   "hot_key_conflict": {
+      "message": "Ярлики конфлікт."
+   },
+   "image_caption": {
+      "message": "зображення Назва"
+   },
+   "invalid_album_id": {
+      "message": "Альбом не знайдений."
+   },
+   "invalid_caption": {
+      "message": "Назва зображення не потрібно."
+   },
+   "line": {
+      "message": "лінія"
+   },
+   "loading": {
+      "message": "Сторінка завантажується , будь ласка , зачекайте ."
+   },
+   "lossless": {
+      "message": "Lossless скріншот"
+   },
+   "lossy": {
+      "message": "З втратами скріншот"
+   },
+   "ok": {
+      "message": "ДОБРЕ"
+   },
+   "open_save_path": {
+      "message": "Перейти в папку"
+   },
+   "option": {
+      "message": "опції"
+   },
+   "options": {
+      "message": "Screen Capture параметри"
+   },
+   "photo_link_text": {
+      "message": "Перевірте зображення"
+   },
+   "photo_size_tip": {
+      "message": "Підказка: Ви можете не завантажити зображення більшого, ніж 3М байт ."
+   },
+   "picasa_upload_header": {
+      "message": "веб- альбоми Picasa"
+   },
+   "print": {
+      "message": "Друк"
+   },
+   "progress_info": {
+      "message": "Зображення завантаження, будь ласка , зачекайте ..."
+   },
+   "quality_setting": {
+      "message": "Скріншот Налаштування якості:"
+   },
+   "rect": {
+      "message": "Заповніть всю область"
+   },
+   "redact": {
+      "message": "редагувати"
+   },
+   "return_to_site_selection": {
+      "message": "назад"
+   },
+   "save": {
+      "message": "зберегти"
+   },
+   "save_and_close": {
+      "message": "Зберегти та Закрити"
+   },
+   "save_fail": {
+      "message": "Не вдалося зберегти скріншот."
+   },
+   "save_image": {
+      "message": "зберегти зображення"
+   },
+   "save_setting": {
+      "message": "Скріншот Save Settings :"
+   },
+   "save_success": {
+      "message": "Скріншот зберігається."
+   },
+   "save_tip": {
+      "message": "За замовчуванням місце збереження :"
+   },
+   "saved_to_path": {
+      "message": "Скріншот був збережений"
+   },
+   "set_save_path": {
+      "message": "Огляд ..."
+   },
+   "set_save_path_title": {
+      "message": "Виберіть місце збереження за замовчуванням"
+   },
+   "share": {
+      "message": "частка"
+   },
+   "share_to": {
+      "message": "Поділитися в"
+   },
+   "share_to_facebook_account": {
+      "message": "Поділіться з Вашого рахунку Facebook"
+   },
+   "share_to_other_account": {
+      "message": "Поділитися на інший рахунок"
+   },
+   "share_to_picasa_account": {
+      "message": "Поділіться з веб -рахунки Picasa"
+   },
+   "shortcut_setting": {
+      "message": "Поєднання налаштувань :"
+   },
+   "shortcutsetting_text": {
+      "message": "Включити швидкі клавіші"
+   },
+   "size_huge": {
+      "message": "величезний"
+   },
+   "size_large": {
+      "message": "великий"
+   },
+   "size_normal": {
+      "message": "нормальний"
+   },
+   "size_small": {
+      "message": "невеликий"
+   },
+   "solid_black": {
+      "message": "Solid Black"
+   },
+   "special": {
+      "message": "Це спеціальне сторінки. "
+   },
+   "text": {
+      "message": "текст"
+   },
+   "tip_copy_failed": {
+      "message": "Не вдалося скопіювати скріншот."
+   },
+   "tip_copy_succeed": {
+      "message": "Скріншот скопійовані ."
+   },
+   "unknown_error": {
+      "message": "Невідома помилка ."
+   },
+   "upload_sites_header": {
+      "message": "Share Збільшення Для"
+   },
+   "user_authentication_tip": {
+      "message": "Аутентифікації користувача , будь ласка , зачекайте ..."
+   },
+   "user_denied": {
+      "message": "Користувач відмовлено."
+   },
+   "user_logout_tip": {
+      "message": "Підписання з , будь ласка , зачекайте ..."
+   }
+}
