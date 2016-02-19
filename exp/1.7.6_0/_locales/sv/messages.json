@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "Vill du ta bort det här kontot ?"
+   },
+   "appDesc": {
+      "message": "Fånga synliga innehållet i en flik , en region i en webbsida , eller hela sidan som en PNG-bild . "
+   },
+   "autosave": {
+      "message": "Spara automatiskt - efter fångsten, bypass redigeringsskärmen och direkt spara den tagna bilden till standardplatsen med webbsidan titel som standard filnamn"
+   },
+   "bad_access_token": {
+      "message": "Ogiltig åtkomsttoken ."
+   },
+   "blur": {
+      "message": "Blur"
+   },
+   "border": {
+      "message": "Bara dra Border"
+   },
+   "cancel": {
+      "message": "avboka"
+   },
+   "capture_area": {
+      "message": "Fånga Page Region"
+   },
+   "capture_screen": {
+      "message": "Capture Screen Region"
+   },
+   "capture_tip": {
+      "message": "Dra och Capture ( Tryck på Esc för att avsluta )"
+   },
+   "capture_webpage": {
+      "message": "Fånga Helsida"
+   },
+   "capture_window": {
+      "message": "Fånga Synlig innehåll"
+   },
+   "capturing": {
+      "message": "Fånga , var god vänta ..."
+   },
+   "close": {
+      "message": "Stäng"
+   },
+   "close_upload_wrapper": {
+      "message": "Stäng"
+   },
+   "copy": {
+      "message": "kopia"
+   },
+   "default_title": {
+      "message": "Screen Capture"
+   },
+   "deletion_title": {
+      "message": "Ta bort konto"
+   },
+   "edit_tip": {
+      "message": "Nedan finns skärmdumpen du fångat . "
+   },
+   "extensionName": {
+      "message": "Skärmdump Capture ( Bättre än Googles )"
+   },
+   "facebook_get_photo_link": {
+      "message": "Hämtar bildlänk..."
+   },
+   "facebook_upload_header": {
+      "message": "Facebook"
+   },
+   "failed_to_connect_to_server": {
+      "message": "Kan inte ansluta till servern ."
+   },
+   "failed_to_get_photo_link": {
+      "message": "Det gick inte att hämta foto länk ."
+   },
+   "failed_to_get_user_info": {
+      "message": "Få användarinformation misslyckades, försök igen senare ."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "Genvägen till Capture Screen Region registreras av ett annat program . "
+   },
+   "failed_to_upload_image": {
+      "message": "Det gick inte att ladda upp bild , försök igen senare ."
+   },
+   "failure_to_create_album": {
+      "message": "Det gick inte att skapa album , försök igen senare ."
+   },
+   "highlight": {
+      "message": "Markera"
+   },
+   "hot_key_conflict": {
+      "message": "Short konflikt ."
+   },
+   "image_caption": {
+      "message": "Bild Titel"
+   },
+   "invalid_album_id": {
+      "message": "Album hittades inte ."
+   },
+   "invalid_caption": {
+      "message": "Bildtitelkrävs."
+   },
+   "line": {
+      "message": "linje"
+   },
+   "loading": {
+      "message": "Sidan laddas , var god vänta ."
+   },
+   "lossless": {
+      "message": "Lossless skärmdump"
+   },
+   "lossy": {
+      "message": "lossy skärmdump"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open_save_path": {
+      "message": "Gå till mapp"
+   },
+   "option": {
+      "message": "Val"
+   },
+   "options": {
+      "message": "Screen Capture Alternativ"
+   },
+   "photo_link_text": {
+      "message": "Kontrollera Bild"
+   },
+   "photo_size_tip": {
+      "message": "Tips : Du kan misslyckas med att ladda upp en bild större än 3M byte ."
+   },
+   "picasa_upload_header": {
+      "message": "Picasa Web"
+   },
+   "print": {
+      "message": "Print"
+   },
+   "progress_info": {
+      "message": "Bild uppladdning , var god vänta ..."
+   },
+   "quality_setting": {
+      "message": "Screenkvalitetsinställningar:"
+   },
+   "rect": {
+      "message": "Fyll hela Area"
+   },
+   "redact": {
+      "message": "REDIGERA"
+   },
+   "return_to_site_selection": {
+      "message": "tillbaka"
+   },
+   "save": {
+      "message": "Spara"
+   },
+   "save_and_close": {
+      "message": "Spara och stäng"
+   },
+   "save_fail": {
+      "message": "Det gick inte att spara skärmdumpen ."
+   },
+   "save_image": {
+      "message": "Spara bild"
+   },
+   "save_setting": {
+      "message": "Screen Spara inställningar :"
+   },
+   "save_success": {
+      "message": "Skärmbild sparas."
+   },
+   "save_tip": {
+      "message": "Standard spara plats :"
+   },
+   "saved_to_path": {
+      "message": "Skärmdumpen har sparats"
+   },
+   "set_save_path": {
+      "message": "Bläddra ..."
+   },
+   "set_save_path_title": {
+      "message": "Välj Standard Spara plats"
+   },
+   "share": {
+      "message": "del"
+   },
+   "share_to": {
+      "message": "Dela med"
+   },
+   "share_to_facebook_account": {
+      "message": "Dela med ditt Facebook-konto"
+   },
+   "share_to_other_account": {
+      "message": "Dela till ett annat konto"
+   },
+   "share_to_picasa_account": {
+      "message": "Dela på ditt Picasa Web -konto"
+   },
+   "shortcut_setting": {
+      "message": "Genvägsinställningar :"
+   },
+   "shortcutsetting_text": {
+      "message": "Aktivera kortkommandon"
+   },
+   "size_huge": {
+      "message": "Huge"
+   },
+   "size_large": {
+      "message": "stor"
+   },
+   "size_normal": {
+      "message": "Normal"
+   },
+   "size_small": {
+      "message": "liten"
+   },
+   "solid_black": {
+      "message": "Solid Svart"
+   },
+   "special": {
+      "message": "Detta är en speciell sida . "
+   },
+   "text": {
+      "message": "Text"
+   },
+   "tip_copy_failed": {
+      "message": "Det gick inte att kopiera skärmdumpen ."
+   },
+   "tip_copy_succeed": {
+      "message": "Skärmbild kopieras ."
+   },
+   "unknown_error": {
+      "message": "Okänt fel ."
+   },
+   "upload_sites_header": {
+      "message": "Dela bild till"
+   },
+   "user_authentication_tip": {
+      "message": "Användar autentiserande , var god vänta ..."
+   },
+   "user_denied": {
+      "message": "Användare förnekas ."
+   },
+   "user_logout_tip": {
+      "message": "Logga ut , var god vänta ..."
+   }
+}

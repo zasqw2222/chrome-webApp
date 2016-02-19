@@ -1,0 +1,245 @@
+{
+"account_deletion_confirm": {
+"message": "Do inti tixtieq li tneħħi dan il-kont ?"
+},
+"appDesc": {
+"message": "Qbid kontenut viżibbli ta ' tab , reġjun ta' paġna web , jew il-paġna kollha bħala image PNG . "
+},
+"autosave": {
+"message": "Autosave - wara l-qabda , screen editjar bypass u direttament tiffranka l-immaġini maqbudin għall-post default mat-titolu web page bħala fajl isem default"
+},
+"bad_access_token": {
+"message": "Invalid Aċċess Token ."
+},
+"blur": {
+"message": "ċċajpar"
+},
+"border": {
+"message": "Iġbed Fruntieri Biss"
+},
+"cancel": {
+"message": "Ikkanċella"
+},
+"capture_area": {
+"message": "Qbid Page Reġjun"
+},
+"capture_screen": {
+"message": "Reġjun Screen Qbid"
+},
+"capture_tip": {
+"message": "Drag u Qbid ( Press Esc biex Ħruġ )"
+},
+"capture_webpage": {
+"message": "Qbid Sħiħ Page"
+},
+"capture_window": {
+"message": "Qbid Kontenut Viżibbli"
+},
+"capturing": {
+"message": "Napprofittaw , jekk jogħġbok stenna ..."
+},
+"close": {
+"message": "Agħlaq"
+},
+"close_upload_wrapper": {
+"message": "Agħlaq"
+},
+"copy": {
+"message": "kopja"
+},
+"default_title": {
+"message": "Qbid screen"
+},
+"deletion_title": {
+"message": "Neħħi kont"
+},
+"edit_tip": {
+"message": "Hawn taħt hija l- screenshot inti maqbudin . "
+},
+"extensionName": {
+"message": "Qbid Screenshot ( Aħjar minn Google )"
+},
+"facebook_get_photo_link": {
+"message": "Irkupru link immaġni ..."
+},
+"facebook_upload_header": {
+"message": "Facebook"
+},
+"failed_to_connect_to_server": {
+"message": "Ma jkunux jistgħu jaqbdu server ."
+},
+"failed_to_get_photo_link": {
+"message": "Naqas li tkun irkuprata link photo ."
+},
+"failed_to_get_user_info": {
+"message": "Get informazzjoni lill-utent naqset, jekk jogħġbok erġa 'pprova aktar tard ."
+},
+"failed_to_register_hot_key_for_screen_capture": {
+"message": "Il shortcut għar-Reġjun Qbid Screen hija reġistrata mill applikazzjoni oħra . "
+},
+"failed_to_upload_image": {
+"message": "Naqas li upload immaġini , jekk jogħġbok erġa 'pprova aktar tard ."
+},
+"failure_to_create_album": {
+"message": "Naqas li joħolqu album , jekk jogħġbok erġa 'pprova aktar tard ."
+},
+"highlight": {
+"message": "Highlight"
+},
+"hot_key_conflict": {
+"message": "Kunflitt Shortcuts ."
+},
+"image_caption": {
+"message": "Image Titolu"
+},
+"invalid_album_id": {
+"message": "Album ma nstabx."
+},
+"invalid_caption": {
+"message": "Titlu tal-istampa hija meħtieġa ."
+},
+"line": {
+"message": "line"
+},
+"loading": {
+"message": "Il -paġna huwa tagħbija , jekk jogħġbok stenna ."
+},
+"lossless": {
+"message": "screenshot lossless"
+},
+"lossy": {
+"message": "screenshot lossy"
+},
+"ok": {
+"message": "OK"
+},
+"open_save_path": {
+"message": "Mur folder"
+},
+"option": {
+"message": "għażliet"
+},
+"options": {
+"message": "Għażliet Qbid Screen"
+},
+"photo_link_text": {
+"message": "Iċċekkja l- Image"
+},
+"photo_size_tip": {
+"message": "Ħjiel : Inti jista 'jonqos li ittella immaġini akbar minn bytes 3M ."
+},
+"picasa_upload_header": {
+"message": "Picasa Web"
+},
+"print": {
+"message": "Stampa"
+},
+"progress_info": {
+"message": "Uploading Image , jekk jogħġbok stenna ..."
+},
+"quality_setting": {
+"message": "Screenshot Kwalità Settings :"
+},
+"rect": {
+"message": "Imla Żona totali"
+},
+"redact": {
+"message": "tħejji f'għamla"
+},
+"return_to_site_selection": {
+"message": "back"
+},
+"save": {
+"message": "Save"
+},
+"save_and_close": {
+"message": "Save \u0026 Agħlaq"
+},
+"save_fail": {
+"message": "Naqset biex isalva l- screenshot ."
+},
+"save_image": {
+"message": "Save Image"
+},
+"save_setting": {
+"message": "Screenshot Save Settings :"
+},
+"save_success": {
+"message": "Screenshot ffrankati ."
+},
+"save_tip": {
+"message": "Default ħlief lokazzjoni :"
+},
+"saved_to_path": {
+"message": "Il screenshot ġie salvat lil"
+},
+"set_save_path": {
+"message": "Browse ..."
+},
+"set_save_path_title": {
+"message": "Default Agħżel Save Post"
+},
+"share": {
+"message": "Share"
+},
+"share_to": {
+"message": "Share biex"
+},
+"share_to_facebook_account": {
+"message": "Share lill-kont tiegħek Facebook"
+},
+"share_to_other_account": {
+"message": "Share biex kont ieħor"
+},
+"share_to_picasa_account": {
+"message": "Share lill-kont tiegħek Web Picasa"
+},
+"shortcut_setting": {
+"message": "Settings shortcut :"
+},
+"shortcutsetting_text": {
+"message": "Jippermettu shortcuts tal-keyboard"
+},
+"size_huge": {
+"message": "enormi"
+},
+"size_large": {
+"message": "kbir"
+},
+"size_normal": {
+"message": "normali"
+},
+"size_small": {
+"message": "Żgħar"
+},
+"solid_black": {
+"message": "solidu iswed"
+},
+"special": {
+"message": "Din hija paġna speċjali . "
+},
+"text": {
+"message": "Test"
+},
+"tip_copy_failed": {
+"message": "Naqas li kopja l- screenshot ."
+},
+"tip_copy_succeed": {
+"message": "Screenshot kkupjati ."
+},
+"unknown_error": {
+"message": "Żball Mhux magħruf ."
+},
+"upload_sites_header": {
+"message": "Share Image Biex"
+},
+"user_authentication_tip": {
+"message": "Tawtentika Utent , jekk jogħġbok stenna ..."
+},
+"user_denied": {
+"message": "Utent miċħuda ."
+},
+"user_logout_tip": {
+"message": "Iffirmar out, jekk jogħġbok stenna ..."
+}
+}

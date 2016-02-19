@@ -1,0 +1,245 @@
+{
+"account_deletion_confirm": {
+"message": "Ĉu vi volas forigi ĉi konto ?"
+},
+"appDesc": {
+"message": "Kaptu videbla enhavo de pestaña , regiono de retpaĝo , aŭ la tuta paĝo kiel PNG bildo . "
+},
+"autosave": {
+"message": "Autosave - post preno, bypass redaktado ekranon kaj rekte savi la kaptitan bildon al la defaŭltan lokon kun sxpinajxo paĝtitolon kiel defaŭltan dosiernomo"
+},
+"bad_access_token": {
+"message": "Nevalida Aliro Token ."
+},
+"blur": {
+"message": "Blur"
+},
+"border": {
+"message": "Eltiru Limo Nur"
+},
+"cancel": {
+"message": "Rezignu"
+},
+"capture_area": {
+"message": "Kaptu Paĝo Regiono"
+},
+"capture_screen": {
+"message": "Preno de ekrano Regiono"
+},
+"capture_tip": {
+"message": "Treni kaj Capture ( Gazetaraj Esk por eliri )"
+},
+"capture_webpage": {
+"message": "Kapti tutan paĝon"
+},
+"capture_window": {
+"message": "Kaptu Videbla Enhavo"
+},
+"capturing": {
+"message": "Kaptante , bonvolu atendi ..."
+},
+"close": {
+"message": "Fermi"
+},
+"close_upload_wrapper": {
+"message": "Fermi"
+},
+"copy": {
+"message": "Copy"
+},
+"default_title": {
+"message": "ekrano Kaptas"
+},
+"deletion_title": {
+"message": "forigi konton"
+},
+"edit_tip": {
+"message": "Malsupre estas la ekranfoto vin kaptita. "
+},
+"extensionName": {
+"message": "Ekrankopio Capture ( Pli bonan ol Google )"
+},
+"facebook_get_photo_link": {
+"message": "Ekprenante bildo ligilo ..."
+},
+"facebook_upload_header": {
+"message": "Facebook"
+},
+"failed_to_connect_to_server": {
+"message": "Ne povas konekti al servilo ."
+},
+"failed_to_get_photo_link": {
+"message": "Malsukcesis elsxuti foto ligilon."
+},
+"failed_to_get_user_info": {
+"message": "Get uzanto informo malsukcesis, bonvolu provi denove poste."
+},
+"failed_to_register_hot_key_for_screen_capture": {
+"message": "La ŝparvojo por Capture Screen Regiono estas registrita de alia apliko . "
+},
+"failed_to_upload_image": {
+"message": "Malsukcesis alŝuti bildon , bonvolu reprovi poste."
+},
+"failure_to_create_album": {
+"message": "Fiaskis krei albumon , bonvolu reprovi poste."
+},
+"highlight": {
+"message": "Emfazu"
+},
+"hot_key_conflict": {
+"message": "Ŝparvojoj konflikto ."
+},
+"image_caption": {
+"message": "bildo Titolo"
+},
+"invalid_album_id": {
+"message": "Albumo ne trovita ."
+},
+"invalid_caption": {
+"message": "Bildo titolo estas bezonata ."
+},
+"line": {
+"message": "linio"
+},
+"loading": {
+"message": "La paĝo prepariĝas , bonvolu atendi ."
+},
+"lossless": {
+"message": "Lossless ekranbildo"
+},
+"lossy": {
+"message": "_Lossy_ ekranbildo"
+},
+"ok": {
+"message": "OK"
+},
+"open_save_path": {
+"message": "Iru al leterujo"
+},
+"option": {
+"message": "opcioj"
+},
+"options": {
+"message": "Screen Capture Opcioj"
+},
+"photo_link_text": {
+"message": "Kontrolu la Bildo"
+},
+"photo_size_tip": {
+"message": "Konsileto : Vi povas maltrafi alŝuti bildon pli granda ol 3M bajtoj ."
+},
+"picasa_upload_header": {
+"message": "Picasa retejo"
+},
+"print": {
+"message": "Presi"
+},
+"progress_info": {
+"message": "Bildo uploading, bonvolu atendi ..."
+},
+"quality_setting": {
+"message": "Ekrankopio Kvalito Settings :"
+},
+"rect": {
+"message": "Plenigu Tutaj Areo"
+},
+"redact": {
+"message": "Redact"
+},
+"return_to_site_selection": {
+"message": "reen"
+},
+"save": {
+"message": "Konservi"
+},
+"save_and_close": {
+"message": "Konservu \u0026 Fermi"
+},
+"save_fail": {
+"message": "Malsukcesis konservi la ekranbildo ."
+},
+"save_image": {
+"message": "Konservi Bildo"
+},
+"save_setting": {
+"message": "Ekrankopio Konservi agordon :"
+},
+"save_success": {
+"message": "Ekrankopio savitaj ."
+},
+"save_tip": {
+"message": "Defaŭlta Konservi loko:"
+},
+"saved_to_path": {
+"message": "La ekrankopio estas konservita al"
+},
+"set_save_path": {
+"message": "Foliumu ..."
+},
+"set_save_path_title": {
+"message": "Elektu Defaŭlta Konservi Loko"
+},
+"share": {
+"message": "Konigi"
+},
+"share_to": {
+"message": "Konigi al"
+},
+"share_to_facebook_account": {
+"message": "Kunhavigi al via rakontas de Facebook"
+},
+"share_to_other_account": {
+"message": "Konigi al alia konto"
+},
+"share_to_picasa_account": {
+"message": "Kunhavigi via Picasa Web konto"
+},
+"shortcut_setting": {
+"message": "Ŝparvojo Settings :"
+},
+"shortcutsetting_text": {
+"message": "Ebligu klavaro ŝparvojoj"
+},
+"size_huge": {
+"message": "grandegaj"
+},
+"size_large": {
+"message": "Large"
+},
+"size_normal": {
+"message": "Normala"
+},
+"size_small": {
+"message": "malgrandaj"
+},
+"solid_black": {
+"message": "solida nigra"
+},
+"special": {
+"message": "Tiu estas speciala paĝo . "
+},
+"text": {
+"message": "teksto"
+},
+"tip_copy_failed": {
+"message": "Malsukcesis kopii la ekranbildo ."
+},
+"tip_copy_succeed": {
+"message": "Ekrankopio kopiitaj."
+},
+"unknown_error": {
+"message": "Nekonata eraro ."
+},
+"upload_sites_header": {
+"message": "Konigi bildon"
+},
+"user_authentication_tip": {
+"message": "Uzanto legalizante , bonvolu atendi ..."
+},
+"user_denied": {
+"message": "Uzanto neita."
+},
+"user_logout_tip": {
+"message": "Subskribante ekstere , bonvolu atendi ..."
+}
+}

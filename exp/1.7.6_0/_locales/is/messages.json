@@ -1,0 +1,245 @@
+{
+"account_deletion_confirm": {
+"message": "Viltu fjarlægja þennan reikning ?"
+},
+"appDesc": {
+"message": "Handtaka sýnilega efni á flipanum svæði af a vefur blaðsíða , eða alla síðuna sem PNG mynd. "
+},
+"autosave": {
+"message": "Vista sjálfkrafa - eftir handtaka, framhjá útgáfa skjánum og beint vista myndina í sjálfgefna stað með the vefur blaðsíða titill eins sjálfgefnu skráarheiti"
+},
+"bad_access_token": {
+"message": "Ógildur Aðgangur Token ."
+},
+"blur": {
+"message": "Blur"
+},
+"border": {
+"message": "Draw Border Only"
+},
+"cancel": {
+"message": "Hætta"
+},
+"capture_area": {
+"message": "Handtaka Page Region"
+},
+"capture_screen": {
+"message": "Capture Screen Region"
+},
+"capture_tip": {
+"message": "Draga og Capture ( Press Esc til að fara )"
+},
+"capture_webpage": {
+"message": "Handtaka alla síðuna"
+},
+"capture_window": {
+"message": "Handtaka Birtist efni"
+},
+"capturing": {
+"message": "Handtaka , vinsamlegast bíðið ..."
+},
+"close": {
+"message": "Loka"
+},
+"close_upload_wrapper": {
+"message": "Loka"
+},
+"copy": {
+"message": "Afrita"
+},
+"default_title": {
+"message": "Screen Capture"
+},
+"deletion_title": {
+"message": "fjarlægja reikning"
+},
+"edit_tip": {
+"message": "Hér fyrir neðan er screenshot þú teknar . "
+},
+"extensionName": {
+"message": "Screenshot Capture ( Betri en Google )"
+},
+"facebook_get_photo_link": {
+"message": "Sækir mynd tengil ..."
+},
+"facebook_upload_header": {
+"message": "Facebook"
+},
+"failed_to_connect_to_server": {
+"message": "Get ekki tengst þjóni."
+},
+"failed_to_get_photo_link": {
+"message": "Ekki tókst að sækja mynd tengil ."
+},
+"failed_to_get_user_info": {
+"message": "Fá upplýsingar um notandann ekki, vinsamlegast reyndu aftur síðar ."
+},
+"failed_to_register_hot_key_for_screen_capture": {
+"message": "Flýtileið fyrir Capture Screen svæðinu er skráð í öðru forriti . "
+},
+"failed_to_upload_image": {
+"message": "Ekki tókst að hlaða inn mynd , vinsamlegast reyndu aftur síðar ."
+},
+"failure_to_create_album": {
+"message": "Ekki tókst að búa til albúm , vinsamlegast reyndu aftur síðar ."
+},
+"highlight": {
+"message": "Highlight"
+},
+"hot_key_conflict": {
+"message": "Flýtivísar átök ."
+},
+"image_caption": {
+"message": "Image Title"
+},
+"invalid_album_id": {
+"message": "Album fannst ekki ."
+},
+"invalid_caption": {
+"message": "Titill myndar er krafist."
+},
+"line": {
+"message": "Line"
+},
+"loading": {
+"message": "The blaðsíða er hleðsla , vinsamlegast bíðið ."
+},
+"lossless": {
+"message": "lossless screenshot"
+},
+"lossy": {
+"message": "lossy screenshot"
+},
+"ok": {
+"message": "OK"
+},
+"open_save_path": {
+"message": "Fara í möppu"
+},
+"option": {
+"message": "valkostir"
+},
+"options": {
+"message": "Skjár Handtaka Options"
+},
+"photo_link_text": {
+"message": "Athugaðu myndina"
+},
+"photo_size_tip": {
+"message": "Ábending : Þú getur ekki að hlaða upp mynd stærri en 3M bæti ."
+},
+"picasa_upload_header": {
+"message": "Picasa Web"
+},
+"print": {
+"message": "Print"
+},
+"progress_info": {
+"message": "Image hlaða , vinsamlegast bíðið ..."
+},
+"quality_setting": {
+"message": "Screenshot Gæði Stillingar:"
+},
+"rect": {
+"message": "Fylla Allt svæðið"
+},
+"redact": {
+"message": "redact"
+},
+"return_to_site_selection": {
+"message": "Back"
+},
+"save": {
+"message": "Vista"
+},
+"save_and_close": {
+"message": "Vista og loka"
+},
+"save_fail": {
+"message": "Mistókst að vista skjámyndina ."
+},
+"save_image": {
+"message": "Vista mynd"
+},
+"save_setting": {
+"message": "Screenshot Save Settings :"
+},
+"save_success": {
+"message": "Screenshot vistuð ."
+},
+"save_tip": {
+"message": "Default Vista staðsetningu :"
+},
+"saved_to_path": {
+"message": "The screenshot hefur verið vistað í"
+},
+"set_save_path": {
+"message": "Fletta ..."
+},
+"set_save_path_title": {
+"message": "Veldu Default Vista Location"
+},
+"share": {
+"message": "Share"
+},
+"share_to": {
+"message": "Share til"
+},
+"share_to_facebook_account": {
+"message": "Deila á Facebook"
+},
+"share_to_other_account": {
+"message": "Share á annan reikning"
+},
+"share_to_picasa_account": {
+"message": "Deila í Picasa Web reikninginn þinn"
+},
+"shortcut_setting": {
+"message": "Flýtileið Stillingar:"
+},
+"shortcutsetting_text": {
+"message": "Virkjaðu flýtilykla"
+},
+"size_huge": {
+"message": "Björt"
+},
+"size_large": {
+"message": "stór"
+},
+"size_normal": {
+"message": "Normal"
+},
+"size_small": {
+"message": "Small"
+},
+"solid_black": {
+"message": "solid Black"
+},
+"special": {
+"message": "Þetta er sérstakt síðu . "
+},
+"text": {
+"message": "Texti"
+},
+"tip_copy_failed": {
+"message": "Mistókst að afrita screenshot ."
+},
+"tip_copy_succeed": {
+"message": "Screenshot afrita ."
+},
+"unknown_error": {
+"message": "Óþekkt villa."
+},
+"upload_sites_header": {
+"message": "Share Image Til"
+},
+"user_authentication_tip": {
+"message": "User sannvotta , vinsamlegast bíðið ..."
+},
+"user_denied": {
+"message": "User hafnað ."
+},
+"user_logout_tip": {
+"message": "Útskráning , vinsamlegast bíðið ..."
+}
+}

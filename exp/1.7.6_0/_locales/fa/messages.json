@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "آیا می خواهید به حذف این حساب ؟"
+   },
+   "appDesc": {
+      "message": "از محتوای قابل مشاهده از یک برگه، یک منطقه از یک صفحه وب ، و یا تمام صفحه به عنوان یک تصویر PNG . "
+   },
+   "autosave": {
+      "message": "ذخیره خودکار - پس از گرفتن ، از صفحه ویرایش رد و به طور مستقیم نجات تصویر گرفته شده را به محل پیش فرض با عنوان صفحه وب به عنوان نام فایل به طور پیش فرض"
+   },
+   "bad_access_token": {
+      "message": "دسترسی رمز نامعتبر است."
+   },
+   "blur": {
+      "message": "تیرگی"
+   },
+   "border": {
+      "message": "تنها رسم مرزی"
+   },
+   "cancel": {
+      "message": "لغو کردن"
+   },
+   "capture_area": {
+      "message": "ضبط صفحه منطقه"
+   },
+   "capture_screen": {
+      "message": "ضبط منطقه صفحه"
+   },
+   "capture_tip": {
+      "message": "کشیدن و ضبط ( Esc را فشار دهید برای خروج )"
+   },
+   "capture_webpage": {
+      "message": "گرفتن از کل صفحه"
+   },
+   "capture_window": {
+      "message": "از محتوای قابل مشاهده"
+   },
+   "capturing": {
+      "message": "گرفتن ، لطفا صبر کنید ..."
+   },
+   "close": {
+      "message": "نزدیک"
+   },
+   "close_upload_wrapper": {
+      "message": "نزدیک"
+   },
+   "copy": {
+      "message": "نسخه"
+   },
+   "default_title": {
+      "message": "ضبط صفحه نمایش"
+   },
+   "deletion_title": {
+      "message": "حذف حساب کاربری"
+   },
+   "edit_tip": {
+      "message": "در زیر تصویر شما اسیر است . "
+   },
+   "extensionName": {
+      "message": "ضبط صفحه ( بهتر از گوگل )"
+   },
+   "facebook_get_photo_link": {
+      "message": "بازیابی لینک تصویر ..."
+   },
+   "facebook_upload_header": {
+      "message": "فیس بوک"
+   },
+   "failed_to_connect_to_server": {
+      "message": "نمی تواند به سرور متصل شود."
+   },
+   "failed_to_get_photo_link": {
+      "message": "برای بازیابی لینک عکس انجام نشد ."
+   },
+   "failed_to_get_user_info": {
+      "message": "دریافت اطلاعات کاربر شکست خورده، لطفا بعدا دوباره امتحان کنید."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "میانبر برای منطقه جذب روی صفحه نمایش است که توسط برنامه دیگری ثبت شده است. "
+   },
+   "failed_to_upload_image": {
+      "message": "آپلود تصویر شکست خورد، لطفا بعدا دوباره امتحان کنید."
+   },
+   "failure_to_create_album": {
+      "message": "برای ایجاد آلبوم نشد، لطفا بعدا دوباره امتحان کنید."
+   },
+   "highlight": {
+      "message": "برجسته"
+   },
+   "hot_key_conflict": {
+      "message": "درگیری کلید های میانبر."
+   },
+   "image_caption": {
+      "message": "عنوان تصویر"
+   },
+   "invalid_album_id": {
+      "message": "آلبوم یافت نشد."
+   },
+   "invalid_caption": {
+      "message": "عنوان تصویر مورد نیاز است."
+   },
+   "line": {
+      "message": "خط"
+   },
+   "loading": {
+      "message": "صفحه در حال بارگذاری ، لطفا صبر کنید ."
+   },
+   "lossless": {
+      "message": "تصویر صفحه کامل"
+   },
+   "lossy": {
+      "message": "تصویر صفحه ناقص"
+   },
+   "ok": {
+      "message": "باشه"
+   },
+   "open_save_path": {
+      "message": "برو به پوشه"
+   },
+   "option": {
+      "message": "گزینه"
+   },
+   "options": {
+      "message": "تنظیمات ضبط صفحه نمایش"
+   },
+   "photo_link_text": {
+      "message": "بررسی تصویر"
+   },
+   "photo_size_tip": {
+      "message": "نکته: شما ممکن است قادر به آپلود یک تصویر بزرگتر از بایت 3M ."
+   },
+   "picasa_upload_header": {
+      "message": "وب پیکاسا"
+   },
+   "print": {
+      "message": "چاپ"
+   },
+   "progress_info": {
+      "message": "آپلود تصویر ، لطفا صبر کنید ..."
+   },
+   "quality_setting": {
+      "message": "تنظیمات کیفیت تصویر صفحه :"
+   },
+   "rect": {
+      "message": "پر کردن کل فضا"
+   },
+   "redact": {
+      "message": "تنظیم کردن"
+   },
+   "return_to_site_selection": {
+      "message": "پشت"
+   },
+   "save": {
+      "message": "ذخیره"
+   },
+   "save_and_close": {
+      "message": "ذخیره و بستن"
+   },
+   "save_fail": {
+      "message": "به تصویر صفحه ذخیره نشد ."
+   },
+   "save_image": {
+      "message": "ذخیره تصویر"
+   },
+   "save_setting": {
+      "message": "تنظیمات ذخیره تصویر صفحه :"
+   },
+   "save_success": {
+      "message": "عکس صفحه را نجات داد."
+   },
+   "save_tip": {
+      "message": "به طور پیش فرض صرفه جویی محل سکونت:"
+   },
+   "saved_to_path": {
+      "message": "در تصویر شده است به نجات"
+   },
+   "set_save_path": {
+      "message": "فهرست ..."
+   },
+   "set_save_path_title": {
+      "message": "انتخاب پیش فرض محل ذخیره"
+   },
+   "share": {
+      "message": "سهم"
+   },
+   "share_to": {
+      "message": "به اشتراک بگذارید در"
+   },
+   "share_to_facebook_account": {
+      "message": "اشتراک به حساب فیس بوک خود را"
+   },
+   "share_to_other_account": {
+      "message": "اشتراک به حساب دیگر"
+   },
+   "share_to_picasa_account": {
+      "message": "اشتراک به حساب وب پیکاسا شما"
+   },
+   "shortcut_setting": {
+      "message": "تنظیمات میانبر :"
+   },
+   "shortcutsetting_text": {
+      "message": "فعال کردن میانبرهای صفحه کلید"
+   },
+   "size_huge": {
+      "message": "کلان"
+   },
+   "size_large": {
+      "message": "بزرگ"
+   },
+   "size_normal": {
+      "message": "طبیعی"
+   },
+   "size_small": {
+      "message": "کوچک"
+   },
+   "solid_black": {
+      "message": "جامد سیاه"
+   },
+   "special": {
+      "message": "این یک صفحه ویژه است . "
+   },
+   "text": {
+      "message": "متن"
+   },
+   "tip_copy_failed": {
+      "message": "برای کپی کردن تصویر ناموفق بود."
+   },
+   "tip_copy_succeed": {
+      "message": "عکس کپی شده است."
+   },
+   "unknown_error": {
+      "message": "خطای ناشناخته."
+   },
+   "upload_sites_header": {
+      "message": "اشتراک تصویر به"
+   },
+   "user_authentication_tip": {
+      "message": "اثبات کاربر ، لطفا صبر کنید ..."
+   },
+   "user_denied": {
+      "message": "کاربر تکذیب کرد."
+   },
+   "user_logout_tip": {
+      "message": "خروج از سیستم ، لطفا صبر کنید ..."
+   }
+}

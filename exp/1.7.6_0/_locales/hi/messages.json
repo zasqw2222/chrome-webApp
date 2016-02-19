@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "आप इस खाते को दूर करने के लिए करना चाहते हैं?"
+   },
+   "appDesc": {
+      "message": "एक PNG छवि के रूप में एक टैब , एक वेब पेज का एक क्षेत्र, या पूरे पृष्ठ के दृश्य सामग्री पर कब्जा । "
+   },
+   "autosave": {
+      "message": "स्वत: सहेजना - सीधे कब्जा, बाईपास संपादन स्क्रीन और बाद डिफ़ॉल्ट फ़ाइल नाम के रूप में वेब पेज शीर्षक के साथ डिफ़ॉल्ट स्थान पर कब्जा कर लिया छवि को बचाने के"
+   },
+   "bad_access_token": {
+      "message": "अमान्य पहुंच टोकन।"
+   },
+   "blur": {
+      "message": "कलंक"
+   },
+   "border": {
+      "message": "ड्रा सीमा केवल"
+   },
+   "cancel": {
+      "message": "रद्द करना"
+   },
+   "capture_area": {
+      "message": "पृष्ठ क्षेत्र पर कब्जा"
+   },
+   "capture_screen": {
+      "message": "स्क्रीन पर कब्जा क्षेत्र"
+   },
+   "capture_tip": {
+      "message": "खींचें और कैद (प्रेस ईएससी से बाहर निकलें करने के लिए)"
+   },
+   "capture_webpage": {
+      "message": "पूरे पृष्ठ पर कब्जा"
+   },
+   "capture_window": {
+      "message": "दर्शनीय सामग्री पर कब्जा"
+   },
+   "capturing": {
+      "message": "कैप्चरिंग , कृपया प्रतीक्षा करें ..."
+   },
+   "close": {
+      "message": "बंद"
+   },
+   "close_upload_wrapper": {
+      "message": "बंद"
+   },
+   "copy": {
+      "message": "प्रतिलिपि"
+   },
+   "default_title": {
+      "message": "स्क्रीन पर कब्जा"
+   },
+   "deletion_title": {
+      "message": "खाता निकालें"
+   },
+   "edit_tip": {
+      "message": "नीचे आप पर कब्जा कर लिया स्क्रीनशॉट है। "
+   },
+   "extensionName": {
+      "message": "स्क्रीनशॉट पर कब्जा"
+   },
+   "facebook_get_photo_link": {
+      "message": "छवि लिंक पा रहा है ..."
+   },
+   "facebook_upload_header": {
+      "message": "फेसबुक"
+   },
+   "failed_to_connect_to_server": {
+      "message": "सर्वर से कनेक्ट नहीं कर सकता ।"
+   },
+   "failed_to_get_photo_link": {
+      "message": "फ़ोटो लिंक प्राप्त करने में विफल ।"
+   },
+   "failed_to_get_user_info": {
+      "message": "उपयोगकर्ता की जानकारी में विफल रहा हो जाओ , बाद में पुन: प्रयास करें ।"
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "स्क्रीन पर कब्जा क्षेत्र के लिए शॉर्टकट अन्य अनुप्रयोग द्वारा पंजीकृत है। "
+   },
+   "failed_to_upload_image": {
+      "message": "छवि अपलोड करने में विफल , बाद में पुन: प्रयास करें ।"
+   },
+   "failure_to_create_album": {
+      "message": "एल्बम बनाने में विफल, बाद में पुन: प्रयास करें ।"
+   },
+   "highlight": {
+      "message": "हाइलाइट"
+   },
+   "hot_key_conflict": {
+      "message": "शॉर्टकट संघर्ष ।"
+   },
+   "image_caption": {
+      "message": "छवि शीर्षक"
+   },
+   "invalid_album_id": {
+      "message": "एल्बम नहीं मिला ।"
+   },
+   "invalid_caption": {
+      "message": "छवि शीर्षक आवश्यक है।"
+   },
+   "line": {
+      "message": "रेखा"
+   },
+   "loading": {
+      "message": "पेज , कृपया प्रतीक्षा करें लोड हो रहा है ।"
+   },
+   "lossless": {
+      "message": "दोषरहित स्क्रीनशॉट"
+   },
+   "lossy": {
+      "message": "हानिपूर्ण स्क्रीनशॉट"
+   },
+   "ok": {
+      "message": "ठीक"
+   },
+   "open_save_path": {
+      "message": "फ़ोल्डर में जाओ"
+   },
+   "option": {
+      "message": "विकल्प"
+   },
+   "options": {
+      "message": "स्क्रीन पर कब्जा विकल्प"
+   },
+   "photo_link_text": {
+      "message": "छवि की जाँच"
+   },
+   "photo_size_tip": {
+      "message": "संकेत: आप 3M बाइट्स से भी बड़ा एक छवि अपलोड करने के लिए असफल हो सकता है ।"
+   },
+   "picasa_upload_header": {
+      "message": "पिकासा वेब"
+   },
+   "print": {
+      "message": "छाप"
+   },
+   "progress_info": {
+      "message": "छवि अपलोड , कृपया प्रतीक्षा करें ..."
+   },
+   "quality_setting": {
+      "message": "स्क्रीनशॉट गुणवत्ता सेटिंग:"
+   },
+   "rect": {
+      "message": "पूरे क्षेत्र भरें"
+   },
+   "redact": {
+      "message": "संपादन करना"
+   },
+   "return_to_site_selection": {
+      "message": "वापस"
+   },
+   "save": {
+      "message": "सेव"
+   },
+   "save_and_close": {
+      "message": "सहेजें और बंद करें"
+   },
+   "save_fail": {
+      "message": "स्क्रीनशॉट सहेजने में विफल।"
+   },
+   "save_image": {
+      "message": "छवि सहेजें"
+   },
+   "save_setting": {
+      "message": "स्क्रीनशॉट सहेजें सेटिंग:"
+   },
+   "save_success": {
+      "message": "स्क्रीनशॉट बचाया।"
+   },
+   "save_tip": {
+      "message": "स्थान सहेजें डिफ़ॉल्ट:"
+   },
+   "saved_to_path": {
+      "message": "स्क्रीनशॉट को बचाया जा चुका है"
+   },
+   "set_save_path": {
+      "message": "ब्राउज़ करें ..."
+   },
+   "set_save_path_title": {
+      "message": "का चयन करें डिफ़ॉल्ट स्थान सहेजें"
+   },
+   "share": {
+      "message": "शेयर"
+   },
+   "share_to": {
+      "message": "शेयर करें"
+   },
+   "share_to_facebook_account": {
+      "message": "अपने Facebook खाते में साझा करें"
+   },
+   "share_to_other_account": {
+      "message": "दूसरे खाते में शेयर"
+   },
+   "share_to_picasa_account": {
+      "message": "अपने पिकासा वेब खाते पर साझा करें"
+   },
+   "shortcut_setting": {
+      "message": "शॉर्टकट सेटिंग:"
+   },
+   "shortcutsetting_text": {
+      "message": "कीबोर्ड शॉर्टकट सक्षम करें"
+   },
+   "size_huge": {
+      "message": "विशाल"
+   },
+   "size_large": {
+      "message": "बडा"
+   },
+   "size_normal": {
+      "message": "सामानय"
+   },
+   "size_small": {
+      "message": "छोटा"
+   },
+   "solid_black": {
+      "message": "ठोस काला"
+   },
+   "special": {
+      "message": "यह एक विशेष पृष्ठ है। "
+   },
+   "text": {
+      "message": "टेक्स्ट"
+   },
+   "tip_copy_failed": {
+      "message": "स्क्रीनशॉट को कॉपी करने में विफल रहा ।"
+   },
+   "tip_copy_succeed": {
+      "message": "स्क्रीनशॉट की नकल की।"
+   },
+   "unknown_error": {
+      "message": "अज्ञात त्रुटि।"
+   },
+   "upload_sites_header": {
+      "message": "पर शेयर छवि"
+   },
+   "user_authentication_tip": {
+      "message": "उपयोगकर्ता सत्यापन , कृपया प्रतीक्षा करें ..."
+   },
+   "user_denied": {
+      "message": "उपयोगकर्ता से इनकार किया।"
+   },
+   "user_logout_tip": {
+      "message": "साइन आउट , कृपया प्रतीक्षा करें ..."
+   }
+}

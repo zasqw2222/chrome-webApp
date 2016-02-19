@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "আপনি এই অ্যাকাউন্ট অপসারণ করতে চান?"
+   },
+   "appDesc": {
+      "message": "একটি PNG ইমেজ হিসাবে একটি ট্যাব , একটি ওয়েব পৃষ্ঠার একটি অঞ্চল, অথবা পুরো পাতা দৃশ্যমান বিষয়বস্তু ক্যাপচার. "
+   },
+   "autosave": {
+      "message": "স্বয়ংসংরক্ষিত - সরাসরি ক্যাপচার, বাইপাস সম্পাদনা পর্দা এবং পরে ডিফল্ট ফাইলের নাম হিসাবে ওয়েব পাতা শিরোনাম সঙ্গে ডিফল্ট অবস্থান বন্দী ইমেজ সংরক্ষণ"
+   },
+   "bad_access_token": {
+      "message": "অবৈধ অ্যাক্সেস টোকেন ."
+   },
+   "blur": {
+      "message": "দাগ"
+   },
+   "border": {
+      "message": "আঁকা বর্ডার শুধু"
+   },
+   "cancel": {
+      "message": "বাতিল"
+   },
+   "capture_area": {
+      "message": "পাতা অঞ্চল ক্যাপচার"
+   },
+   "capture_screen": {
+      "message": "স্ক্রিন ক্যাপচার অঞ্চল"
+   },
+   "capture_tip": {
+      "message": "টেনে আনুন এবং ক্যাপচার ( প্রস্থান করতে Esc টিপুন )"
+   },
+   "capture_webpage": {
+      "message": "গোটা পাতা ক্যাপচার"
+   },
+   "capture_window": {
+      "message": "দৃশ্যমান বিষয়বস্তু ক্যাপচার"
+   },
+   "capturing": {
+      "message": "আটক , দয়া করে অপেক্ষা করুন ..."
+   },
+   "close": {
+      "message": "নিকট"
+   },
+   "close_upload_wrapper": {
+      "message": "নিকট"
+   },
+   "copy": {
+      "message": "কপি"
+   },
+   "default_title": {
+      "message": "স্ক্রিন ক্যাপচার"
+   },
+   "deletion_title": {
+      "message": "অ্যাকাউন্ট অপসারণ করুন"
+   },
+   "edit_tip": {
+      "message": "আপনি নীচে বন্দী স্ক্রিনশট হয়. "
+   },
+   "extensionName": {
+      "message": "স্ক্রিনশট ক্যাপচার (গুগল এর চেয়ে ভাল )"
+   },
+   "facebook_get_photo_link": {
+      "message": "ইমেজ লিঙ্ক উদ্ধার ..."
+   },
+   "facebook_upload_header": {
+      "message": "ফেসবুক"
+   },
+   "failed_to_connect_to_server": {
+      "message": "সার্ভারের সাথে সংযোগ করতে পারবেন না."
+   },
+   "failed_to_get_photo_link": {
+      "message": "ছবির লিঙ্ক উদ্ধার করতে ব্যর্থ."
+   },
+   "failed_to_get_user_info": {
+      "message": "ব্যবহারকারীর তথ্য ব্যর্থ হয়েছে , পরে আবার চেষ্টা করুন."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "স্ক্রিন ক্যাপচার অঞ্চল জন্য শর্টকাট অন্য অ্যাপ্লিকেশন দ্বারা নথিভুক্ত করা হয়েছে. "
+   },
+   "failed_to_upload_image": {
+      "message": "ইমেজ আপলোড করতে ব্যর্থ , পরে আবার চেষ্টা করুন."
+   },
+   "failure_to_create_album": {
+      "message": "অ্যালবাম তৈরি করতে ব্যর্থ , পরে আবার চেষ্টা করুন."
+   },
+   "highlight": {
+      "message": "হাইলাইট"
+   },
+   "hot_key_conflict": {
+      "message": "শর্টকাট দ্বন্দ্ব ."
+   },
+   "image_caption": {
+      "message": "চিত্র শিরোনাম"
+   },
+   "invalid_album_id": {
+      "message": "অ্যালবাম পাওয়া যায় না ."
+   },
+   "invalid_caption": {
+      "message": "চিত্র শিরোনাম প্রয়োজন বোধ করা হয় ."
+   },
+   "line": {
+      "message": "লাইন"
+   },
+   "loading": {
+      "message": "পাতা, দয়া করে অপেক্ষা করুন লোড করা হয়."
+   },
+   "lossless": {
+      "message": "অবচয়হীন স্ক্রিনশট"
+   },
+   "lossy": {
+      "message": "lossy স্ক্রিনশট"
+   },
+   "ok": {
+      "message": "ঠিক আছে"
+   },
+   "open_save_path": {
+      "message": "ফোল্ডারে যান"
+   },
+   "option": {
+      "message": "বিকল্প"
+   },
+   "options": {
+      "message": "স্ক্রিন ক্যাপচার বিকল্প"
+   },
+   "photo_link_text": {
+      "message": "চিত্র দেখুন"
+   },
+   "photo_size_tip": {
+      "message": "ইঙ্গিত: আপনি 3M বাইট চেয়ে বড় একটি ইমেজ আপলোড করতে ব্যর্থ হতে পারে ."
+   },
+   "picasa_upload_header": {
+      "message": "Picasa ওয়েব"
+   },
+   "print": {
+      "message": "ছাপা"
+   },
+   "progress_info": {
+      "message": "চিত্র আপলোড, দয়া করে অপেক্ষা করুন ..."
+   },
+   "quality_setting": {
+      "message": "স্ক্রিনশট কোয়ালিটির সেটিংস:"
+   },
+   "rect": {
+      "message": "সমগ্র এলাকা পূরণ"
+   },
+   "redact": {
+      "message": "সম্পাদন করা"
+   },
+   "return_to_site_selection": {
+      "message": "পিছনে"
+   },
+   "save": {
+      "message": "সংরক্ষণ করুন"
+   },
+   "save_and_close": {
+      "message": "সংরক্ষণ করুন & বন্ধ করুন"
+   },
+   "save_fail": {
+      "message": "স্ক্রিনশট সংরক্ষণ করতে ব্যর্থ."
+   },
+   "save_image": {
+      "message": "চিত্র সংরক্ষণ করুন"
+   },
+   "save_setting": {
+      "message": "স্ক্রিনশট সেটিংস সংরক্ষণ করুন :"
+   },
+   "save_success": {
+      "message": "সংরক্ষিত স্ক্রিনশট ."
+   },
+   "save_tip": {
+      "message": "অবস্থান সংরক্ষণ ডিফল্ট:"
+   },
+   "saved_to_path": {
+      "message": "স্ক্রিনশট সংরক্ষণ করা হয়েছে"
+   },
+   "set_save_path": {
+      "message": "ব্রাউজ করুন ..."
+   },
+   "set_save_path_title": {
+      "message": "নির্বাচন করুন ডিফল্ট সংরক্ষণ অবস্থান"
+   },
+   "share": {
+      "message": "ভাগ"
+   },
+   "share_to": {
+      "message": "শেয়ার করুন"
+   },
+   "share_to_facebook_account": {
+      "message": "আপনার ফেসবুক একাউন্টে শেয়ার করুন"
+   },
+   "share_to_other_account": {
+      "message": "অন্য অ্যাকাউন্টে ভাগ করুন"
+   },
+   "share_to_picasa_account": {
+      "message": "আপনার Picasa ওয়েব অ্যাকাউন্টে শেয়ার করুন"
+   },
+   "shortcut_setting": {
+      "message": "শর্টকাট সেটিংস:"
+   },
+   "shortcutsetting_text": {
+      "message": "কীবোর্ড শর্টকাট সক্রিয় করুন"
+   },
+   "size_huge": {
+      "message": "বিশাল"
+   },
+   "size_large": {
+      "message": "বড়"
+   },
+   "size_normal": {
+      "message": "সাধারণ"
+   },
+   "size_small": {
+      "message": "ছোট"
+   },
+   "solid_black": {
+      "message": "সলিড কালো"
+   },
+   "special": {
+      "message": "এটি একটি বিশেষ পাতা. "
+   },
+   "text": {
+      "message": "পাঠ"
+   },
+   "tip_copy_failed": {
+      "message": "স্ক্রিনশট কপি করতে ব্যর্থ."
+   },
+   "tip_copy_succeed": {
+      "message": "স্ক্রিনশট কপি করা."
+   },
+   "unknown_error": {
+      "message": "অজানা ত্রুটি."
+   },
+   "upload_sites_header": {
+      "message": "সেয়ার চিত্র"
+   },
+   "user_authentication_tip": {
+      "message": "ব্যবহারকারী অনুমোদন , দয়া করে অপেক্ষা করুন ..."
+   },
+   "user_denied": {
+      "message": "ব্যবহারকারী অস্বীকার করেছে."
+   },
+   "user_logout_tip": {
+      "message": "সাইন আউট করা হচ্ছে , অনুগ্রহ করে অপেক্ষা করুন ..."
+   }
+}

@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "Vai jūs vēlaties noņemt šo kontu ?"
+   },
+   "appDesc": {
+      "message": "Capture redzamo saturu cilni , reģiona mājas lapā, vai visu lapu kā PNG attēlu. "
+   },
+   "autosave": {
+      "message": "Automātiskā saglabāšana - pēc sagūstīšanas , apvedceļš rediģēšanas ekrāns un tieši ietaupīt uzņemto attēlu uz noklusējuma vietu ar mājas lapas nosaukumu kā noklusējuma faila nosaukumu"
+   },
+   "bad_access_token": {
+      "message": "Nederīga piekļuves pilnvara ."
+   },
+   "blur": {
+      "message": "aizmiglot"
+   },
+   "border": {
+      "message": "Zīmēt Border Tikai"
+   },
+   "cancel": {
+      "message": "atcelt"
+   },
+   "capture_area": {
+      "message": "Capture Page Reģions"
+   },
+   "capture_screen": {
+      "message": "Capture Ekrāna Reģions"
+   },
+   "capture_tip": {
+      "message": "Velciet un Capture (Nospiediet ESC, lai izietu )"
+   },
+   "capture_webpage": {
+      "message": "Capture visu lapu"
+   },
+   "capture_window": {
+      "message": "Capture redzamo saturu"
+   },
+   "capturing": {
+      "message": "Labvēlīgas, lūdzu uzgaidiet ..."
+   },
+   "close": {
+      "message": "aizvērt"
+   },
+   "close_upload_wrapper": {
+      "message": "aizvērt"
+   },
+   "copy": {
+      "message": "kopija"
+   },
+   "default_title": {
+      "message": "Screen Capture"
+   },
+   "deletion_title": {
+      "message": "noņemt kontu"
+   },
+   "edit_tip": {
+      "message": "Zemāk irscreenshot jūs notverti . "
+   },
+   "extensionName": {
+      "message": "Screenshot Capture ( Labāk nekā Google )"
+   },
+   "facebook_get_photo_link": {
+      "message": "Ielādēšanas attēla saiti ..."
+   },
+   "facebook_upload_header": {
+      "message": "Facebook"
+   },
+   "failed_to_connect_to_server": {
+      "message": "Nevar izveidot savienojumu ar serveri ."
+   },
+   "failed_to_get_photo_link": {
+      "message": "Neizdevās ielādēt foto saiti ."
+   },
+   "failed_to_get_user_info": {
+      "message": "Get lietotāju informācija neizdevās , lūdzu, mēģiniet vēlreiz vēlāk ."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "Par Capture ekrāna reģionā saīsne tiek reģistrēta cita lietojumprogramma . "
+   },
+   "failed_to_upload_image": {
+      "message": "Neizdevās augšupielādēt attēlu , lūdzu, mēģiniet vēlreiz vēlāk ."
+   },
+   "failure_to_create_album": {
+      "message": "Neizdevās izveidot albumu , lūdzu, mēģiniet vēlreiz vēlāk ."
+   },
+   "highlight": {
+      "message": "izcelt"
+   },
+   "hot_key_conflict": {
+      "message": "Īsceļi konflikts ."
+   },
+   "image_caption": {
+      "message": "Attēla nosaukums"
+   },
+   "invalid_album_id": {
+      "message": "Albums nav atrasts ."
+   },
+   "invalid_caption": {
+      "message": "Attēla nosaukums ir nepieciešama."
+   },
+   "line": {
+      "message": "līnija"
+   },
+   "loading": {
+      "message": "Lapas ielādi , lūdzu uzgaidiet."
+   },
+   "lossless": {
+      "message": "lossless screenshot"
+   },
+   "lossy": {
+      "message": "zudumiem screenshot"
+   },
+   "ok": {
+      "message": "labi"
+   },
+   "open_save_path": {
+      "message": "Doties uz mapi"
+   },
+   "option": {
+      "message": "opcijas"
+   },
+   "options": {
+      "message": "Screen Capture Options"
+   },
+   "photo_link_text": {
+      "message": "Pārbaudiet attēlu"
+   },
+   "photo_size_tip": {
+      "message": "Padoms : Jums var neizdoties augšupielādēt attēlu lielāks nekā 3M baitu ."
+   },
+   "picasa_upload_header": {
+      "message": "Picasa Web"
+   },
+   "print": {
+      "message": "drukāt"
+   },
+   "progress_info": {
+      "message": "Attēlu augšupielādi , lūdzu uzgaidiet ..."
+   },
+   "quality_setting": {
+      "message": "Ekrānuzņēmums kvalitātes iestatījumiem :"
+   },
+   "rect": {
+      "message": "Aizpildiet visā platībā"
+   },
+   "redact": {
+      "message": "Redact"
+   },
+   "return_to_site_selection": {
+      "message": "atpakaļ"
+   },
+   "save": {
+      "message": "Saglabāt"
+   },
+   "save_and_close": {
+      "message": "Saglabāt un aizvērt"
+   },
+   "save_fail": {
+      "message": "Neizdevās saglabāt screenshot ."
+   },
+   "save_image": {
+      "message": "Saglabāt attēlu"
+   },
+   "save_setting": {
+      "message": "Ekrānuzņēmums Saglabāt iestatījumus :"
+   },
+   "save_success": {
+      "message": "Ekrānuzņēmums saglabāts ."
+   },
+   "save_tip": {
+      "message": "Default saglabāšanas vietu :"
+   },
+   "saved_to_path": {
+      "message": "Screenshot ir saglabāts"
+   },
+   "set_save_path": {
+      "message": "Pārlūkot ..."
+   },
+   "set_save_path_title": {
+      "message": "Izvēlieties Noklusējuma Saglabāt Location"
+   },
+   "share": {
+      "message": "akcija"
+   },
+   "share_to": {
+      "message": "Daļa to"
+   },
+   "share_to_facebook_account": {
+      "message": "Dalīties savā Facebook kontā"
+   },
+   "share_to_other_account": {
+      "message": "Share uz citu kontu"
+   },
+   "share_to_picasa_account": {
+      "message": "Dalīties ar jūsu Picasa Web kontā"
+   },
+   "shortcut_setting": {
+      "message": "Īsceļu iestatījumi:"
+   },
+   "shortcutsetting_text": {
+      "message": "Ieslēgt tastatūras īsceļus"
+   },
+   "size_huge": {
+      "message": "milzīgs"
+   },
+   "size_large": {
+      "message": "liels"
+   },
+   "size_normal": {
+      "message": "normāls"
+   },
+   "size_small": {
+      "message": "mazs"
+   },
+   "solid_black": {
+      "message": "Solid Black"
+   },
+   "special": {
+      "message": "Šī irīpaša lapa . "
+   },
+   "text": {
+      "message": "teksts"
+   },
+   "tip_copy_failed": {
+      "message": "Neizdevās kopēt screenshot ."
+   },
+   "tip_copy_succeed": {
+      "message": "Ekrānuzņēmums kopēt ."
+   },
+   "unknown_error": {
+      "message": "Nezināma kļūda ."
+   },
+   "upload_sites_header": {
+      "message": "Akciju Image Lai"
+   },
+   "user_authentication_tip": {
+      "message": "Lietotājs autentiskuma , lūdzu uzgaidiet ..."
+   },
+   "user_denied": {
+      "message": "Lietotājs noliedza ."
+   },
+   "user_logout_tip": {
+      "message": "Izrakstoties , lūdzu uzgaidiet ..."
+   }
+}

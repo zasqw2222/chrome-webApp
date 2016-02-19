@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "Je, unataka kuondoa akaunti hii?"
+   },
+   "appDesc": {
+      "message": "Kukamata bidhaa inayoonekana ya tab, mkoa wa ukurasa wa mtandao , au ukurasa mzima kama PNG picha. "
+   },
+   "autosave": {
+      "message": "Uhifadhi wa moja - baada ya kukamata, bypass editing screen na moja kwa moja kuokoa alitekwa picha ya default eneo na cheo ukurasa wa mtandao kama jina la faili default"
+   },
+   "bad_access_token": {
+      "message": "Batili Access Token ."
+   },
+   "blur": {
+      "message": "Blur"
+   },
+   "border": {
+      "message": "Kuteka Mpaka Tu"
+   },
+   "cancel": {
+      "message": "kufuta"
+   },
+   "capture_area": {
+      "message": "Kukamata Ukurasa Mkoa"
+   },
+   "capture_screen": {
+      "message": "Capture Screen Mkoa"
+   },
+   "capture_tip": {
+      "message": "Drag na Capture ( Waandishi wa habari Esc Toka )"
+   },
+   "capture_webpage": {
+      "message": "Kukamata Whole Ukurasa"
+   },
+   "capture_window": {
+      "message": "Kukamata Visible Content"
+   },
+   "capturing": {
+      "message": "Ukamataji , tafadhali kusubiri ..."
+   },
+   "close": {
+      "message": "karibu"
+   },
+   "close_upload_wrapper": {
+      "message": "karibu"
+   },
+   "copy": {
+      "message": "Copy"
+   },
+   "default_title": {
+      "message": "screen Capture"
+   },
+   "deletion_title": {
+      "message": "ondoa akaunti"
+   },
+   "edit_tip": {
+      "message": "Chini ni screenshot wewe alitekwa . "
+   },
+   "extensionName": {
+      "message": "Screenshot Capture ( Bora kuliko Google)"
+   },
+   "facebook_get_photo_link": {
+      "message": "Retrieving kiungo cha picha ..."
+   },
+   "facebook_upload_header": {
+      "message": "Facebook"
+   },
+   "failed_to_connect_to_server": {
+      "message": "Haiwezi kuunganisha kwa seva."
+   },
+   "failed_to_get_photo_link": {
+      "message": "Imeshindwa kurudisha picha ya kiungo."
+   },
+   "failed_to_get_user_info": {
+      "message": "Kupata habari user wameshindwa, tafadhali jaribu tena baadaye."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "Njia ya mkato kwa Capture Screen Mkoa imesajiliwa na programu nyingine. "
+   },
+   "failed_to_upload_image": {
+      "message": "Imeshindwa kupakia picha, tafadhali jaribu tena baadaye."
+   },
+   "failure_to_create_album": {
+      "message": "Imeshindwa kuunda albamu, tafadhali jaribu tena baadaye."
+   },
+   "highlight": {
+      "message": "Highlight"
+   },
+   "hot_key_conflict": {
+      "message": "Shortcuts migogoro."
+   },
+   "image_caption": {
+      "message": "Image Title"
+   },
+   "invalid_album_id": {
+      "message": "Album haikupatikana."
+   },
+   "invalid_caption": {
+      "message": "Image cheo ni required."
+   },
+   "line": {
+      "message": "line"
+   },
+   "loading": {
+      "message": "Ukurasa ni upakiaji , tafadhali kusubiri."
+   },
+   "lossless": {
+      "message": "lossless screenshot"
+   },
+   "lossy": {
+      "message": "lossy screenshot"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open_save_path": {
+      "message": "Nenda folder"
+   },
+   "option": {
+      "message": "Options"
+   },
+   "options": {
+      "message": "Screen Capture Options"
+   },
+   "photo_link_text": {
+      "message": "Angalia Image"
+   },
+   "photo_size_tip": {
+      "message": "Dokezo: Unaweza kushindwa upload picha kubwa kuliko 3M ka."
+   },
+   "picasa_upload_header": {
+      "message": "Picasa Web"
+   },
+   "print": {
+      "message": "this"
+   },
+   "progress_info": {
+      "message": "Image kuweka, tafadhali kusubiri ..."
+   },
+   "quality_setting": {
+      "message": "Screenshot Quality Mazingira:"
+   },
+   "rect": {
+      "message": "Kujaza Area Mzima"
+   },
+   "redact": {
+      "message": "redact"
+   },
+   "return_to_site_selection": {
+      "message": "Back"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "save_and_close": {
+      "message": "Hifadhi na Funga"
+   },
+   "save_fail": {
+      "message": "Alishindwa kuokoa screenshot."
+   },
+   "save_image": {
+      "message": "Save Image"
+   },
+   "save_setting": {
+      "message": "Screenshot Save Settings :"
+   },
+   "save_success": {
+      "message": "Screenshot kuokolewa."
+   },
+   "save_tip": {
+      "message": "Default isipokuwa eneo :"
+   },
+   "saved_to_path": {
+      "message": "Screenshot imehifadhiwa kwenye"
+   },
+   "set_save_path": {
+      "message": "Browse ..."
+   },
+   "set_save_path_title": {
+      "message": "Chagua Default Save Location"
+   },
+   "share": {
+      "message": "Share"
+   },
+   "share_to": {
+      "message": "kushiriki kwa"
+   },
+   "share_to_facebook_account": {
+      "message": "Kushiriki kwa akaunti yako Facebook"
+   },
+   "share_to_other_account": {
+      "message": "Kushiriki kwa akaunti nyingine"
+   },
+   "share_to_picasa_account": {
+      "message": "Kushiriki na mtandao akaunti yako Picasa"
+   },
+   "shortcut_setting": {
+      "message": "Settings njia ya mkato:"
+   },
+   "shortcutsetting_text": {
+      "message": "Kuwawezesha keyboard shortcuts"
+   },
+   "size_huge": {
+      "message": "kubwa"
+   },
+   "size_large": {
+      "message": "kubwa"
+   },
+   "size_normal": {
+      "message": "Normal"
+   },
+   "size_small": {
+      "message": "ndogo"
+   },
+   "solid_black": {
+      "message": "mango Black"
+   },
+   "special": {
+      "message": "Hii ni ukurasa maalum. "
+   },
+   "text": {
+      "message": "Nakala"
+   },
+   "tip_copy_failed": {
+      "message": "Alishindwa nakala screenshot."
+   },
+   "tip_copy_succeed": {
+      "message": "Screenshot kunakiliwa."
+   },
+   "unknown_error": {
+      "message": "Hitilafu isiyojulikana."
+   },
+   "upload_sites_header": {
+      "message": "Share Image"
+   },
+   "user_authentication_tip": {
+      "message": "User udhibitishaji , tafadhali kusubiri ..."
+   },
+   "user_denied": {
+      "message": "User alikanusha."
+   },
+   "user_logout_tip": {
+      "message": "Kusainiwa nje , tafadhali kusubiri ..."
+   }
+}

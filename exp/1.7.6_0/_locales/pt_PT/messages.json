@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "Você deseja remover esta conta?"
+   },
+   "appDesc": {
+      "message": "Capturar conteúdo visível de um guia , uma região de uma página web, ou a página inteira como uma imagem PNG . "
+   },
+   "autosave": {
+      "message": "Gravação automática - após a captura, a tela de edição de desvio e salvar diretamente a imagem capturada para o local padrão com o título da página web como nome de arquivo padrão"
+   },
+   "bad_access_token": {
+      "message": "Inválido token de acesso ."
+   },
+   "blur": {
+      "message": "borrão"
+   },
+   "border": {
+      "message": "Apenas chamar Border"
+   },
+   "cancel": {
+      "message": "cancelar"
+   },
+   "capture_area": {
+      "message": "Capturar Região da Página"
+   },
+   "capture_screen": {
+      "message": "Captura de tela Região"
+   },
+   "capture_tip": {
+      "message": "Arraste e Captura ( Pressione Esc para sair )"
+   },
+   "capture_webpage": {
+      "message": "Capturar Página Inteira"
+   },
+   "capture_window": {
+      "message": "Capturar conteúdo visível"
+   },
+   "capturing": {
+      "message": "Captura , por favor aguarde ..."
+   },
+   "close": {
+      "message": "perto"
+   },
+   "close_upload_wrapper": {
+      "message": "perto"
+   },
+   "copy": {
+      "message": "cópia"
+   },
+   "default_title": {
+      "message": "Screen Capture"
+   },
+   "deletion_title": {
+      "message": "Remover conta"
+   },
+   "edit_tip": {
+      "message": "Abaixo está a imagem que captou. "
+   },
+   "extensionName": {
+      "message": "Screenshot Captura(melhor do que o do Google)"
+   },
+   "facebook_get_photo_link": {
+      "message": "Recuperando link da imagem ..."
+   },
+   "facebook_upload_header": {
+      "message": "Facebook"
+   },
+   "failed_to_connect_to_server": {
+      "message": "Não é possível conectar ao servidor."
+   },
+   "failed_to_get_photo_link": {
+      "message": "Falha ao recuperar ligação foto ."
+   },
+   "failed_to_get_user_info": {
+      "message": "Obter informações sobre o usuário falhou , por favor, tente novamente mais tarde ."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "O atalho para a Região Screen Capture é registrado por outra aplicação. "
+   },
+   "failed_to_upload_image": {
+      "message": "Falha ao carregar a imagem , por favor, tente novamente mais tarde ."
+   },
+   "failure_to_create_album": {
+      "message": "Falha ao criar o álbum , por favor, tente novamente mais tarde ."
+   },
+   "highlight": {
+      "message": "ponto alto"
+   },
+   "hot_key_conflict": {
+      "message": "Conflito Shortcuts ."
+   },
+   "image_caption": {
+      "message": "Título de Imagem"
+   },
+   "invalid_album_id": {
+      "message": "Álbum não encontrado."
+   },
+   "invalid_caption": {
+      "message": "Título da imagem é necessária."
+   },
+   "line": {
+      "message": "linha"
+   },
+   "loading": {
+      "message": "A página está carregando , por favor aguarde ."
+   },
+   "lossless": {
+      "message": "Screenshot Lossless"
+   },
+   "lossy": {
+      "message": "captura de tela com perdas"
+   },
+   "ok": {
+      "message": "ESTÁ BEM"
+   },
+   "open_save_path": {
+      "message": "Ir para a pasta"
+   },
+   "option": {
+      "message": "opções"
+   },
+   "options": {
+      "message": "Opções de captura de tela"
+   },
+   "photo_link_text": {
+      "message": "Confira a imagem"
+   },
+   "photo_size_tip": {
+      "message": "Dica: Você pode não conseguir fazer upload de uma imagem maior do que bytes 3M."
+   },
+   "picasa_upload_header": {
+      "message": "Picasa web"
+   },
+   "print": {
+      "message": "impressão"
+   },
+   "progress_info": {
+      "message": "Imagem que transfere , por favor aguarde ..."
+   },
+   "quality_setting": {
+      "message": "Screenshot Configurações de qualidade :"
+   },
+   "rect": {
+      "message": "Preencha toda a área"
+   },
+   "redact": {
+      "message": "redigir"
+   },
+   "return_to_site_selection": {
+      "message": "de volta"
+   },
+   "save": {
+      "message": "Salvar"
+   },
+   "save_and_close": {
+      "message": "Salvar e fechar"
+   },
+   "save_fail": {
+      "message": "Falha ao salvar a imagem ."
+   },
+   "save_image": {
+      "message": "Salvar imagem"
+   },
+   "save_setting": {
+      "message": "Screenshot Salvar configurações :"
+   },
+   "save_success": {
+      "message": "Screenshot salvo."
+   },
+   "save_tip": {
+      "message": "Local de gravação padrão :"
+   },
+   "saved_to_path": {
+      "message": "A imagem foi salvo"
+   },
+   "set_save_path": {
+      "message": "Procurar ..."
+   },
+   "set_save_path_title": {
+      "message": "Escolha um local padrão de salvamento"
+   },
+   "share": {
+      "message": "ação"
+   },
+   "share_to": {
+      "message": "Compartilhar para"
+   },
+   "share_to_facebook_account": {
+      "message": "Partilhe a sua conta Facebook"
+   },
+   "share_to_other_account": {
+      "message": "Compartilhar para outra conta"
+   },
+   "share_to_picasa_account": {
+      "message": "Partilhe a sua conta Picasa Web"
+   },
+   "shortcut_setting": {
+      "message": "Configurações de atalho:"
+   },
+   "shortcutsetting_text": {
+      "message": "Habilitar os atalhos de teclado"
+   },
+   "size_huge": {
+      "message": "enorme"
+   },
+   "size_large": {
+      "message": "grande"
+   },
+   "size_normal": {
+      "message": "normal"
+   },
+   "size_small": {
+      "message": "pequeno"
+   },
+   "solid_black": {
+      "message": "sólido preto"
+   },
+   "special": {
+      "message": "Esta é uma página especial . "
+   },
+   "text": {
+      "message": "texto"
+   },
+   "tip_copy_failed": {
+      "message": "Falha ao copiar o screenshot."
+   },
+   "tip_copy_succeed": {
+      "message": "Screenshot copiado."
+   },
+   "unknown_error": {
+      "message": "Erro desconhecido."
+   },
+   "upload_sites_header": {
+      "message": "Compartilhar Imagem Para"
+   },
+   "user_authentication_tip": {
+      "message": "Autenticação do usuário , por favor aguarde ..."
+   },
+   "user_denied": {
+      "message": "Usuário negado."
+   },
+   "user_logout_tip": {
+      "message": "Assinatura de fora, por favor aguarde ..."
+   }
+}

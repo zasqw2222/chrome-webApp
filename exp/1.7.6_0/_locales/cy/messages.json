@@ -1,0 +1,245 @@
+{
+"account_deletion_confirm": {
+"message": "Ydych chi eisiau i gael gwared ar y cyfrif hwn ?"
+},
+"appDesc": {
+"message": "Dal cynnwys gweladwy o tab , rhanbarth o dudalen we, neu'r dudalen gyfan fel delwedd PNG . "
+},
+"autosave": {
+"message": "Hunangadw - ar ôl cipio , sgrin golygu ffordd osgoi ac yn uniongyrchol yn arbed y ddelwedd dal at y lleoliad diofyn gyda'r teitl dudalen we fel enw ffeil ddiofyn"
+},
+"bad_access_token": {
+"message": "Annilys Tocyn Mynediad."
+},
+"blur": {
+"message": "Blur"
+},
+"border": {
+"message": "Tynnwch Border Unig"
+},
+"cancel": {
+"message": "Diddymu"
+},
+"capture_area": {
+"message": "Dal Tudalen Rhanbarth"
+},
+"capture_screen": {
+"message": "Dal Sgrîn Rhanbarth"
+},
+"capture_tip": {
+"message": "Llusgo a Dal ( Gwasgwch Esc i adael )"
+},
+"capture_webpage": {
+"message": "Dal Gyfan Tudalen"
+},
+"capture_window": {
+"message": "Dal Cynnwys Gweladwy"
+},
+"capturing": {
+"message": "Dal , arhoswch ..."
+},
+"close": {
+"message": "Cau"
+},
+"close_upload_wrapper": {
+"message": "Cau"
+},
+"copy": {
+"message": "copi"
+},
+"default_title": {
+"message": "Dal sgrîn"
+},
+"deletion_title": {
+"message": "Cael gwared cyfrif"
+},
+"edit_tip": {
+"message": "Isod mae'r screenshot i chi eu dal . "
+},
+"extensionName": {
+"message": "Dal Screenshot ( Yn well na Google )"
+},
+"facebook_get_photo_link": {
+"message": "Adfer linc image ..."
+},
+"facebook_upload_header": {
+"message": "Facebook"
+},
+"failed_to_connect_to_server": {
+"message": "Methu cysylltu â'r gweinydd ."
+},
+"failed_to_get_photo_link": {
+"message": "Methwyd adfer cyswllt llun ."
+},
+"failed_to_get_user_info": {
+"message": "Cael methu gwybodaeth am ddefnyddwyr , rhowch gynnig arni nes ymlaen ."
+},
+"failed_to_register_hot_key_for_screen_capture": {
+"message": "Mae'r llwybr byr ar gyfer Sgrîn Dal Rhanbarth yn cael ei gofrestru gan raglen arall . "
+},
+"failed_to_upload_image": {
+"message": "Methwyd llwytho delwedd , os gwelwch yn dda ceisiwch eto yn nes ymlaen ."
+},
+"failure_to_create_album": {
+"message": "Methwyd creu albwm, os gwelwch yn dda ceisiwch eto yn nes ymlaen ."
+},
+"highlight": {
+"message": "Amlygu"
+},
+"hot_key_conflict": {
+"message": "Gwrthdaro Shortcuts ."
+},
+"image_caption": {
+"message": "Teitl y Ddelwedd"
+},
+"invalid_album_id": {
+"message": "Albwm Nid yw dod o hyd."
+},
+"invalid_caption": {
+"message": "Mae angen Teitl y ddelwedd ."
+},
+"line": {
+"message": "llinell"
+},
+"loading": {
+"message": "Mae'r dudalen yn llwytho , os gwelwch yn dda aros."
+},
+"lossless": {
+"message": "screenshot lossless"
+},
+"lossy": {
+"message": "screenshot lossy"
+},
+"ok": {
+"message": "OK"
+},
+"open_save_path": {
+"message": "Ewch i ffolder"
+},
+"option": {
+"message": "Dewisiadau"
+},
+"options": {
+"message": "Dewisiadau Dal Sgrîn"
+},
+"photo_link_text": {
+"message": "Gwiriwch y Ddelwedd"
+},
+"photo_size_tip": {
+"message": "Awgrym: Gallwch methu â llwytho delwedd fwy na bytes 3M ."
+},
+"picasa_upload_header": {
+"message": "Picasa Gwe"
+},
+"print": {
+"message": "Argraffu"
+},
+"progress_info": {
+"message": "Llwytho delwedd , arhoswch ..."
+},
+"quality_setting": {
+"message": "Gosodiadau Ansawdd Sgrinlun :"
+},
+"rect": {
+"message": "Llenwch Ardal Cyfan"
+},
+"redact": {
+"message": "redact"
+},
+"return_to_site_selection": {
+"message": "Yn ôl"
+},
+"save": {
+"message": "Cadw"
+},
+"save_and_close": {
+"message": "Achub \u0026 Close"
+},
+"save_fail": {
+"message": "Wedi methu i achub y screenshot ."
+},
+"save_image": {
+"message": "Cadw Delwedd"
+},
+"save_setting": {
+"message": "Screenshot Cadw Gosodiadau :"
+},
+"save_success": {
+"message": "Achubodd Screenshot ."
+},
+"save_tip": {
+"message": "Default arbed lleoliad :"
+},
+"saved_to_path": {
+"message": "Mae'r screenshot wedi ei chadw i"
+},
+"set_save_path": {
+"message": "Pori ..."
+},
+"set_save_path_title": {
+"message": "Dewiswch Default Cadw Lleoliad"
+},
+"share": {
+"message": "Rhannu"
+},
+"share_to": {
+"message": "Rhannu i"
+},
+"share_to_facebook_account": {
+"message": "Rhannwch at eich cyfrif Facebook"
+},
+"share_to_other_account": {
+"message": "Rhannu i gyfrif arall"
+},
+"share_to_picasa_account": {
+"message": "Rhannwch i'ch cyfrif Gwe Picasa"
+},
+"shortcut_setting": {
+"message": "Gosodiadau Shortcut :"
+},
+"shortcutsetting_text": {
+"message": "Galluogi llwybrau byr bysellfwrdd"
+},
+"size_huge": {
+"message": "enfawr"
+},
+"size_large": {
+"message": "mawr"
+},
+"size_normal": {
+"message": "normal"
+},
+"size_small": {
+"message": "bach"
+},
+"solid_black": {
+"message": "solid Du"
+},
+"special": {
+"message": "Mae hon yn dudalen arbennig. "
+},
+"text": {
+"message": "testun"
+},
+"tip_copy_failed": {
+"message": "Methwyd gopïo'r screenshot ."
+},
+"tip_copy_succeed": {
+"message": "Screenshot copïo ."
+},
+"unknown_error": {
+"message": "Gwall anhysbys ."
+},
+"upload_sites_header": {
+"message": "Rhannu Image I"
+},
+"user_authentication_tip": {
+"message": "Dilysu defnyddwyr, arhoswch ..."
+},
+"user_denied": {
+"message": "Gwadu Defnyddiwr ."
+},
+"user_logout_tip": {
+"message": "Arwyddo allan , arhoswch ..."
+}
+}

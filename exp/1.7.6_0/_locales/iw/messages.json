@@ -1,0 +1,245 @@
+{
+"account_deletion_confirm": {
+"message": "האם אתה רוצה להסיר את החשבון הזה?"
+},
+"appDesc": {
+"message": "צלם תוכן גלוי שלכרטיסייה ,אזור של דף אינטרנט , או את כל הדף כתמונת PNG . "
+},
+"autosave": {
+"message": "שמירה אוטומטית - לאחר לכידה , עקוף את מסך עריכהושומרת ישירות את התמונה שצולמה במיקום ברירת המחדל עם כותרת דף האינטרנטכשם קובץ ברירת מחדל"
+},
+"bad_access_token": {
+"message": "לא חוקי אסימון גישה ."
+},
+"blur": {
+"message": "Blur"
+},
+"border": {
+"message": "צייר גבול בלבד"
+},
+"cancel": {
+"message": "לבטל"
+},
+"capture_area": {
+"message": "ללכוד דף אזור"
+},
+"capture_screen": {
+"message": "אזור לכידת מסך"
+},
+"capture_tip": {
+"message": "גרור ולכיד ( לחץ על Esc כדי לצאת )"
+},
+"capture_webpage": {
+"message": "צלם דף שלם"
+},
+"capture_window": {
+"message": "צלם תוכן גלוי"
+},
+"capturing": {
+"message": "מצלם, נא להמתין ..."
+},
+"close": {
+"message": "לסגור"
+},
+"close_upload_wrapper": {
+"message": "לסגור"
+},
+"copy": {
+"message": "העתק"
+},
+"default_title": {
+"message": "לכידת מסך"
+},
+"deletion_title": {
+"message": "הסר חשבון"
+},
+"edit_tip": {
+"message": "להלןצילום המסך אתה נתפס . "
+},
+"extensionName": {
+"message": "לכידת מסך ( טוב יותר מגוגל )"
+},
+"facebook_get_photo_link": {
+"message": "אחזור קישור תמונה ..."
+},
+"facebook_upload_header": {
+"message": "פייסבוק"
+},
+"failed_to_connect_to_server": {
+"message": "לא ניתן להתחבר לשרת ."
+},
+"failed_to_get_photo_link": {
+"message": "נכשל בקבלת קישור תמונה ."
+},
+"failed_to_get_user_info": {
+"message": "קבלו פרטי משתמש נכשלו, אנא נסה שוב מאוחר יותר ."
+},
+"failed_to_register_hot_key_for_screen_capture": {
+"message": "הקיצורלאזור לכידת מסך נרשם על ידי יישום אחר . "
+},
+"failed_to_upload_image": {
+"message": "נכשל ניסיון להעלות תמונה , אנא נסה שוב מאוחר יותר ."
+},
+"failure_to_create_album": {
+"message": "נכשל ביצירת אלבום, אנא נסה שוב מאוחר יותר ."
+},
+"highlight": {
+"message": "גולת כותרת"
+},
+"hot_key_conflict": {
+"message": "סכסוך קיצורי דרך ."
+},
+"image_caption": {
+"message": "כותרת תמונה"
+},
+"invalid_album_id": {
+"message": "אלבום לא נמצא ."
+},
+"invalid_caption": {
+"message": "כותרת תמונה נדרש ."
+},
+"line": {
+"message": "קו"
+},
+"loading": {
+"message": "הדף מצוי בטעינה , אנא המתן ."
+},
+"lossless": {
+"message": "צילום מסך lossless"
+},
+"lossy": {
+"message": "צילום מסך lossy"
+},
+"ok": {
+"message": "OK"
+},
+"open_save_path": {
+"message": "עבור לתיקייה"
+},
+"option": {
+"message": "אפשרויות"
+},
+"options": {
+"message": "אפשרויות לכידת מסך"
+},
+"photo_link_text": {
+"message": "בדוק את התמונה"
+},
+"photo_size_tip": {
+"message": "רמז: אתה עלול להיכשל כדי להעלותתמונה גדולה יותר מאשר הבתים 3M ."
+},
+"picasa_upload_header": {
+"message": "אינטרנט Picasa"
+},
+"print": {
+"message": "הדפסה"
+},
+"progress_info": {
+"message": "העלאת תמונות , אנא המתן ..."
+},
+"quality_setting": {
+"message": "הגדרות איכות של צילום מסך :"
+},
+"rect": {
+"message": "מלא את האזור כל"
+},
+"redact": {
+"message": "לַעֲרוֹך"
+},
+"return_to_site_selection": {
+"message": "חזור"
+},
+"save": {
+"message": "שמור"
+},
+"save_and_close": {
+"message": "שמור וסגור"
+},
+"save_fail": {
+"message": "לא הצליח להציל את צילום המסך ."
+},
+"save_image": {
+"message": "שמור תמונה"
+},
+"save_setting": {
+"message": "שמור הגדרות מסך:"
+},
+"save_success": {
+"message": "צילום המסך שנשמר ."
+},
+"save_tip": {
+"message": "ברירת מחדל לשמירת מיקום :"
+},
+"saved_to_path": {
+"message": "צילום המסך נשמר ל"
+},
+"set_save_path": {
+"message": "עיון ..."
+},
+"set_save_path_title": {
+"message": "מיקום שמור ברירת מחדל בחר"
+},
+"share": {
+"message": "שתף"
+},
+"share_to": {
+"message": "שתף ל"
+},
+"share_to_facebook_account": {
+"message": "שתף לחשבון שלך בפייסבוק"
+},
+"share_to_other_account": {
+"message": "שתף לחשבון אחר"
+},
+"share_to_picasa_account": {
+"message": "שתף לחשבון Google שלך"
+},
+"shortcut_setting": {
+"message": "הגדרות קיצור דרך:"
+},
+"shortcutsetting_text": {
+"message": "הפעל מקשי קיצור"
+},
+"size_huge": {
+"message": "ענק"
+},
+"size_large": {
+"message": "גדול"
+},
+"size_normal": {
+"message": "רגיל"
+},
+"size_small": {
+"message": "קטן"
+},
+"solid_black": {
+"message": "שחור מוצק"
+},
+"special": {
+"message": "זהו דף מיוחד . "
+},
+"text": {
+"message": "טקסט"
+},
+"tip_copy_failed": {
+"message": "נכשל ניסיון להעתיק את צילום המסך ."
+},
+"tip_copy_succeed": {
+"message": "צילום מסך מועתק ."
+},
+"unknown_error": {
+"message": "שגיאה לא ידועה ."
+},
+"upload_sites_header": {
+"message": "שתף תמונה ל"
+},
+"user_authentication_tip": {
+"message": "מאמת משתמשים , אנא המתן ..."
+},
+"user_denied": {
+"message": "משתמש נדחה."
+},
+"user_logout_tip": {
+"message": "יצא ממנו, אנא המתן ..."
+}
+}

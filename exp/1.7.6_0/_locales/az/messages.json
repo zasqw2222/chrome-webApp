@@ -1,0 +1,245 @@
+{
+"account_deletion_confirm": {
+"message": "Bu hesabı aradan qaldırılması istəyirsiniz ?"
+},
+"appDesc": {
+"message": "Bir PNG image kimi nişanı , bir web page bir bölgə , və ya bütün səhifə görünən content edin. "
+},
+"autosave": {
+"message": "Autosave - Birbaşa ələ , bypass redaktə ekran və sonra default fayl adı kimi web page başlığı ilə default yeri əsir resmi saxlamaq"
+},
+"bad_access_token": {
+"message": "Yanlış Access Token ."
+},
+"blur": {
+"message": "ləkə"
+},
+"border": {
+"message": "Draw Sərhəd Yalnız"
+},
+"cancel": {
+"message": "ləğv etmək"
+},
+"capture_area": {
+"message": "Page Region Capture"
+},
+"capture_screen": {
+"message": "Capture Screen Region"
+},
+"capture_tip": {
+"message": "Çək və Capture (Press Esc çıxmaq üçün)"
+},
+"capture_webpage": {
+"message": "Bütün Səhifə Capture"
+},
+"capture_window": {
+"message": "Görünür məzmun Capture"
+},
+"capturing": {
+"message": "Almasına, xahiş edirik gözləyin ..."
+},
+"close": {
+"message": "yaxın"
+},
+"close_upload_wrapper": {
+"message": "yaxın"
+},
+"copy": {
+"message": "köçürmək"
+},
+"default_title": {
+"message": "Screen Capture"
+},
+"deletion_title": {
+"message": "hesabı aradan qaldırılması"
+},
+"edit_tip": {
+"message": "Aşağıda əsir ekran edir . "
+},
+"extensionName": {
+"message": "Ekran Capture (Google -nin daha yaxşı )"
+},
+"facebook_get_photo_link": {
+"message": "Image link alınır ..."
+},
+"facebook_upload_header": {
+"message": "Facebook"
+},
+"failed_to_connect_to_server": {
+"message": "Server qoşula bilməz."
+},
+"failed_to_get_photo_link": {
+"message": "Foto link almaq üçün uğursuz oldu."
+},
+"failed_to_get_user_info": {
+"message": "Istifadəçi məlumat uğursuz alın , daha sonra yenidən cəhd edin."
+},
+"failed_to_register_hot_key_for_screen_capture": {
+"message": "Capture Screen Region üçün qısa bir proqram tərəfindən qeyd olunur . "
+},
+"failed_to_upload_image": {
+"message": "Resim yüklemek üçün uğursuz sonra yenidən cəhd edin."
+},
+"failure_to_create_album": {
+"message": "Albom yaratmaq bilmədi , daha sonra yenidən cəhd edin."
+},
+"highlight": {
+"message": "Highlight"
+},
+"hot_key_conflict": {
+"message": "Qısa münaqişə."
+},
+"image_caption": {
+"message": "image Title"
+},
+"invalid_album_id": {
+"message": "Album tapılmadı."
+},
+"invalid_caption": {
+"message": "Şəklin adı tələb olunur ."
+},
+"line": {
+"message": "xətt"
+},
+"loading": {
+"message": "Səhifə , xahiş edirik gözləyin yüklənir."
+},
+"lossless": {
+"message": "itkisiz screenshot"
+},
+"lossy": {
+"message": "kayıplı screenshot"
+},
+"ok": {
+"message": "OK"
+},
+"open_save_path": {
+"message": "Qovluq gedin"
+},
+"option": {
+"message": "Seçimlər"
+},
+"options": {
+"message": "Screen Capture Seçimlər"
+},
+"photo_link_text": {
+"message": "Image edin"
+},
+"photo_size_tip": {
+"message": "Ip ucu : Siz 3M bayt daha böyük bir resim yüklemek üçün uğursuz ola bilər."
+},
+"picasa_upload_header": {
+"message": "Picasa Web"
+},
+"print": {
+"message": "çap"
+},
+"progress_info": {
+"message": "Image yüklemek , xahiş edirik gözləyin ..."
+},
+"quality_setting": {
+"message": "Ekran Quality Ayarlar:"
+},
+"rect": {
+"message": "Bütün Ərazi doldurun"
+},
+"redact": {
+"message": "Redact"
+},
+"return_to_site_selection": {
+"message": "geri"
+},
+"save": {
+"message": "Save"
+},
+"save_and_close": {
+"message": "Saxla \u0026 Close"
+},
+"save_fail": {
+"message": "Ekran xilas etmək mümkün olmayıb ."
+},
+"save_image": {
+"message": "Save Image"
+},
+"save_setting": {
+"message": "Ekran Save Ayarlar:"
+},
+"save_success": {
+"message": "Ekran qurtardı."
+},
+"save_tip": {
+"message": "Yeri qazanc Default :"
+},
+"saved_to_path": {
+"message": "Ekran qeyd edildi"
+},
+"set_save_path": {
+"message": "Gözat ..."
+},
+"set_save_path_title": {
+"message": "Select Default Save Yer"
+},
+"share": {
+"message": "pay"
+},
+"share_to": {
+"message": "Paylaş"
+},
+"share_to_facebook_account": {
+"message": "Sizin Facebook hesabına paylaş"
+},
+"share_to_other_account": {
+"message": "Başqa hesaba Share"
+},
+"share_to_picasa_account": {
+"message": "Picasa Web hesabınıza paylaş"
+},
+"shortcut_setting": {
+"message": "Kısayol Settings :"
+},
+"shortcutsetting_text": {
+"message": "Klaviatura qısa yolları Enable"
+},
+"size_huge": {
+"message": "böyük"
+},
+"size_large": {
+"message": "böyük"
+},
+"size_normal": {
+"message": "normal"
+},
+"size_small": {
+"message": "kiçik"
+},
+"solid_black": {
+"message": "Solid Black"
+},
+"special": {
+"message": "Bu xüsusi səhifə . "
+},
+"text": {
+"message": "mətn"
+},
+"tip_copy_failed": {
+"message": "Ekran surəti bilməyib."
+},
+"tip_copy_succeed": {
+"message": "Ekran kopyalanamaz ."
+},
+"unknown_error": {
+"message": "Naməlum səhv ."
+},
+"upload_sites_header": {
+"message": "Share Image"
+},
+"user_authentication_tip": {
+"message": "Istifadəçi kimlik , xahiş edirik gözləyin ..."
+},
+"user_denied": {
+"message": "İstifadəçi təkzib edib."
+},
+"user_logout_tip": {
+"message": "Həyata imzalanması , xahiş edirik gözləyin ..."
+}
+}

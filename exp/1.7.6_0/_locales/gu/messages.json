@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "જો તમે આ એકાઉન્ટ દૂર કરવા માંગો છો?"
+   },
+   "appDesc": {
+      "message": "એક PNG છબી તરીકે એક ટેબમાં , વેબ પૃષ્ઠ એક પ્રદેશ, અથવા આખી પાનાંની દૃશ્યમાન સામગ્રી મેળવે. "
+   },
+   "autosave": {
+      "message": "સ્વતઃ સાચવો - સીધા કેપ્ચર , બાયપાસ સંપાદન સ્ક્રીન અને પછી મૂળભૂત ફાઈલ નામ તરીકે વેબ પૃષ્ઠ શીર્ષક સાથે ડિફૉલ્ટ સ્થાન માટે કબજે છબી સાચવો"
+   },
+   "bad_access_token": {
+      "message": "અમાન્ય ઍક્સેસ ટોકન ."
+   },
+   "blur": {
+      "message": "બ્લર"
+   },
+   "border": {
+      "message": "દોરો બોર્ડર માત્ર"
+   },
+   "cancel": {
+      "message": "રદ કરો"
+   },
+   "capture_area": {
+      "message": "પેજમાં પ્રદેશ કેપ્ચર"
+   },
+   "capture_screen": {
+      "message": "કેપ્ચર સ્ક્રીન પ્રદેશ"
+   },
+   "capture_tip": {
+      "message": "ખેંચો અને કેપ્ચર ( પ્રેસ Esc નીકળો માટે)"
+   },
+   "capture_webpage": {
+      "message": "આખા પેજમાં કેપ્ચર"
+   },
+   "capture_window": {
+      "message": "દ્રશ્યમાન સામગ્રી મેળવે"
+   },
+   "capturing": {
+      "message": "કબજે , કૃપા કરીને રાહ જુઓ ..."
+   },
+   "close": {
+      "message": "બંધ કરો"
+   },
+   "close_upload_wrapper": {
+      "message": "બંધ કરો"
+   },
+   "copy": {
+      "message": "નકલ"
+   },
+   "default_title": {
+      "message": "સ્ક્રીન કેપ્ચર"
+   },
+   "deletion_title": {
+      "message": "એકાઉન્ટ દૂર કરો"
+   },
+   "edit_tip": {
+      "message": "નીચે તમે કબજે સ્ક્રીન છે . "
+   },
+   "extensionName": {
+      "message": "સ્ક્રીનશોટ કેપ્ચર ( Google ના કરતા વધુ સારો )"
+   },
+   "facebook_get_photo_link": {
+      "message": "છબી લિંક પાછુ મેળવી ..."
+   },
+   "facebook_upload_header": {
+      "message": "ફેસબુક"
+   },
+   "failed_to_connect_to_server": {
+      "message": "સર્વર સાથે કનેક્ટ કરી શકો છો."
+   },
+   "failed_to_get_photo_link": {
+      "message": "ફોટો લિંક પ્રાપ્ત કરવામાં નિષ્ફળ."
+   },
+   "failed_to_get_user_info": {
+      "message": "વપરાશકર્તા જાણકારી નિષ્ફળ મળે , પછીથી ફરી પ્રયત્ન કરો."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "કેપ્ચર સ્ક્રીન પ્રદેશ માટે શોર્ટકટ બીજા કાર્યક્રમ દ્વારા રજીસ્ટર થયેલ છે . "
+   },
+   "failed_to_upload_image": {
+      "message": "છબી અપલોડ કરવામાં નિષ્ફળ , પછીથી ફરી પ્રયત્ન કરો."
+   },
+   "failure_to_create_album": {
+      "message": "આલ્બમ બનાવવામાં નિષ્ફળ , પછીથી ફરી પ્રયત્ન કરો."
+   },
+   "highlight": {
+      "message": "હાઇલાઇટ"
+   },
+   "hot_key_conflict": {
+      "message": "શૉર્ટકટ્સ સંઘર્ષ ."
+   },
+   "image_caption": {
+      "message": "છબી શીર્ષક"
+   },
+   "invalid_album_id": {
+      "message": "આલ્બમ મળ્યા નથી ."
+   },
+   "invalid_caption": {
+      "message": "છબી શીર્ષક જરૂરી છે."
+   },
+   "line": {
+      "message": "વાક્ય"
+   },
+   "loading": {
+      "message": "આ પાનું, કૃપા કરીને રાહ જુઓ લોડ થયેલ છે."
+   },
+   "lossless": {
+      "message": "અચલ સ્ક્રીનશૉટ"
+   },
+   "lossy": {
+      "message": "ચલ સ્ક્રીનશૉટ"
+   },
+   "ok": {
+      "message": "ઓકે"
+   },
+   "open_save_path": {
+      "message": "ફોલ્ડર પર જાઓ"
+   },
+   "option": {
+      "message": "વિકલ્પો"
+   },
+   "options": {
+      "message": "સ્ક્રીન કેપ્ચર વિકલ્પો"
+   },
+   "photo_link_text": {
+      "message": "આ છબી શકો"
+   },
+   "photo_size_tip": {
+      "message": "સંકેત: તમે 3M બાઇટ્સ કરતાં મોટી એક છબી અપલોડ નિષ્ફળ કરી શકે છે."
+   },
+   "picasa_upload_header": {
+      "message": "Picasa વેબ"
+   },
+   "print": {
+      "message": "પ્રિન્ટ"
+   },
+   "progress_info": {
+      "message": "છબી અપલોડ , કૃપા કરીને રાહ જુઓ ..."
+   },
+   "quality_setting": {
+      "message": "સ્ક્રીનશૉટ જાત સેટિંગ્સ:"
+   },
+   "rect": {
+      "message": "સમગ્ર વિસ્તારમાં ભરો"
+   },
+   "redact": {
+      "message": "ગ્રન્થનું સંપાદન કરવું"
+   },
+   "return_to_site_selection": {
+      "message": "પાછા"
+   },
+   "save": {
+      "message": "સેવ કરો"
+   },
+   "save_and_close": {
+      "message": "સેવ એન્ડ બંધ કરો"
+   },
+   "save_fail": {
+      "message": "આ સ્ક્રીનશૉટ સેવ કરવામાં નિષ્ફળ."
+   },
+   "save_image": {
+      "message": "સેવ કરો છબી"
+   },
+   "save_setting": {
+      "message": "સ્ક્રીનશોટ સાચવો સેટિંગ્સ:"
+   },
+   "save_success": {
+      "message": "સ્ક્રીનશૉટ સાચવી."
+   },
+   "save_tip": {
+      "message": "સ્થાન સાચવો ડિફોલ્ટ:"
+   },
+   "saved_to_path": {
+      "message": "આ સ્ક્રીનશૉટ પર સાચવવામાં આવ્યો છે"
+   },
+   "set_save_path": {
+      "message": "બ્રાઉઝ ..."
+   },
+   "set_save_path_title": {
+      "message": "પસંદ ડિફૉલ્ટ સાચવો સ્થાન"
+   },
+   "share": {
+      "message": "શેર"
+   },
+   "share_to": {
+      "message": "પર શેર"
+   },
+   "share_to_facebook_account": {
+      "message": "તમારા Facebook એકાઉન્ટ પર શેર"
+   },
+   "share_to_other_account": {
+      "message": "અન્ય ખાતામાં શેર"
+   },
+   "share_to_picasa_account": {
+      "message": "તમારા Picasa વેબ એકાઉન્ટ પર શેર"
+   },
+   "shortcut_setting": {
+      "message": "શૉર્ટકટ સેટિંગ્સ:"
+   },
+   "shortcutsetting_text": {
+      "message": "કીબોર્ડ શૉર્ટકટ્સ સક્રિય"
+   },
+   "size_huge": {
+      "message": "વિશાળ"
+   },
+   "size_large": {
+      "message": "મોટા"
+   },
+   "size_normal": {
+      "message": "સામાન્ય"
+   },
+   "size_small": {
+      "message": "નાના"
+   },
+   "solid_black": {
+      "message": "સોલિડ બ્લેક"
+   },
+   "special": {
+      "message": "આ ખાસ પૃષ્ઠ છે. "
+   },
+   "text": {
+      "message": "લખાણ"
+   },
+   "tip_copy_failed": {
+      "message": "આ સ્ક્રીનશૉટ નકલ કરવામાં નિષ્ફળ."
+   },
+   "tip_copy_succeed": {
+      "message": "સ્ક્રીનશૉટ નકલ ."
+   },
+   "unknown_error": {
+      "message": "અજ્ઞાત ભૂલ."
+   },
+   "upload_sites_header": {
+      "message": "માટે શેર છબી"
+   },
+   "user_authentication_tip": {
+      "message": "વપરાશકર્તા સત્તાધિકારી , કૃપા કરીને રાહ જુઓ ..."
+   },
+   "user_denied": {
+      "message": "વપરાશકર્તા નકારી."
+   },
+   "user_logout_tip": {
+      "message": "સાઇન આઉટ કરી રહ્યું , કૃપા કરીને રાહ જુઓ ..."
+   }
+}

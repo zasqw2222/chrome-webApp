@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "Vols eliminar aquest compte ?"
+   },
+   "appDesc": {
+      "message": "Captura el contingut visible d'una fitxa , una regió d'una pàgina web , o la pàgina sencera com una imatge PNG . "
+   },
+   "autosave": {
+      "message": "Desar automàticament - després de la captura , la pantalla d'edició de derivació i directament guardar la imatge capturada en la ubicació per defecte amb el títol de la pàgina web com a nom de fitxer per defecte"
+   },
+   "bad_access_token": {
+      "message": "Invalid Token d'accés."
+   },
+   "blur": {
+      "message": "taca"
+   },
+   "border": {
+      "message": "Només Dibuixar vora"
+   },
+   "cancel": {
+      "message": "Cancel·la"
+   },
+   "capture_area": {
+      "message": "Captura Pàgina Regió"
+   },
+   "capture_screen": {
+      "message": "Captura de Pantalla Regió"
+   },
+   "capture_tip": {
+      "message": "Arrossegar i Captura ( Premi ESC per sortir )"
+   },
+   "capture_webpage": {
+      "message": "Capture Tota la pàgina"
+   },
+   "capture_window": {
+      "message": "Captura contingut Visible"
+   },
+   "capturing": {
+      "message": "Captura , si us plau esperi ..."
+   },
+   "close": {
+      "message": "prop"
+   },
+   "close_upload_wrapper": {
+      "message": "prop"
+   },
+   "copy": {
+      "message": "còpia"
+   },
+   "default_title": {
+      "message": "captura de Pantalla"
+   },
+   "deletion_title": {
+      "message": "Elimina el compte"
+   },
+   "edit_tip": {
+      "message": "A continuació es mostra la captura de pantalla que ha capturat . "
+   },
+   "extensionName": {
+      "message": "Captura de pantalla(millor que la de Google)"
+   },
+   "facebook_get_photo_link": {
+      "message": "Recuperant enllaç d'imatge ..."
+   },
+   "facebook_upload_header": {
+      "message": "Facebook"
+   },
+   "failed_to_connect_to_server": {
+      "message": "No es pot connectar amb el servidor ."
+   },
+   "failed_to_get_photo_link": {
+      "message": "No s'ha pogut recuperar vincle foto ."
+   },
+   "failed_to_get_user_info": {
+      "message": "Més informació d'usuari fallar , si us plau intenti -ho més tard ."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "L'accés directe per Captura de Pantalla Regió s'ha registrat per una altra aplicació . "
+   },
+   "failed_to_upload_image": {
+      "message": "Error en carregar una imatge , si us plau intenti -ho més tard ."
+   },
+   "failure_to_create_album": {
+      "message": "Error en crear àlbum, intenta-ho més tard ."
+   },
+   "highlight": {
+      "message": "punt culminant"
+   },
+   "hot_key_conflict": {
+      "message": "Conflicte Accessos directes ."
+   },
+   "image_caption": {
+      "message": "títol d'imatge"
+   },
+   "invalid_album_id": {
+      "message": "Album not found ."
+   },
+   "invalid_caption": {
+      "message": "Es requereix títol de la imatge."
+   },
+   "line": {
+      "message": "línia"
+   },
+   "loading": {
+      "message": "La pàgina s'està carregant , si us plau esperi ."
+   },
+   "lossless": {
+      "message": "Lossless pantalla"
+   },
+   "lossy": {
+      "message": "amb pèrdua de pantalla"
+   },
+   "ok": {
+      "message": "OKAY"
+   },
+   "open_save_path": {
+      "message": "Anar a la carpeta"
+   },
+   "option": {
+      "message": "opcions"
+   },
+   "options": {
+      "message": "Opcions de captura de pantalla"
+   },
+   "photo_link_text": {
+      "message": "Comproveu la Imatge"
+   },
+   "photo_size_tip": {
+      "message": "Consell: Vostè pot deixar de pujar una imatge més gran que bytes 3M ."
+   },
+   "picasa_upload_header": {
+      "message": "Picasa Web"
+   },
+   "print": {
+      "message": "impressió"
+   },
+   "progress_info": {
+      "message": "Càrrega d'imatges , si us plau esperi ..."
+   },
+   "quality_setting": {
+      "message": "Captura de pantalla Configuració de qualitat :"
+   },
+   "rect": {
+      "message": "Omplir superfície completa"
+   },
+   "redact": {
+      "message": "redactar"
+   },
+   "return_to_site_selection": {
+      "message": "esquena"
+   },
+   "save": {
+      "message": "guardar"
+   },
+   "save_and_close": {
+      "message": "Guardar i Tancar"
+   },
+   "save_fail": {
+      "message": "Error en desar la captura ."
+   },
+   "save_image": {
+      "message": "Desa la imatge"
+   },
+   "save_setting": {
+      "message": "Captura de pantalla Desa la configuració :"
+   },
+   "save_success": {
+      "message": "Captura de pantalla salvar."
+   },
+   "save_tip": {
+      "message": "Ubicació d'emmagatzematge per defecte :"
+   },
+   "saved_to_path": {
+      "message": "La captura de pantalla s'ha guardat"
+   },
+   "set_save_path": {
+      "message": "Examinar ..."
+   },
+   "set_save_path_title": {
+      "message": "Seleccionar Ubicació d'emmagatzematge per defecte"
+   },
+   "share": {
+      "message": "quota"
+   },
+   "share_to": {
+      "message": "compartir a"
+   },
+   "share_to_facebook_account": {
+      "message": "Comparteix amb el teu compte de Facebook"
+   },
+   "share_to_other_account": {
+      "message": "Compartir a un altre compte"
+   },
+   "share_to_picasa_account": {
+      "message": "Comparteix el seu compte de Picasa Web"
+   },
+   "shortcut_setting": {
+      "message": "Configuració d'accés directe :"
+   },
+   "shortcutsetting_text": {
+      "message": "Activar les dreceres de teclat"
+   },
+   "size_huge": {
+      "message": "enorme"
+   },
+   "size_large": {
+      "message": "gran"
+   },
+   "size_normal": {
+      "message": "Normal"
+   },
+   "size_small": {
+      "message": "petit"
+   },
+   "solid_black": {
+      "message": "sòlid Negre"
+   },
+   "special": {
+      "message": "Aquesta és una pàgina especial . "
+   },
+   "text": {
+      "message": "text"
+   },
+   "tip_copy_failed": {
+      "message": "No s'ha pogut copiar la pantalla ."
+   },
+   "tip_copy_succeed": {
+      "message": "Captura de pantalla copiada ."
+   },
+   "unknown_error": {
+      "message": "Error desconegut ."
+   },
+   "upload_sites_header": {
+      "message": "Compartir Imatge Per"
+   },
+   "user_authentication_tip": {
+      "message": "Autenticació d'usuari , si us plau esperi ..."
+   },
+   "user_denied": {
+      "message": "Va negar usuari ."
+   },
+   "user_logout_tip": {
+      "message": "La signatura , si us plau esperi ..."
+   }
+}

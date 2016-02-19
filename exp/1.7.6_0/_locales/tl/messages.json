@@ -1,0 +1,245 @@
+{
+"account_deletion_confirm": {
+"message": "Gusto mo bang alisin ang account na ito?"
+},
+"appDesc": {
+"message": "I-capture ang nakikitang nilalaman ng tab, isang rehiyon ng web page , o ang buong pahina bilang PNG na imahe . "
+},
+"autosave": {
+"message": "Autosave - matapos ang pagkuha , screen sa pag-edit bypass at direktang i-save ang nakuhanang larawan sa default na lokasyon sa pamagat ng web page ang bilang default na pangalan ng file"
+},
+"bad_access_token": {
+"message": "Di-wastong Token ng Access ."
+},
+"blur": {
+"message": "lumabo"
+},
+"border": {
+"message": "Gumuhit ng Border Lamang"
+},
+"cancel": {
+"message": "kanselahin"
+},
+"capture_area": {
+"message": "I-capture ang Rehiyon Pahina"
+},
+"capture_screen": {
+"message": "Capture Rehiyon Screen"
+},
+"capture_tip": {
+"message": "I-drag at Capture ( Pindutin ang Esc upang Lumabas )"
+},
+"capture_webpage": {
+"message": "I-capture ang Buong Pahina"
+},
+"capture_window": {
+"message": "I-capture ang Nakikitang Nilalaman"
+},
+"capturing": {
+"message": "Ang pagkuha , pakihintay ..."
+},
+"close": {
+"message": "malapit"
+},
+"close_upload_wrapper": {
+"message": "malapit"
+},
+"copy": {
+"message": "kopya"
+},
+"default_title": {
+"message": "screen Capture"
+},
+"deletion_title": {
+"message": "Alisin ang account"
+},
+"edit_tip": {
+"message": "Sa ibaba ay ang screenshot na iyong kinunan . "
+},
+"extensionName": {
+"message": "Screenshot Capture ( Mas mahusay kaysa sa Google)"
+},
+"facebook_get_photo_link": {
+"message": "Kinukuha ang link ng larawan ..."
+},
+"facebook_upload_header": {
+"message": "Facebook"
+},
+"failed_to_connect_to_server": {
+"message": "Hindi makakonekta sa server."
+},
+"failed_to_get_photo_link": {
+"message": "Nabigong kunin ang link ng larawan."
+},
+"failed_to_get_user_info": {
+"message": "Nabigo ang impormasyon ng user Maging , pakisubukang muli sa ibang pagkakataon."
+},
+"failed_to_register_hot_key_for_screen_capture": {
+"message": "Ang shortcut para sa Rehiyon -capture ng screen na ito ay nakarehistro sa pamamagitan ng isa pang application. "
+},
+"failed_to_upload_image": {
+"message": "Nabigong i- upload ang imahe , pakisubukang muli sa ibang pagkakataon."
+},
+"failure_to_create_album": {
+"message": "Nabigong lumikha ng album , pakisubukang muli sa ibang pagkakataon."
+},
+"highlight": {
+"message": "I-highlight"
+},
+"hot_key_conflict": {
+"message": "Mga shortcut sa conflict ."
+},
+"image_caption": {
+"message": "Pamagat ng Imahe"
+},
+"invalid_album_id": {
+"message": "Hindi nahanap ang album."
+},
+"invalid_caption": {
+"message": "Pamagat ng Larawan ay kinakailangan."
+},
+"line": {
+"message": "linya"
+},
+"loading": {
+"message": "Ang pahina ay naglo-load , mangyaring maghintay."
+},
+"lossless": {
+"message": "Lossless screenshot"
+},
+"lossy": {
+"message": "Lossy screenshot"
+},
+"ok": {
+"message": "OK"
+},
+"open_save_path": {
+"message": "Pumunta sa folder"
+},
+"option": {
+"message": "Mga Pagpipilian"
+},
+"options": {
+"message": "Mga Pagpipilian sa Screen Capture"
+},
+"photo_link_text": {
+"message": "Lagyan ng check ang Imahe"
+},
+"photo_size_tip": {
+"message": "Pahiwatig: Maaari mong mabigo upang mag-upload ng isang imahe na mas malaki kaysa sa 3M bytes ."
+},
+"picasa_upload_header": {
+"message": "Picasa Web"
+},
+"print": {
+"message": "tatak"
+},
+"progress_info": {
+"message": "-Upload ng larawan, mangyaring maghintay ..."
+},
+"quality_setting": {
+"message": "Mga Setting ng Marka ng screenshot:"
+},
+"rect": {
+"message": "Punan ang Buong Lugar"
+},
+"redact": {
+"message": "ihanda ang sinulat upang mailathala"
+},
+"return_to_site_selection": {
+"message": "likod"
+},
+"save": {
+"message": "I-save ang"
+},
+"save_and_close": {
+"message": "I-save at Isara"
+},
+"save_fail": {
+"message": "Nabigong i-save ang screenshot."
+},
+"save_image": {
+"message": "I-save ang Imahe"
+},
+"save_setting": {
+"message": "Screenshot I-save ang Mga Setting:"
+},
+"save_success": {
+"message": "-Save ang screenshot ."
+},
+"save_tip": {
+"message": "Default na pag-save ng lokasyon:"
+},
+"saved_to_path": {
+"message": "Ang screenshot ay naka-save sa"
+},
+"set_save_path": {
+"message": "Mag-browse ..."
+},
+"set_save_path_title": {
+"message": "Piliin ang Default na Lokasyon I-save ang"
+},
+"share": {
+"message": "magbahagi"
+},
+"share_to": {
+"message": "Ibahagi sa"
+},
+"share_to_facebook_account": {
+"message": "Ibahagi sa iyong Facebook account"
+},
+"share_to_other_account": {
+"message": "Ibahagi sa isa pang account"
+},
+"share_to_picasa_account": {
+"message": "Ibahagi sa iyong Picasa Web account"
+},
+"shortcut_setting": {
+"message": "Shortcut ng Mga Setting :"
+},
+"shortcutsetting_text": {
+"message": "Paganahin ang mga shortcut sa keyboard"
+},
+"size_huge": {
+"message": "malaking-malaki"
+},
+"size_large": {
+"message": "malaki"
+},
+"size_normal": {
+"message": "normal"
+},
+"size_small": {
+"message": "maliit"
+},
+"solid_black": {
+"message": "solid na Itim"
+},
+"special": {
+"message": "Ito ay isang espesyal na pahina. "
+},
+"text": {
+"message": "teksto"
+},
+"tip_copy_failed": {
+"message": "Nabigong kopyahin ang screenshot."
+},
+"tip_copy_succeed": {
+"message": "Kinopya ang screenshot."
+},
+"unknown_error": {
+"message": "Hindi kilalang error ."
+},
+"upload_sites_header": {
+"message": "Ibahagi ang Imahe Upang"
+},
+"user_authentication_tip": {
+"message": "Pinapatunayan user, mangyaring maghintay ..."
+},
+"user_denied": {
+"message": "Tinanggihan ang user na ito."
+},
+"user_logout_tip": {
+"message": "Nagsa-sign out , pakihintay ..."
+}
+}

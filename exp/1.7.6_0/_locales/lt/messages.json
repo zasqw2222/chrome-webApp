@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "Ar norite pašalinti šią paskyrą ?"
+   },
+   "appDesc": {
+      "message": "Įamžinkite matomą turinį skirtuko , iš tinklalapio regione , arba visą puslapį kaip PNG . "
+   },
+   "autosave": {
+      "message": "Automatinis - po surinkimo, aplinkkelio redagavimo ekrane ir tiesiogiai nufotografuokite nuotrauką į numatytąją vietą su interneto puslapio pavadinimo kaip numatytąjį failo pavadinimą"
+   },
+   "bad_access_token": {
+      "message": "Neteisingas prieigos raktas ."
+   },
+   "blur": {
+      "message": "migla"
+   },
+   "border": {
+      "message": "Tik Lygiosios sienos"
+   },
+   "cancel": {
+      "message": "atšaukti"
+   },
+   "capture_area": {
+      "message": "Įamžinkite tinklalapis regionas"
+   },
+   "capture_screen": {
+      "message": "Užfiksuoti Ekrano Regionas"
+   },
+   "capture_tip": {
+      "message": "Vilkite ir \"Capture ( spauskite\" Esc \" , kad Išeiti )"
+   },
+   "capture_webpage": {
+      "message": "Įamžinkite visą puslapį"
+   },
+   "capture_window": {
+      "message": "Įamžinkite Visible turinys"
+   },
+   "capturing": {
+      "message": "Teigiamo , prašome palaukti ..."
+   },
+   "close": {
+      "message": "arti"
+   },
+   "close_upload_wrapper": {
+      "message": "arti"
+   },
+   "copy": {
+      "message": "kopija"
+   },
+   "default_title": {
+      "message": "Screen Capture"
+   },
+   "deletion_title": {
+      "message": "Pašalinti paskyrą"
+   },
+   "edit_tip": {
+      "message": "Žemiau yraekrano Jums užfiksuoti. "
+   },
+   "extensionName": {
+      "message": "Ekrano Capture ( Geriau nei \"Google\" )"
+   },
+   "facebook_get_photo_link": {
+      "message": "Gaukite vaizdo ryšį ..."
+   },
+   "facebook_upload_header": {
+      "message": "\"Facebook\""
+   },
+   "failed_to_connect_to_server": {
+      "message": "Nepavyko prisijungti prie serverio."
+   },
+   "failed_to_get_photo_link": {
+      "message": "Nepavyko nuskaityti nuotraukų nuorodą."
+   },
+   "failed_to_get_user_info": {
+      "message": "Gaukite vartotojo informacija nepavyko, bandykite dar kartą vėliau."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "Gaudymo Screen regiono nuoroda yra įregistruota kita programa . "
+   },
+   "failed_to_upload_image": {
+      "message": "Nepavyko įkelti vaizdas , bandykite dar kartą vėliau."
+   },
+   "failure_to_create_album": {
+      "message": "Nepavyko sukurti albumą , bandykite dar kartą vėliau."
+   },
+   "highlight": {
+      "message": "pabrėžti"
+   },
+   "hot_key_conflict": {
+      "message": "Nuorodos konfliktas ."
+   },
+   "image_caption": {
+      "message": "Vaizdo pavadinimas"
+   },
+   "invalid_album_id": {
+      "message": "Albumų nerastas."
+   },
+   "invalid_caption": {
+      "message": "Vaizdo pavadinimas yra būtinas."
+   },
+   "line": {
+      "message": "linija"
+   },
+   "loading": {
+      "message": "Puslapis įkeliamas, prašome palaukti."
+   },
+   "lossless": {
+      "message": "lossless kadrai"
+   },
+   "lossy": {
+      "message": "praradimu kadrai"
+   },
+   "ok": {
+      "message": "gerai"
+   },
+   "open_save_path": {
+      "message": "Eiti į katalogą"
+   },
+   "option": {
+      "message": "Nustatymai"
+   },
+   "options": {
+      "message": "Screen Capture parinktys"
+   },
+   "photo_link_text": {
+      "message": "Patikrinkite Image"
+   },
+   "photo_size_tip": {
+      "message": "Užuomina : Jūs galite nepavyksta įkelti paveikslėlį didesnį nei 3M baitų ."
+   },
+   "picasa_upload_header": {
+      "message": "\"Picasa\" žiniatinklio"
+   },
+   "print": {
+      "message": "spausdinti"
+   },
+   "progress_info": {
+      "message": "Vaizdo įkėlimas , prašome palaukti ..."
+   },
+   "quality_setting": {
+      "message": "Screenshot kokybės nustatymai:"
+   },
+   "rect": {
+      "message": "Užpildykite visas plotas"
+   },
+   "redact": {
+      "message": "Rengti spaudai"
+   },
+   "return_to_site_selection": {
+      "message": "atgal"
+   },
+   "save": {
+      "message": "Išsaugoti"
+   },
+   "save_and_close": {
+      "message": "Išsaugoti & Uždaryti"
+   },
+   "save_fail": {
+      "message": "Nepavyko išsaugoti ekrano ."
+   },
+   "save_image": {
+      "message": "Išsaugoti Vaizdo"
+   },
+   "save_setting": {
+      "message": "Screenshot Išsaugoti nustatymai:"
+   },
+   "save_success": {
+      "message": "Ekrano išsaugotas."
+   },
+   "save_tip": {
+      "message": "Įprasta taupyti vietą :"
+   },
+   "saved_to_path": {
+      "message": "Išleidimas buvo išsaugotas"
+   },
+   "set_save_path": {
+      "message": "Naršyti ..."
+   },
+   "set_save_path_title": {
+      "message": "Pasirinkti Default Išsaugoti Vieta"
+   },
+   "share": {
+      "message": "dalis"
+   },
+   "share_to": {
+      "message": "Bendrinti"
+   },
+   "share_to_facebook_account": {
+      "message": "Dalytis savo Facebook sąskaitą"
+   },
+   "share_to_other_account": {
+      "message": "Dalintis į kitą sąskaitą"
+   },
+   "share_to_picasa_account": {
+      "message": "Dalytis savo \"Picasa\" žiniatinklio sąskaitą"
+   },
+   "shortcut_setting": {
+      "message": "Spartieji nustatymai:"
+   },
+   "shortcutsetting_text": {
+      "message": "Įjungti sparčiuosius klavišus"
+   },
+   "size_huge": {
+      "message": "didžiulis"
+   },
+   "size_large": {
+      "message": "didelis"
+   },
+   "size_normal": {
+      "message": "normalus"
+   },
+   "size_small": {
+      "message": "mažas"
+   },
+   "solid_black": {
+      "message": "juodas"
+   },
+   "special": {
+      "message": "Taispecialus puslapis . "
+   },
+   "text": {
+      "message": "tekstas"
+   },
+   "tip_copy_failed": {
+      "message": "Nepavyko nukopijuoti ekrano ."
+   },
+   "tip_copy_succeed": {
+      "message": "Ekrano nukopijuoti."
+   },
+   "unknown_error": {
+      "message": "Nežinoma klaida ."
+   },
+   "upload_sites_header": {
+      "message": "Dalintis Vaizdo Norėdami"
+   },
+   "user_authentication_tip": {
+      "message": "Vartotojas autentifikavimo , prašome palaukti ..."
+   },
+   "user_denied": {
+      "message": "Vartotojas paneigė ."
+   },
+   "user_logout_tip": {
+      "message": "Atsijungę , prašome palaukti ..."
+   }
+}

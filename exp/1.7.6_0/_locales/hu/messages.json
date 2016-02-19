@@ -1,0 +1,245 @@
+{
+   "account_deletion_confirm": {
+      "message": "Szeretné , hogy távolítsa el ezt a számlát ?"
+   },
+   "appDesc": {
+      "message": "Capture látható tartalmat a lapra , a régió egy internetes oldalon , vagy az egész oldalt PNG képet. "
+   },
+   "autosave": {
+      "message": "Az automatikus mentés - leválasztás után a bypass szerkesztő képernyő és közvetlenül menteni a rögzített kép az alapértelmezett helyen a weboldal címe, mint alapértelmezett fájlnév"
+   },
+   "bad_access_token": {
+      "message": "Érvénytelen Access Token ."
+   },
+   "blur": {
+      "message": "homály"
+   },
+   "border": {
+      "message": "Csak keret rajzolása"
+   },
+   "cancel": {
+      "message": "Mégsem"
+   },
+   "capture_area": {
+      "message": "Capture oldalon Region"
+   },
+   "capture_screen": {
+      "message": "Capture Képernyő Régió"
+   },
+   "capture_tip": {
+      "message": "Drag and Capture ( ESC lenyomásával hagyja )"
+   },
+   "capture_webpage": {
+      "message": "Capture Teljes oldal"
+   },
+   "capture_window": {
+      "message": "Capture látható tartalmat"
+   },
+   "capturing": {
+      "message": "Capturing , kérem várjon ..."
+   },
+   "close": {
+      "message": "közel"
+   },
+   "close_upload_wrapper": {
+      "message": "közel"
+   },
+   "copy": {
+      "message": "másolat"
+   },
+   "default_title": {
+      "message": "Screen Capture"
+   },
+   "deletion_title": {
+      "message": "fiók eltávolítása"
+   },
+   "edit_tip": {
+      "message": "Az alábbiakban a screenshot elfogták . "
+   },
+   "extensionName": {
+      "message": "Pillanatkép Capture ( Jobb, mint a Google )"
+   },
+   "facebook_get_photo_link": {
+      "message": "Visszakeresésére image link ..."
+   },
+   "facebook_upload_header": {
+      "message": "Facebook"
+   },
+   "failed_to_connect_to_server": {
+      "message": "Nem lehet csatlakozni a szerverhez."
+   },
+   "failed_to_get_photo_link": {
+      "message": "Nem sikerült letölteni a fényképet link."
+   },
+   "failed_to_get_user_info": {
+      "message": "Get felhasználói adatokat nem sikerült, próbáld újra később ."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "A parancsikon Capture Képernyő Régió regisztrálva egy másik alkalmazás . "
+   },
+   "failed_to_upload_image": {
+      "message": "Nem sikerült feltölteni a képet, kérjük , próbálja meg később ."
+   },
+   "failure_to_create_album": {
+      "message": "Nem sikerült létrehozni album , próbálja meg újra később ."
+   },
+   "highlight": {
+      "message": "fénypont"
+   },
+   "hot_key_conflict": {
+      "message": "Parancsikonok konfliktus."
+   },
+   "image_caption": {
+      "message": "A kép címe"
+   },
+   "invalid_album_id": {
+      "message": "Album nem található."
+   },
+   "invalid_caption": {
+      "message": "A kép címe van szükség ."
+   },
+   "line": {
+      "message": "vonal"
+   },
+   "loading": {
+      "message": "Az oldal töltődik, kérem várjon ."
+   },
+   "lossless": {
+      "message": "Lossless screenshot"
+   },
+   "lossy": {
+      "message": "veszteséges screenshot"
+   },
+   "ok": {
+      "message": "rendben"
+   },
+   "open_save_path": {
+      "message": "Go to Folder"
+   },
+   "option": {
+      "message": "opciók"
+   },
+   "options": {
+      "message": "Screen Capture Options"
+   },
+   "photo_link_text": {
+      "message": "Nézze meg a képet"
+   },
+   "photo_size_tip": {
+      "message": "Tipp : ha nem sikerül feltölteni egy képet nagyobb, mint a 3M bájt ."
+   },
+   "picasa_upload_header": {
+      "message": "Picasa Web"
+   },
+   "print": {
+      "message": "nyomtatás"
+   },
+   "progress_info": {
+      "message": "A kép feltöltése , kis türelmet ..."
+   },
+   "quality_setting": {
+      "message": "Pillanatkép Quality Settings :"
+   },
+   "rect": {
+      "message": "Töltse ki teljes területet"
+   },
+   "redact": {
+      "message": "megrövidít"
+   },
+   "return_to_site_selection": {
+      "message": "vissza"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "save_and_close": {
+      "message": "Mentés és bezárás"
+   },
+   "save_fail": {
+      "message": "Nem sikerült menteni a képernyőképet ."
+   },
+   "save_image": {
+      "message": "kép mentése más"
+   },
+   "save_setting": {
+      "message": "Pillanatkép Save Settings :"
+   },
+   "save_success": {
+      "message": "Pillanatkép mentett ."
+   },
+   "save_tip": {
+      "message": "Alapértelmezett mentési helye:"
+   },
+   "saved_to_path": {
+      "message": "A screenshot lett mentve"
+   },
+   "set_save_path": {
+      "message": "Böngésszen ..."
+   },
+   "set_save_path_title": {
+      "message": "Válassza ki a Alapértelmezett mentési hely"
+   },
+   "share": {
+      "message": "részvény"
+   },
+   "share_to": {
+      "message": "Megosztás"
+   },
+   "share_to_facebook_account": {
+      "message": "Ossza meg a Facebook fiókjába"
+   },
+   "share_to_other_account": {
+      "message": "Részesedést egy másik számlára"
+   },
+   "share_to_picasa_account": {
+      "message": "Ossza meg a Picasa Web fiók"
+   },
+   "shortcut_setting": {
+      "message": "Shortcut Settings :"
+   },
+   "shortcutsetting_text": {
+      "message": "Engedélyezze a gyorsbillentyűket"
+   },
+   "size_huge": {
+      "message": "hatalmas"
+   },
+   "size_large": {
+      "message": "nagy"
+   },
+   "size_normal": {
+      "message": "normál"
+   },
+   "size_small": {
+      "message": "kis"
+   },
+   "solid_black": {
+      "message": "szilárd Fekete"
+   },
+   "special": {
+      "message": "Ez egy speciális lap . "
+   },
+   "text": {
+      "message": "szöveg"
+   },
+   "tip_copy_failed": {
+      "message": "Nem sikerült átmásolni a screenshot ."
+   },
+   "tip_copy_succeed": {
+      "message": "Pillanatkép másolni."
+   },
+   "unknown_error": {
+      "message": "Ismeretlen hiba ."
+   },
+   "upload_sites_header": {
+      "message": "Fénykép To"
+   },
+   "user_authentication_tip": {
+      "message": "Felhasználó hitelesítő , kérem várjon ..."
+   },
+   "user_denied": {
+      "message": "Felhasználói tagadta ."
+   },
+   "user_logout_tip": {
+      "message": "A kijelentkezés , kérem várjon ..."
+   }
+}
