@@ -498,6 +498,9 @@ var page = {
 		page.pageWidth = $("sc_drag_area_protector").clientWidth;
 		var b = $("sc_drag_area");
 		// 这个位置是 改变 截图区域的 出现位置
+		// b.style.width = "980px";
+		// b.style.height = "730px";
+
 		b.style.left = page.getElementLeft(b) + "px";
 		b.style.top = page.getElementTop(b) + "px";
 		page.startX = page.getElementLeft(b);

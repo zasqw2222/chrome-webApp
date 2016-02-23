@@ -38,7 +38,7 @@ var photoshop = {
 		$("canvas").width = $("mask-canvas").width = $("photo").style.width = photoshop.canvas.width = bg.screenshot.canvas.width;
 		$("canvas").height = $("mask-canvas").height = $("photo").style.height = photoshop.canvas.height = bg.screenshot.canvas.height;
 		var a = photoshop.canvas.getContext("2d");
-		a.drawImage(bg.screenshot.canvas, 100, 100);//画布的初始位置 在这里设置
+		a.drawImage(bg.screenshot.canvas, 0, 0);//画布的初始位置 在这里设置
 		a = $("canvas").getContext("2d");
 		a.drawImage(photoshop.canvas, 0, 0);
 		$("canvas").style.display = "block"
