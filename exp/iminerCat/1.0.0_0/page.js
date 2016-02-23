@@ -489,6 +489,7 @@ var page = {
 		document.addEventListener("mousemove", page.onMouseMove, false);
 		document.addEventListener("mouseup", page.onMouseUp, false);
 		$("sc_drag_container").addEventListener("dblclick", function() {
+			//双击 截图入口
 			page.removeSelectionArea();
 			page.sendMessage({
 				msg: "gtools_scp_capture_selected"
