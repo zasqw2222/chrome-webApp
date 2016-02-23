@@ -1,0 +1,50 @@
+{
+   "author": "zasqw2222",
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html",
+      "default_title": "iminerCat"
+   },
+   "commands": {
+      "Ctrl+Q": {
+         "description": "切换 foo 特性",
+         "global": true,
+         "suggested_key": {
+            "default": "Alt+S",
+            "mac": "Alt+S"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "css": [ "style.css" ],
+      "js": [ "page.js", "shortcut.js", "getRound.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "isLoad.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://ssl.google-analytics.com https://www.google-analytics.com; object-src 'self'",
+   "default_locale": "zh_CN",
+   "description": "iminerCat_zasqw2222",
+   "icons": {
+      "128": "icon.png",
+      "16": "icon.png",
+      "19": "icon.png",
+      "32": "icon.png",
+      "48": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuq24DlQv9noJu7JDAIpGdE/sqaufi5FdQzyLonVhWYa2d9AEf6ioc7pZMqOFis5hueBmSEdlu5n/rVQuoRwPYjJUNf1TmyiznGla0A487iSq1eLVuquJVBT/LQibPIHwsE1Yhi15JGFFUoqgAE5FTqraaBO+c82EtVT3lLaxPsf1sNLooSkZ3NmAPovGOA5Aj4I5R04TgUVd59tkEH1x4tgovfkxl9xvtmx+wJgGGprBTpWZw186nz720bzrxC32l7+vPchIMXfFGtu8kQIiSHc0kmOAuF7nvySpvfRIFyq/i4IHIjN30B38vEARocze5G/V5Sqpb1EzGhBUkuo94wIDAQAB",
+   "manifest_version": 2,
+   "name": "iminerCat",
+   "options_page": "option.html",
+   "permissions": [ "activeTab", "tabs", "notifications", "contextMenus", "webRequest", "webRequestBlocking", "*://*/*", "\u003Call_urls>", "storage" ],
+   "short_name": "toB截图",
+   "version": "1.0.0",
+   "web_accessible_resources": [ "page_context.js", "style.css", "btn_normal.png", "btn_pressed.png", "btn_fullscreen.png", "btn_exitfullscreen.png", "btn_capture.png", "booking.png", "btn_wikipedia.png" ]
+}
