@@ -270,6 +270,7 @@ var page = {
 			if (page.isSelectionAreaTurnOn) {
 				page.removeSelectionArea()
 			}
+			console.log(a)
 			log("in page.js onMessage, request.msg=" + c.msg);
 			switch (c.msg) {
 				case "capture_window":
@@ -325,6 +326,7 @@ var page = {
 	scrollInit: function(f, d, c, e, h) {
 		var i = page.isThisPlatform("mac") ? 1 : 1;
 		this.hookBodyScrollValue(true);
+		console.log(e,c)
 		page.captureHeight = e;
 		page.captureWidth = c;
 		var g = document.body.scrollWidth;
@@ -445,6 +447,7 @@ var page = {
 	matchMarginValue: function(a) {
 		return a.match(/\d+/)
 	},
+	// 创建选择区域
 	createSelectionArea: function() {
 		var f = $("sc_drag_area_protector");
 		var e = page.getZoomLevel();

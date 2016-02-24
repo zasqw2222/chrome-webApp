@@ -15,7 +15,7 @@ const cActionUpgrade = 100;
 
 const cModeVisible = 0;
 const cModeEntire = 1;
-const cModeSelected = 2;
+const cModeSelected = 2;//区域截图
 const cModeBrowser = 3;
 const cModeTabs = 4;
 
@@ -77,6 +77,7 @@ function getPlugin() {
 	return isNativeSupported() ? fsNativePlugin : getJSPlugin();
 }
 
+// 插件命令函数
 function pluginCommand(cmd, param1) {
 	try {
 		var obj = param1 ? param1 : {},
@@ -109,20 +110,31 @@ function logToConsole(data) {
 	if (isDebug)
 		console.log(data);
 }
+function log(str){
+    console.log(str)
+}
 
 function logError(data) {
 	console.error("FireShot: " + data);
 }
 
+// 获取高
 function getSBHeight(window) {
-	if (window.scrollbars.visible) {
+	// 滚动条是否可见
+	if (window.scrollbars.visible) {//如果有滚动条
+		// 创建一个 高100%的不可见的div
 		var spacer = window.document.createElement("div");
 		spacer.setAttribute("style", "position: fixed; margin: 0px; padding: 0px; border: none; visibility: hidden;  top: 0px; left: 0px; width: 1px; height: 100%; z-index: -1;");
+		// 加入到文档中
 		window.document.body.appendChild(spacer);
+        
+        // 根据win内部的高 和 创建的 div的真实高 来确定sbHeight
 		var sbHeight = window.innerHeight - spacer.offsetHeight;
+        // 移除div
 		window.document.body.removeChild(spacer);
+        // 如果大于 0 < sbHeigth < 40  返回 sbHeight 否则返回0
 		return sbHeight > 0 && sbHeight < 40 ? sbHeight : 0;
-	} else return 0;
+	} else return 0;//没有滚动条返回0
 }
 
 function getExtension() {
