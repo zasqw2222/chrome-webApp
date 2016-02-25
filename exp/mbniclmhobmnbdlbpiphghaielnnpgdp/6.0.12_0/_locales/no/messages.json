@@ -1,0 +1,221 @@
+{
+    "screenshot_plugin_share_facebook": {
+        "message": "Del p\u00e5 Facebook"
+    }, 
+    "screenshot_plugin_upload": {
+        "message": "Last opp til prntscr.com"
+    }, 
+    "screenshot_plugin_uploading_window_capt": {
+        "message": "Laster opp bildet"
+    }, 
+    "screenshot_plugin_share_tineyesearch": {
+        "message": " S\u00f8k etter lignende bilder p\u00e5 Tineye"
+    }, 
+    "screenshot_plugin_edit_arrow": {
+        "message": "Pil"
+    }, 
+    "screenshot_plugin_edit_undo": {
+        "message": "Angre"
+    }, 
+    "screenshot_app_options_proxy": {
+        "message": "Systeminnstilling"
+    }, 
+    "screenshot_plugin_open": {
+        "message": "\u00c5pne"
+    }, 
+    "screenshot_plugin_close": {
+        "message": "Lukk"
+    }, 
+    "screenshot_plugin_edit_pencil": {
+        "message": "Penn"
+    }, 
+    "screenshot_plugin_incorrect_size": {
+        "message": "Feil st\u00f8rrelse"
+    }, 
+    "screenshot_plugin_edit_blur": {
+        "message": "Blur"
+    }, 
+    "screenshot_plugin_fullscreen": {
+        "message": "Velg  Full Skjerm"
+    }, 
+    "screenshot_plugin_npapi_not_found": {
+        "message": "Feil: Lightshot NPAPI PlugIn ble ikke funndet. Pr\u00f8v \u00e5 resette browseren (refreshe browseren). Hvis du fortsatt ser denne feilen etter \u00e5 ha resatt browseren vennligst kontakt support@skillbrains.com."
+    }, 
+    "screenshot_app_language_name_eng": {
+        "message": "Norwegian"
+    }, 
+    "screenshot_app_help": {
+        "message": "Hjelp"
+    }, 
+    "screenshot_app_language_code": {
+        "message": "NO"
+    }, 
+    "screenshot_plugin_edit_rect": {
+        "message": "Rektangel"
+    }, 
+    "screenshot_plugin_other_os": {
+        "message": "Vi beklager ubeleiligheten, men Lightshot Extension fungerer bare p\u00e5 Windows og Mac computer. Hvis du \u00f8nsker Lightshot for ditt operativsystem, vennligst kontakt support@skillbrains.com."
+    }, 
+    "screenshot_plugin_screenshot_copied_to_clipboard": {
+        "message": "Skjermbildet ble kopiert til utklippstavlen"
+    }, 
+    "screenshot_plugin_editonline": {
+        "message": "Rediger  skjermebildet online"
+    }, 
+    "screenshot_app_menu_sign_out": {
+        "message": "Logg ut"
+    }, 
+    "screenshot_plugin_share_pinterest": {
+        "message": "Del p\u00e5 Pinterest"
+    }, 
+    "screenshot_plugin_share": {
+        "message": "Del p\u00e5 sosiale nettverk"
+    }, 
+    "screenshot_app_options_httpsproxy": {
+        "message": "HTTP(S) proxy"
+    }, 
+    "screenshot_app_about": {
+        "message": "Om"
+    }, 
+    "screenshot_app_signed_in_as": {
+        "message": "Logg inn som:"
+    }, 
+    "screenshot_plugin_share_googlesearch": {
+        "message": "S\u00f8k etter lignende bilder p\u00e5 Google"
+    }, 
+    "screenshot_plugin_print": {
+        "message": "Skriv  ut"
+    }, 
+    "screenshot_app_options_proxyport": {
+        "message": "Port"
+    }, 
+    "screenshot_plugin_screenshot_uploaded_link_copied": {
+        "message": "Skjermbildet er opplastet. Lenke er kopiert til utklippstavlen."
+    }, 
+    "screenshot_app_options_hotkey": {
+        "message": "Hotkey"
+    }, 
+    "screenshot_app_menu_sign_in": {
+        "message": "Logg inn..."
+    }, 
+    "screenshot_plugin_screenshot_saved": {
+        "message": "Skjermbildet lagret p\u00e5 %filename%. Klikk her f\u00e5r \u00e5 \u00e5pne filen."
+    }, 
+    "screenshot_plugin_tooltip": {
+        "message": "Velg omr\u00e5de"
+    }, 
+    "screenshot_plugin_share_twitter": {
+        "message": "Del p\u00e5 Twitter"
+    }, 
+    "screenshot_plugin_edit_marker": {
+        "message": "Mark\u00f8r"
+    }, 
+    "screenshot_app_exit": {
+        "message": "Avslutt"
+    }, 
+    "screenshot_app_options_manualproxy": {
+        "message": "Sett systeminnstilinger manuelt"
+    }, 
+    "screenshot_app_signin_error_caption": {
+        "message": "Lightshot LogIn feil"
+    }, 
+    "screenshot_app_signin_dialog_caption": {
+        "message": "Logg inn"
+    }, 
+    "screenshot_app_language_name": {
+        "message": "Norsk"
+    }, 
+    "screenshot_app_options_language": {
+        "message": "Spr\u00e5k"
+    }, 
+    "screenshot_app_options": {
+        "message": "Alternativ"
+    }, 
+    "screenshot_plugin_upload_failed_retry": {
+        "message": "Opplasting mislykket. Pr\u00f8ve igjen?"
+    }, 
+    "screenshot_plugin_edit_line": {
+        "message": "Strek"
+    }, 
+    "screenshot_plugin_share_sendmail": {
+        "message": "Send via email"
+    }, 
+    "screenshot_plugin_copy": {
+        "message": "Kopier"
+    }, 
+    "screenshot_plugin_save": {
+        "message": "Lagre"
+    }, 
+    "screenshotplugin_default_title": {
+        "message": "Ta et skjermbilde"
+    }, 
+    "screenshot_plugin_cancel": {
+        "message": "Avbryt"
+    }, 
+    "screenshot_app_options_autocopy": {
+        "message": "Kopier lenke automatisk etter opplating"
+    }, 
+    "screenshot_app_take_screenshot": {
+        "message": "Ta skjermbilde"
+    }, 
+    "screenshotplugin_name": {
+        "message": "Lightshot (Skjermbilde verkt\u00f8y)"
+    }, 
+    "screenshot_app_options_autoclose": {
+        "message": "Lukk opplastingsvindu automatisk"
+    }, 
+    "screenshot_plugin_edit_text": {
+        "message": "Tekst"
+    }, 
+    "screenshot_app_signin_error_text": {
+        "message": "Lightshot: Feil oppstod ved innlogging. Vennligst fors\u00f8k igjen."
+    }, 
+    "screenshot_plugin_go_to_mac_store": {
+        "message": "Vi beklager ubeleiligheten, men Lightshot Extension fungerer bare p\u00e5 Windows Computere. Hvis du \u00f8nsker Lightshot for Mac, vennligst last den ned fra Mac AppStore. G\u00e5 til AppStore n\u00e5?"
+    }, 
+    "screenshot_app_options_showbubbles": {
+        "message": "Vis varslingstekst p\u00e5 kopien og lagre"
+    }, 
+    "screenshot_app_tray_tooltip": {
+        "message": "Press PrtScr tast p\u00e5 tastaturet for \u00e5 ta et skjermbilde"
+    }, 
+    "screenshot_app_options_systemproxy": {
+        "message": "Bruk systeminnstillinger"
+    }, 
+    "screenshot_app_options_noproxy": {
+        "message": "Ingen system"
+    }, 
+    "screenshot_plugin_error_capt": {
+        "message": "Feil"
+    }, 
+    "screenshot_app_menu_gallery": {
+        "message": "Mitt galleri (%brukernavn%)"
+    }, 
+    "screenshot_app_terms": {
+        "message": "Lightshot betingelser"
+    }, 
+    "screenshot_plugin_share_vk": {
+        "message": "Del p\u00e5 VK"
+    }, 
+    "screenshotplugin_short_description": {
+        "message": "Enkelt og praktisk skjermbildeverkt\u00f8y. Ta skjermbilder av et hvert utvalgt omr\u00e5de p\u00e5 skjermen, rediger og last opp til server."
+    }, 
+    "screenshot_plugin_edit_circle": {
+        "message": "Sirkel"
+    }, 
+    "screenshot_app_options_capturecursor": {
+        "message": "Utvalgspekeren"
+    }, 
+    "screenshot_plugin_edit_color": {
+        "message": "Farge"
+    }, 
+    "screenshot_app_options_general": {
+        "message": "Generelt"
+    }, 
+    "screenshot_app_copyright": {
+        "message": "%company% All rights reserved."
+    }, 
+    "screenshot_plugin_clear": {
+        "message": "Slett  utvalg"
+    }
+}

@@ -1,0 +1,170 @@
+{
+   "screenshot_app_about": {
+      "message": "À propos"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Tous droits réservés."
+   },
+   "screenshot_app_exit": {
+      "message": "Quitter"
+   },
+   "screenshot_app_language_code": {
+      "message": "FR"
+   },
+   "screenshot_app_language_name": {
+      "message": "Français"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "French"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Ma gallerie"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Se connecter..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Se déconnecter"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Se connecter"
+   },
+   "screenshot_app_signin_dialog_check_now": {
+      "message": "Vérifier maintenant"
+   },
+   "screenshot_app_signin_dialog_first_line": {
+      "message": "1) Se connecter sur prntscr.com en utilisant le lien ci-dessous:"
+   },
+   "screenshot_app_signin_dialog_singin_link": {
+      "message": "Se connecter sur prntscr.com"
+   },
+   "screenshot_app_signin_dialog_wait_signin": {
+      "message": "Attente de la connexion..."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Prendre une capture d'écran"
+   },
+   "screenshot_app_terms": {
+      "message": "Conditions de service Lightshot"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Appuyer sur la touche Imprécran pour prendre capture d'écran avec Lightshot"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Annuler"
+   },
+   "screenshot_plugin_clear": {
+      "message": "Effacer la sélection"
+   },
+   "screenshot_plugin_close": {
+      "message": "Fermer"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Copier"
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Flèche"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Brouiller (verb)/ Flou (Noun)"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Cercle"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Couleur"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Ligne"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Marqueur"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Stylo"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Rect"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Texte"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "annuler"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Modifer la capture d'écran en ligne"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Erreur"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Sélectionner plein écran"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Nous nous excusons pour la gêne, mais l'extension Lightshot fonctionne seulement sur les ordinateurs Windows. Si vous voulez Lightshot pour Mac, Veuillez la télécharger du l'App Store Mac. Aller sur l'App Store maintenant?"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Taille incorrecte"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Erreur: Le plugin Lightshot NPAPI est introuvable. Essayez de redémarrer le navigateur. Si vous rencontrez toujours cette erreur après redémarrage, veuillez contactez support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Ouvrir"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Nous nous excusons pour la gêne, mais Lightshot fonctionne seulement sur les ordinateurs Windows et Mac. Si vous voulez LightShot pour votre système d'exploitation, veuillez contacter support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Imprimer"
+   },
+   "screenshot_plugin_save": {
+      "message": "Enregistrer"
+   },
+   "screenshot_plugin_share": {
+      "message": "Partager sur les réseaux sociaux"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Partager sur Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Rechercher des images similaires sur Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Partager sur Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Envoyer par email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Rechercher des images similaires sur Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Partager sur Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Partager sur VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Sélectionner la zone"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Héberger sur prntscr.com"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Echec de téléchargement. Réessayer?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Envoi de l'image"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Prendre un capture d'écran"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (Outil de capture d'écran)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Outil de capture d'écran facile et pratique."
+   }
+}

@@ -1,0 +1,98 @@
+{
+   "screenshot_app_about": {
+      "message": "O nama"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% All rights reserved."
+   },
+   "screenshot_app_exit": {
+      "message": "Izadji"
+   },
+   "screenshot_app_language_code": {
+      "message": "SR"
+   },
+   "screenshot_app_language_name": {
+      "message": "Srpski"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Serbian"
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Snimi screenshot"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot Uslovi korišćenja"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Pritisnite PrtScr dugme na vašoj tastaturi da snimite screenshoot"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Otkaži"
+   },
+   "screenshot_plugin_clear": {
+      "message": "Očisti"
+   },
+   "screenshot_plugin_close": {
+      "message": "Zatvori"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopiraj"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Izmeni sliku"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Greška"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Na ceo ekran"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Pogrešna veličina"
+   },
+   "screenshot_plugin_open": {
+      "message": "Otvori"
+   },
+   "screenshot_plugin_print": {
+      "message": "Odštampaj"
+   },
+   "screenshot_plugin_save": {
+      "message": "Snimi"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Podeli na Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Pretraži slične fotografije na Google"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Pošalji emailom"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Pretraži slične fotografije na Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Podeli na Twitter"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Označi područje"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Postavi na prntscr.com"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Slanje neuspešno. Probaj ponovo?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Slanje slike"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Take Screenshot"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (screenshot tool)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Easy and convenient screen capture tool. Allows you to make screenshot of any selected area, edit and upload it to server."
+   }
+}

@@ -1,0 +1,95 @@
+{
+   "screenshot_app_about": {
+      "message": "Σχετικά με"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Με επιφύλαξη παντός δικαιώματος."
+   },
+   "screenshot_app_exit": {
+      "message": "Έξοδος"
+   },
+   "screenshot_app_language_code": {
+      "message": "GR"
+   },
+   "screenshot_app_language_name": {
+      "message": "Ελληνικά"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Greek"
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Πάρτε screenshot"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot όροι της υπηρεσίας"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Άκυρο"
+   },
+   "screenshot_plugin_clear": {
+      "message": "Καθαρισμός"
+   },
+   "screenshot_plugin_close": {
+      "message": "Κλείσιμο"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Αντιγραφή"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Επεξεργασία screenshot"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Σφάλμα"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Επιλέξτε πλήρη οθόνη"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Λάθος μέγεθος"
+   },
+   "screenshot_plugin_open": {
+      "message": "Άνοιγμα"
+   },
+   "screenshot_plugin_print": {
+      "message": "Εκτύπωση"
+   },
+   "screenshot_plugin_save": {
+      "message": "Αποθήκευση"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Μοιραστείτε στο Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Αναζήτηση παρόμοιον εικόνων στο Google"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Αποστολή μέσω email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Αναζήτηση παρόμοιον εικόνων στο Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Μοιραστείτε στο Twitter"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Επιλέξτε την περιοχή"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Ανέβασμα στο prntscr.com"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Ανέβασμα απέτυχε. Επανάληψη?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Ανέβασμα εικόνας"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Take Screenshot"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (screenshot tool)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Easy and convenient screen capture tool. Allows you to make screenshot of any selected area, edit and upload it to server."
+   }
+}

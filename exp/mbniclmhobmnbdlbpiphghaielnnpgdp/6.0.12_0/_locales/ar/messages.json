@@ -1,0 +1,260 @@
+{
+   "screenshot_app_about": {
+      "message": "حول البرنامج"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% جميع الحقوق محفوظة"
+   },
+   "screenshot_app_exit": {
+      "message": "خروج"
+   },
+   "screenshot_app_help": {
+      "message": "مساعدة"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": ":فشل في تسجيل مفتاح الاختصار"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "من المرجح ان تطبيق آخر يستخدم هذا المفتاح بالفعل. انقر على هذه الرسالة لاظهار الخيارات"
+   },
+   "screenshot_app_language_code": {
+      "message": "AR"
+   },
+   "screenshot_app_language_name": {
+      "message": "عربي"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Arabic"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": " (%username%) معرضي الخاص"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "...جار تسجيل الدخول"
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "تسجيل الخروج"
+   },
+   "screenshot_app_options": {
+      "message": "الإعدادات"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "إغلاق نافذة التحميل تلقائياً"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "نسخ الرابط تلقائياً بعد الرفع"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "إلتقاط المؤشر"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "لا يمكنك تعيين نفس مفاتيح الاختصار لوظائف مختلفة. الرجاء تغيير واحد من مفاتيح الاختصار."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "واحد من مفاتيح الاختصار الذي اخترته غير صالح. إذا كنت ترغب في تعطيل هذا المفتاح، يرجى إلغاء تحديد خانة الاختيار المقابلة"
+   },
+   "screenshot_app_options_formats": {
+      "message": "الصيغ"
+   },
+   "screenshot_app_options_general": {
+      "message": "عام"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "مفتاح الاختصار العام"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "إختصارات لوحة المفاتيح"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "إلتقاط فوري للشاشة كاملة"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "إلتقاط ورفع فوري للشاشة كاملة"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) وكيل"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG جودة"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "حفظ مكان المنطقة المحددة سابقاً"
+   },
+   "screenshot_app_options_language": {
+      "message": "اللغة"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "تكوين يدوي للوكيل"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "لا تستخدم وكيل"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "الوكيل"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "المنفذ"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "إظهار رسائل بلونية عند النسخ والحفظ"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "استخدام إعدادات النظام للوكيل"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "اختيار صيغ الصور"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": ":مسجل الدخول كـ"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "تسجيل الدخول"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "حدث خطأ عند تسجيل الدخول"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "حدث خطأ اثناء محاولة تسجيل الدخول، من فضلك حاول مرة اخرى"
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "إلتقاط صورة"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot شروط إستخدام"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": " لإلتقاط صورة PrtScr إضغط على مفتاح"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "إلغاء"
+   },
+   "screenshot_plugin_clear": {
+      "message": "إزالة الإختيار"
+   },
+   "screenshot_plugin_close": {
+      "message": "إغلاق"
+   },
+   "screenshot_plugin_copy": {
+      "message": "نسخ"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": ":\\n\\n معلومات اكثر حول الخطأ support@skillbrains.com خطأ: فشل الفايرفكس في تشغيل الاداة. قم بإعادة تشغيل المتصفح. لو استمريت في مشاهدة هذا الخطأ, رجاءً تواصل مع الدعم على"
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "سـهم"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "ضبابية"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "دائـرة"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "الألوان"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "خـط"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "عـلامة"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "قـلم"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "مصحح"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "نـص"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "تـراجع"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "تعديل الصورة  على الإنترنت"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "خطأ"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "تحديد شاشة كاملة"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "يعمل فقط علي نظام التشغيل ويندوز فقط. إذا كنت تريد هذا البرنامج لنظام التشغيل ماك قم بتحميله من المتجر الخاص بالماك. الذهاب الي متجر الماك الآن؟ Lightshot نعتذر عن هذا الازعاج ولكن هذا الإمتداد من "
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "حجم خاطئ"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "support@skillbrains.com غير موجود. قم بإعادة تنشيط المتصفح.. إذا واصلت في مشاهدة هذا الخطأ الرجاء مراسلتنا على Lighshot NPAPI المكون الإضافي"
+   },
+   "screenshot_plugin_open": {
+      "message": "فتح"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "support@skillbrains.com يعمل فقط علي انظمه التشغيل الماك والويندوز فقط. اذا كنت تريد ان يعمل هذا البرنامج علي نظام التشغيل الخاص بك من فضلك راسل Lighshot نعتذر عن الإزعاج ولكن"
+   },
+   "screenshot_plugin_print": {
+      "message": "طباعة"
+   },
+   "screenshot_plugin_save": {
+      "message": "حفظ"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "تم نسخ الصورة إلى الحافظة"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": ":\\n\\n معلومات اكثر حول الخطأ support@skillbrains.com خطأ: لم تستطع الأداة أخذ الصورة. قم بإعادة تشغيل المتصفح. لو استمريت في مشاهدة هذا الخطأ, رجاءً تواصل مع الدعم على "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "اضغط هنا لعرض المجلد .%filename% تم حفظ الصورة بإسم"
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "تم رفع الصورة. تم نسخ الرابط الي الحافظة"
+   },
+   "screenshot_plugin_share": {
+      "message": "مشاركة علي الشبكات الإجتماعية"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "مشاركة على الفيسبوك"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "البحث عن صورة مشابة في جوجل"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Pinterest مشاركة على"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "إرسال عبر الإيميل"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Tineye البحث عن صورة مشابهة في"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "نشر على تويتر"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "VK مشاركة على"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "حدد المنطقة"
+   },
+   "screenshot_plugin_upload": {
+      "message": "prntscr.com رفع الصورة إلى"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "فشل رفع الصورة، محاولة اخرى؟"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "جار رفع الصورة"
+   },
+   "screenshotplugin_default_title": {
+      "message": "إلتقاط صورة"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (أداة لقطة شاشة)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "اداة إلتقاط الشاشة سهلة ومريحة. تسمح لك لإختيار اي جزء من الشاشة لاخذ لقطة منه، ورفع الصورة على الانترنت"
+   }
+}

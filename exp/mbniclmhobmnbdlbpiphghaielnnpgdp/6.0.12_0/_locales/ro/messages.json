@@ -1,0 +1,98 @@
+{
+   "screenshot_app_about": {
+      "message": "Despre"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Toate drepturile rezervate."
+   },
+   "screenshot_app_exit": {
+      "message": "Ieşire"
+   },
+   "screenshot_app_language_code": {
+      "message": "RO"
+   },
+   "screenshot_app_language_name": {
+      "message": "Română"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Romanian"
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Efectuează captura"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot Termeni şi condiţii"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Apasă tasta PrtScr de pe tastatură pentru a efectua captura de ecran"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Anulează"
+   },
+   "screenshot_plugin_clear": {
+      "message": "Curăţă"
+   },
+   "screenshot_plugin_close": {
+      "message": "Închide"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Copiază"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Editează captura de ecran"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Eroare"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Pe tot ecranul"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Dimensiune greşită"
+   },
+   "screenshot_plugin_open": {
+      "message": "Deschide"
+   },
+   "screenshot_plugin_print": {
+      "message": "Printează"
+   },
+   "screenshot_plugin_save": {
+      "message": "Salvează"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Distribuiţi pe Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Caută imagini similare pe Google Google"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Trimite prin email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Caută imagini similare pe Google Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Distribuiţi pe Twitter"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Selectează arena"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Încarcă pe prntscr.com"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Incărcare nereusită. Reîncercaţi?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Imaginea se incarcă"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Take Screenshot"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (screenshot tool)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Easy and convenient screen capture tool. Allows you to make screenshot of any selected area, edit and upload it to server."
+   }
+}

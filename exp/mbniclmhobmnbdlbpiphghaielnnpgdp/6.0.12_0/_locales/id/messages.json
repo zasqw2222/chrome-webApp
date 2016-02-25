@@ -1,0 +1,98 @@
+{
+   "screenshot_app_about": {
+      "message": "Tentang"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Hak Cipta Dilindungi."
+   },
+   "screenshot_app_exit": {
+      "message": "Keluar"
+   },
+   "screenshot_app_language_code": {
+      "message": "ID"
+   },
+   "screenshot_app_language_name": {
+      "message": "Bahasa Indonesia"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Indonesian"
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Ambil screenshot"
+   },
+   "screenshot_app_terms": {
+      "message": "Ketentuan Pelayanan Lightshot"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Tekan tombol PrtScr di Keyboard untuk mengambil screenshot"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Batalkan"
+   },
+   "screenshot_plugin_clear": {
+      "message": "Bersihkan"
+   },
+   "screenshot_plugin_close": {
+      "message": "Tutup"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Salin"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Mengedit Screenshot"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Error"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Pilih Layar Penuh"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Ukuran Salah"
+   },
+   "screenshot_plugin_open": {
+      "message": "Buka"
+   },
+   "screenshot_plugin_print": {
+      "message": "Cetak"
+   },
+   "screenshot_plugin_save": {
+      "message": "Simpan"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Sebarkan di Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Cari Gambar Serupa di Google"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Kirim lewat email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Cari Gambar Serupa di Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Sebarkan di Twitter"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Pilih area"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Unggah ke prntscr.com"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Unggah gagal, Coba lagi ?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Mengunggah Gambar"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Take Screenshot"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (screenshot tool)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Easy and convenient screen capture tool. Allows you to make screenshot of any selected area, edit and upload it to server."
+   }
+}

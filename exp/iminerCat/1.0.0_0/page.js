@@ -270,7 +270,6 @@ var page = {
 			if (page.isSelectionAreaTurnOn) {
 				page.removeSelectionArea()
 			}
-			console.log(a)
 			log("in page.js onMessage, request.msg=" + c.msg);
 			switch (c.msg) {
 				case "capture_window":
@@ -303,9 +302,18 @@ var page = {
 					window.scrollBy(-1, -1);
 					// console.log(page.startX,page.startY,page.endX)
 					// 这个位置是确定截取位置
-					page.startX += 12;
-					page.endX += 24;
-					a(page.scrollInit(page.startX, page.startY, page.calculateSizeAfterZooming(page.endX - page.startX), page.calculateSizeAfterZooming(page.endY - page.startY), "captureSelected"));
+					if(/ent.people.com.cn/i.test(window.location.href)){
+						// console.log(11111)
+						page.startX += 30;
+						page.endX += 82;
+						// page.endx -=10;
+					}else{
+						page.startX += 12;
+						page.endX += 6;
+					}
+					
+					// a(page.scrollInit(page.startX, page.startY, page.calculateSizeAfterZooming(page.endX - page.startX), page.calculateSizeAfterZooming(page.endY - page.startY), "captureSelected"));
+					a(page.scrollInit(page.startX, page.startY, (page.endX - page.startX), 730, "captureSelected"));
 					break;
 				case "gtools_scp_restore_scrollbar":
 					document.body.style.overflow = "";
@@ -324,9 +332,10 @@ var page = {
 		chrome.runtime.sendMessage(a)
 	},
 	scrollInit: function(f, d, c, e, h) {
-		var i = page.isThisPlatform("mac") ? 1 : 1;
+		// var i = page.isThisPlatform("mac") ? 1 : 1;
+		console.log(f,d,c,e,h)
+		var i = 1;
 		this.hookBodyScrollValue(true);
-		console.log(e,c)
 		page.captureHeight = e;
 		page.captureWidth = c;
 		var g = document.body.scrollWidth;
@@ -351,8 +360,10 @@ var page = {
 		var a = page.getViewPortSize();
 		return {
 			msg: "gtools_scp_scroll_init_done",
-			startX: page.calculateSizeAfterZooming(f) * i,
-			startY: page.calculateSizeAfterZooming(d) * i,
+			startX : f,
+			startY : d,
+			// startX: page.calculateSizeAfterZooming(f) * i,
+			// startY: page.calculateSizeAfterZooming(d) * i,
 			scrollX: window.scrollX * i,
 			scrollY: window.scrollY * i,
 			docHeight: j * i,
@@ -517,6 +528,7 @@ var page = {
 			var doc = ddd.contentWindow.document;
 			console.log(doc.getElementById('title').innerHTML);
 		}
+		
 		b.style.width = "980px";
 		b.style.height = "730px";
 		c.style.top = 0;
@@ -628,6 +640,7 @@ var page = {
 						l = page.endY - page.startY;
 						k.style.top = page.startY + "px"
 					}
+					k.style.height = '730px;';
 					// k.style.height = l + "px";//高度不变
 					k.style.width = c + "px";
 					if (window.innerWidth < b) {
@@ -736,7 +749,8 @@ var page = {
 	updateSize: function() {
 		var b = Math.abs(page.endX - page.startX);
 		var a = Math.abs(page.endY - page.startY);
-		$("sc_drag_size").innerText = page.calculateSizeAfterZooming(b) + " x " + page.calculateSizeAfterZooming(a)
+		// $("sc_drag_size").innerText = page.calculateSizeAfterZooming(b) + " x " + page.calculateSizeAfterZooming(a)
+		$("sc_drag_size").innerText = b + " x " + a
 	},
 	createDiv: function(b, c) {
 		var a = document.createElement("div");
@@ -818,19 +832,3 @@ page.sendMessage({
 	msg: "url_for_access_token",
 	url: window.location.href
 });
-// var $$ = jQuery;
-
-// function clickable_links() {
-// 	if (/https|ftp|file/.test(location.protocol)) {
-// 		return
-// 	}
-// 	if (/localhost|:\d+|bing|google|baidu|(\d+\.){3}\d+/i.test(location.host)) {
-// 		return
-// 	}
-// 	var a = "http://www.google.com/search?q=$1";
-// 	if (navigator.language.indexOf("zh") !== -1) {
-// 		a = "http://www.baidu.com/s?wd=$1&ie=utf-8&tn=94749616_hao_pg"
-// 	}
-// 	$$("body *").replaceText(/(“.{3,4}”|“.{5,6}”|婴儿车|婴儿奶粉|双色球|英雄联盟|乐视网|京东|不孕不育|减肥|英语培训|辅导课|MBA报名)/gi, '<a class="skylink" target="_blank" href="' + a + '">$1</a>')
-// }
-// clickable_links();

@@ -1,0 +1,98 @@
+{
+   "screenshot_app_about": {
+      "message": "เกี่ยวกับ Lightshot"
+   },
+   "screenshot_app_copyright": {
+      "message": "สงวนลิขสิทธิ์โดย %company%"
+   },
+   "screenshot_app_exit": {
+      "message": "ออกจากโปรแกรม"
+   },
+   "screenshot_app_language_code": {
+      "message": "TH"
+   },
+   "screenshot_app_language_name": {
+      "message": "ภาษาไทย"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Thai"
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "เก็บภาพหน้าจอ"
+   },
+   "screenshot_app_terms": {
+      "message": "ข้อกำหนดในการให้บริการ"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "กดปุ่ม PrtScr บนแป้นพิมพ์เพื่อทำการเก็บภาพหน้าจอ"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "ยกเลิก"
+   },
+   "screenshot_plugin_clear": {
+      "message": "ล้าง"
+   },
+   "screenshot_plugin_close": {
+      "message": "ปิด"
+   },
+   "screenshot_plugin_copy": {
+      "message": "คัดลอก"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "แก้ไขรูปภาพ"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "ผิดพลาด"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "เต็มหน้าจอ"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "ขนาดของรูปไม่ถูกต้อง"
+   },
+   "screenshot_plugin_open": {
+      "message": "เปิด"
+   },
+   "screenshot_plugin_print": {
+      "message": "พิมพ์"
+   },
+   "screenshot_plugin_save": {
+      "message": "บันทึก"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "แชร์ไปที่ Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "ค้นหารูปที่คล้ายกันจาก Google"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "ส่งผ่าน Email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "ค้นหารูปที่คล้ายกันจาก Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "แชร์ไปที่ Twitter"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "เลือกพื้นที่ของภาพ"
+   },
+   "screenshot_plugin_upload": {
+      "message": "อัพโหลดไปที่ prntscr.com"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "การอัพโหลดผิดพลาด, ท่านจะลองอีกครั้งหรือไม่?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "กำลังอัพโหลดรูป"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Take Screenshot"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (screenshot tool)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Easy and convenient screen capture tool. Allows you to make screenshot of any selected area, edit and upload it to server."
+   }
+}

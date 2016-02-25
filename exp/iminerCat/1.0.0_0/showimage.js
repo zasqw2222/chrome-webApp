@@ -430,12 +430,12 @@ var photoshop = {
 		photoshop.draw();
 		var b = "jpeg";
 		var d;
-		var a = 0.8;
+		var a = 1;
 		var c = bg.screenshot.isThisPlatform("mac");
 		if (c) {
 			a = 0.12 * 2500 * 9600 / (bg.screenshot.canvas.width * bg.screenshot.canvas.height);
 			if (a > 1) {
-				a = 0.8
+				a = 1
 			}
 		} else {
 			a = 0.84 * 1280 * 4800 / (bg.screenshot.canvas.width * bg.screenshot.canvas.height);
@@ -446,7 +446,7 @@ var photoshop = {
 		if (bg.screenshot.canvas.width * bg.screenshot.canvas.height < 1280 * 700) {
 			a = 1
 		}
-		d = $("canvas").toDataURL("image/jpeg", a);
+		d = $("canvas").toDataURL("image/jpeg", 1);
 		$("saveImageLink").href = d.replace(/^data:image\/[^;]/, "data:application/octet-stream");
 		$("saveImageLink").download = photoshop.tabTitle + ".png";
 		$("saveImageLink").click();

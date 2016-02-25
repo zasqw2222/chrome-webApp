@@ -1,0 +1,98 @@
+{
+   "screenshot_app_about": {
+      "message": "Относно"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Всички права са запазени"
+   },
+   "screenshot_app_exit": {
+      "message": "Изход"
+   },
+   "screenshot_app_language_code": {
+      "message": "BG"
+   },
+   "screenshot_app_language_name": {
+      "message": "Български език"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Bulgarian"
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Направи снимка"
+   },
+   "screenshot_app_terms": {
+      "message": "Условия за ползване на Lightshot"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Натиснете бутона PrtScr на вашата клавиатура, за да снимате"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Отказване"
+   },
+   "screenshot_plugin_clear": {
+      "message": "Изчистване"
+   },
+   "screenshot_plugin_close": {
+      "message": "Затваряне"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Копиране"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Редактиране"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Грешка"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Избиране на целия екран"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Неправилен размер"
+   },
+   "screenshot_plugin_open": {
+      "message": "Отвори"
+   },
+   "screenshot_plugin_print": {
+      "message": "Принтиране"
+   },
+   "screenshot_plugin_save": {
+      "message": "Запазване"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Сподели в Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Търсене на подобни изображения в Google"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Изпрати чрез email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Търсене на подобни изображения в Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Сподели в Twitter"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Избери област"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Качване в prntscr.com"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Качването е прекъснато. Ще опитате ли отново?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Качване на изображението"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Take Screenshot"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (screenshot tool)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Easy and convenient screen capture tool. Allows you to make screenshot of any selected area, edit and upload it to server."
+   }
+}

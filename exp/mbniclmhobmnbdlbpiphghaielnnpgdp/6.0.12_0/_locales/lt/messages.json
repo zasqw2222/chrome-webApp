@@ -1,0 +1,176 @@
+{
+   "screenshot_app_about": {
+      "message": "Apie"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Visos teisės saugomos."
+   },
+   "screenshot_app_exit": {
+      "message": "Išeiti"
+   },
+   "screenshot_app_language_code": {
+      "message": "LT"
+   },
+   "screenshot_app_language_name": {
+      "message": "Lietuvių"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Lithuanian"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Mano galerija (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Prisijungti..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Atsijungti"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Prisijungti"
+   },
+   "screenshot_app_signin_dialog_check_now": {
+      "message": "Patikrinti dabar"
+   },
+   "screenshot_app_signin_dialog_first_line": {
+      "message": "1) Prisijunk per prntscr.com naudojantis nuoroda apačioje:"
+   },
+   "screenshot_app_signin_dialog_singin_link": {
+      "message": "Prisijungti į prntscr.com"
+   },
+   "screenshot_app_signin_dialog_wait_signin": {
+      "message": "Laukiama kol bus prisijungta..."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Padaryti ekranvaizdžio nuotrauką"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot terminai ir paslaugos"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Paspauskite PrtScr mygtuka savo klaviatūroje, kad padarytumėte ekranvaizdžio nuotrauką"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Atšaukti"
+   },
+   "screenshot_plugin_clear": {
+      "message": "Ištrinti pasirinkimą"
+   },
+   "screenshot_plugin_close": {
+      "message": "Uždaryti"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopijuoti"
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Rodyklė"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Išlieti"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Apskritimas"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Spalva"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Linija"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Žymeklis"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Pieštukas"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Stačiakampis"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Tekstas"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Anuliuoti"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Koreguoti paveikslėlį internete"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Klaida"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Pasirinkti visą ekrano vaizdą"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Atsiprašome dėl nepatogumų, tačiau Lightshot papildinys veikia tik su \"Windows\" operacine sistema. Jeigu norite Lightshot skirto Mac kompiuteriui, prašome jį atsisiųsti iš Mac App Store. Eiti į App Store dabar?"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Netinkamas dydis"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Klaida: Lightshot NPAPI priedas nerastas. Pabandykite perkrauti naršyklę. Jeigu matote šį pranešimą po naršyklės perkrovimo, prašome susisiekti support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Atidaryti"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Atsiprašome dėl nepatogumų, tačiau, Lightshot veikia tik su \"Windows\" ir \"Mac\" kompiuteriais. Jeigu norite Lightshot pritaikytos jūsų operacinei sistemai, prašome susisiekti support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Spausdinti"
+   },
+   "screenshot_plugin_save": {
+      "message": "Išsaugoti"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Ekranvaizdis buvo nukopijuotas į iškarpinę"
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Ekranvaizdis buvo išsaugoas į %filename%. Spausk čia kad atidarytai aplanke."
+   },
+   "screenshot_plugin_share": {
+      "message": "Pasidalinti per socialinius tinklus"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Pasidalinti per Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Ieškoti panašių paveikslėlių per Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Pasidalinti per Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Išsiųsti elektroniniu paštu"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Ieškoti panašių paveikslėlių per Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Pasidalinti per Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Pasidalinti per VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Pasirinkti plotą"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Įkelti į prntscr.com"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Įkėlimas nepavyko. Pakartoti?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Paveikslėlis yra įkeliamas"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Padaryti ekranvaizdžio nuotrauką"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (ekranvaizdžio įrankis)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Lengvai naudojamas ir patogus ekranvaizdžio nuotraukų įrankis."
+   }
+}

@@ -1,0 +1,110 @@
+{
+   "screenshot_app_about": {
+      "message": "O..."
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Wszelkie prawa zastrzeżone."
+   },
+   "screenshot_app_exit": {
+      "message": "Wyjście"
+   },
+   "screenshot_app_language_code": {
+      "message": "PL"
+   },
+   "screenshot_app_language_name": {
+      "message": "Polski"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Polish"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Moja galeria (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Zaloguj się..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Wyloguj"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Wystąpił błąd podczas logowania. Proszę spróbować ponownie."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Zrób zrzut ekranu"
+   },
+   "screenshot_app_terms": {
+      "message": "Warunki użytkowania programu Lightshot"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Naciśnij klawisz PrtScr na klawiaturze aby zrobić zrzut ekranu"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Anuluj"
+   },
+   "screenshot_plugin_clear": {
+      "message": "Wyczyść"
+   },
+   "screenshot_plugin_close": {
+      "message": "Zamknij"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopiuj"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Edytuj zrzut ekranu"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Błąd"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Wybierz cały ekran"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Zły rozmiar"
+   },
+   "screenshot_plugin_open": {
+      "message": "Otwórz"
+   },
+   "screenshot_plugin_print": {
+      "message": "Drukuj"
+   },
+   "screenshot_plugin_save": {
+      "message": "Zapisz"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Udostępnij na Facebooku"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Szukaj podobnych obrazków w Google"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Wyślij e-mailem"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Szukaj podobnych obrazków w Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Udostępnij na Twitterze"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Zaznacz obszar"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Wyślij do prntscr.com"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Wysyłanie nie powiodło się. Spróbować jeszcze raz?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Wysyłanie obrazka"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Take Screenshot"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (screenshot tool)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Easy and convenient screen capture tool. Allows you to make screenshot of any selected area, edit and upload it to server."
+   }
+}

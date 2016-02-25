@@ -1,0 +1,260 @@
+{
+   "screenshot_app_about": {
+      "message": "O"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Všetky práva vyhradené."
+   },
+   "screenshot_app_exit": {
+      "message": "Koniec"
+   },
+   "screenshot_app_help": {
+      "message": "Pomoc"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Nepodarilo sa zaregistrovať klávesovú skratku:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Pravdepodobne, iná aplikáciu ju už používa. Kliknite na tento dialog pre otvorenie nastavení."
+   },
+   "screenshot_app_language_code": {
+      "message": "SK"
+   },
+   "screenshot_app_language_name": {
+      "message": "Slovenčina"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Slovak"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Moja galéria (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Prihlásiť sa..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Odhlásiť sa"
+   },
+   "screenshot_app_options": {
+      "message": "Nastavenia"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Automaticky zavrieť okno"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Automaticky skopírovať link do schránky po nahraní obrázku"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Zachytávať kurzor"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "Nemôžte zvoliť dve tie isté klávesové skratky. Prosím zmente jednu z klávesových skratiek."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Jedna z vaších klávesových skratiek je neplatná. Ak chcete tú klávesovú skratku zrušiť, prosím označte zotpovedajúce pole."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Formáty"
+   },
+   "screenshot_app_options_general": {
+      "message": "Všeobecné"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Zachytiť screenshot"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Klávesové skratky"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Okamžité uloženie fullscreenu"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Okamžité nahranie fullscreenu"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG kvalita"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Nechať označenú pozíciu oblasti"
+   },
+   "screenshot_app_options_language": {
+      "message": "Jazyk"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Konfigurovať proxy ručne"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Bez proxy"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Proxy"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Port"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Zobraziť bublinu s oznámením po nahraní a uložení obrázku"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Použiť systémové proxy nastavenia"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Zachytiť obrázky vo formáte"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Prihlásený ako:"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Prihlásiť sa"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot prihlásenie zlyhalo"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Nastala chyba pri prihlasovaní. Prosím skúste znova."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Zachytiť screenshot"
+   },
+   "screenshot_app_terms": {
+      "message": "Podmienky služby Lightshot"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Stlačte kláves PrtSc pre screenshot"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Zrušiť"
+   },
+   "screenshot_plugin_clear": {
+      "message": "Zrušiť výber"
+   },
+   "screenshot_plugin_close": {
+      "message": "Zavrieť"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Kopírovať"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "Error: Firefox CTypes nemôže načítať Lightshot. Skúste znova načítať stránku. Ak budete stále vidieť tento error, prosím kontaktujte support@skillbrains.com.\\n\\nExtended error info: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Šípka"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Rozostrenie"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Kruh"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Farba"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Čiara"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Zvýraznovač"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Pero"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Obdĺžnik"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Text"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Naspäť"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Upraviť screenshot online"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Error"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Vybrať celú obrazovku"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Ospravedlňujeme sa za nepríjemnosti, ale Lightshot doplnok ide iba na počítačoch s operančným systémom Windows. Ak chcete Lightshot pre Mac, môžete si ho stiahnúť z Mac App Store. Ísť na App Store ihneď?"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Zlá veľkosť"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Error: Lightshot NPAPI plugin nebol nájdený. Skúste znova načítať stránku. Ak budete stále vidieť tento error, prosím kontaktujte support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "Otvoriť"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Ospravedlňujeme sa za nepríjemnosti, ale Lightshot ide iba na počítačoch s Windows alebo Mac. Ak chcete Lightshot pre váš operačný systém, prosím kontaktujte support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "Vytlačiť"
+   },
+   "screenshot_plugin_save": {
+      "message": "Uložiť"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Screenshot skopírovaný do schránky."
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "Error: Lightshot nemôže zachytiť screenshot. Skúste znova načítať stránku. Ak budete stále vidieť tento error, prosím kontaktujte support@skillbrains.com.\\n\\nExtended error info: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Screenshot bol uložený do %filename%. Kliknite tu pre zobrazenie v priečinku."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Screenshot bol nahraný. Link bol skopírovaný do schránky."
+   },
+   "screenshot_plugin_share": {
+      "message": "Zdieľať na sociálnych sieťach"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Zdieľať na Facebooku"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Hľadať podobné obrázky na Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Zdieľať na Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Posľať cez email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Hľadať podobné obrázky na Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Zdieľať na Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Zdieľať na VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Zvoľte oblasť"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Nahrať na prntscr.com"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Nahrávanie neúspešné. Skúsiť znova?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Nahrať obrázok"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Zachytiť screenshot"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (screenshot nástroj)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Ľahký a pohodlný nástroj na tvorbu screenshotov. Umožnoje zachytiť, upraviť a nahrať screenshot na server."
+   }
+}

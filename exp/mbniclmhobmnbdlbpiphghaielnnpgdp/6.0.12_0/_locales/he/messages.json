@@ -1,0 +1,275 @@
+{
+   "screenshot_app_about": {
+      "message": "אודות"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% כל הזכויות שמורות."
+   },
+   "screenshot_app_exit": {
+      "message": "יציאה"
+   },
+   "screenshot_app_help": {
+      "message": "עזרה"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "שגיאה ברישום המקש:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "ככל הנראה יישון אחר משתמש במקש זה. הקלק על הודעה זו לפתוח תפריט אפשרויות."
+   },
+   "screenshot_app_language_code": {
+      "message": "HE"
+   },
+   "screenshot_app_language_name": {
+      "message": "עברית"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Hebrew"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "הגלריה שלי (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "התחבר..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "התנתק"
+   },
+   "screenshot_app_options": {
+      "message": "אפשרויות"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "סגור חלון העלאה באופן אוטומטי"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "העתק קישור אוטומטית לאחר העלאה"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "סמן תפיסה"
+   },
+   "screenshot_app_options_error_hotkeyequal": {
+      "message": "אינך יכול לבחור מקש אחד לשני פונקציות שונות. אנא שנה את בחירתך."
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "אחד ממקשיך אינו חוקי. אם ברצונך לתקן בעיה זו, אנא הסר הסימון מתיבת הסימון שלו ."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Formats"
+   },
+   "screenshot_app_options_general": {
+      "message": "כללי"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "מקשי קיצור כלליים"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "מקשי קיצור"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "שמירת צילומסך מלא, אוטומטית"
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "העלאת צילומסך מלא, אוטומטית"
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) proxy"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "JPEG איכות"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "שמור על מיקום האיזור המסומן"
+   },
+   "screenshot_app_options_language": {
+      "message": "שפה"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "כיוון פרוקסי ידני"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "ללא פרוקסי"
+   },
+   "screenshot_app_options_optimize_always": {
+      "message": "תמיד"
+   },
+   "screenshot_app_options_optimize_never": {
+      "message": "לעולם לא"
+   },
+   "screenshot_app_options_optimize_screenshots": {
+      "message": "ממטב צילומסך (OptiPNG)"
+   },
+   "screenshot_app_options_optimize_uploadonly": {
+      "message": "רק בעת העלאה"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "פרוקסי"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Port"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "הראה חלון הודעה לגבי העתקה ושמירה"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "השתמש בהנחיות הפרוקסי של המערכת"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": " פורמט העלאת תמונות"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "מחובר כ:"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "התחבר"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "שגיאת התחברות"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: אירעה שגיאה במהלך ההתחברות. אנא נסה שוב."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "מלם מסך"
+   },
+   "screenshot_app_terms": {
+      "message": "תנאי השימוש בלייט שוט"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "לחץ על מקש PRTSC כדי להשתמש בלייט שוט"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "בטל"
+   },
+   "screenshot_plugin_clear": {
+      "message": "נקה בחירה"
+   },
+   "screenshot_plugin_close": {
+      "message": "סגור"
+   },
+   "screenshot_plugin_copy": {
+      "message": "העתק"
+   },
+   "screenshot_plugin_ctypes_error": {
+      "message": "שגיאה: לייט שוט לא הצליחה לצלם את המסך. נסה לרענן את הדפדפן. אם הבעיה לא נפתרה לאחר רענון הדף, אנא צור קשר עם המידע על הבעיה לתמיכה שלנו:support@skillbrains.com.\\n\\nExtended error info: "
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "חץ"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "טשטוש"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "עיגול"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "צבע"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "קו"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "מרקר"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "עט"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "מסגרת"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "טקסט"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "בטל"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "ערוך צילומסך אונליין"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "שגיאה"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "בחר מסך מלא"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "אנו מצטערים על אי הנוחות, אך הרחבת לייט שוט רצה רק על מחשבים מבוססי חלונות אם ברצונכם להשתמש בתוכנתנו על על מחשב מאק, אנא הורידו אותה מחנות האפליקציות הייעודית. לגשת לשם עכשיו?"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "גודל לא נכון"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Error: Lightshot NPAPI plugin not found. Try to reload browser. If you keep seeing this error after reloading, please contact support@skillbrains.com."
+   },
+   "screenshot_plugin_open": {
+      "message": "פתח"
+   },
+   "screenshot_plugin_optimize_dialog_capt": {
+      "message": "ממטב צילומסך"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "אנו מצטערים על אי הנוחות, אך לייט שוט עובדת רק על חלונות ומק.אם אתם מעוניינים בלייט שוט למערכת ההפעלה שלכם, אנא פנו לתמיכה : support@skillbrains.com."
+   },
+   "screenshot_plugin_print": {
+      "message": "הדפס"
+   },
+   "screenshot_plugin_save": {
+      "message": "שמור"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "צילומסך הועתק ללוח"
+   },
+   "screenshot_plugin_screenshot_error_reload_browser": {
+      "message": "שגיאה: לייט שוט לא הצליחה לצלם את המסך. נסה לרענן את הדפדפן. אם הבעיה לא נפתרה לאחר רענון הדף, אנא צור קשר עם המידע על הבעיה לתמיכה שלנו: support@skillbrains.com: "
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "צילומסך נשמר אל %filename%. לחץ כאן לפתיחת התיקיה."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "צילומסך הועלה, קישור הועתק ללוח."
+   },
+   "screenshot_plugin_share": {
+      "message": "שתף ברשתות חברתיות"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "שתף בפייסבוק"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "חפש תמונות דומות בגוגל"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "שתף ב: Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "שלח דרך דואר אלקטרוני"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "חפש תמונות דומות בטינאיי"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "שתף בטוויטר"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "שתף ב: VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "בחר איזור"
+   },
+   "screenshot_plugin_upload": {
+      "message": "העלה צילומסך ל prntscr.com"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "העלאה נכשלה. נסה שוב?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "מעלה תמונה"
+   },
+   "screenshotplugin_default_title": {
+      "message": "צלם מסך"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (כלי לצילומי מסך)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "כלי קל ונוח ליצירת צילומי מסך. מאפשר ליצור צילומסך של כל איזור נבחר, לערוך אותו ולהעלותו לשרת."
+   }
+}

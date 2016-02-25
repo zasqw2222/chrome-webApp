@@ -1,0 +1,95 @@
+{
+   "screenshot_app_about": {
+      "message": "Siamo"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% dell'azienda Tutti i diritti riservati."
+   },
+   "screenshot_app_exit": {
+      "message": "Uscire"
+   },
+   "screenshot_app_language_code": {
+      "message": "IT"
+   },
+   "screenshot_app_language_name": {
+      "message": "Italiano"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Italian"
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Cattura uno screenshot"
+   },
+   "screenshot_app_terms": {
+      "message": "Lightshot termini di servizio"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Annulla"
+   },
+   "screenshot_plugin_clear": {
+      "message": "Cancella"
+   },
+   "screenshot_plugin_close": {
+      "message": "Chiudi"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Copia"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Immagine di Edit"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Errore"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Seleziona tutto schermo"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Taglia errata"
+   },
+   "screenshot_plugin_open": {
+      "message": "Apri"
+   },
+   "screenshot_plugin_print": {
+      "message": "Stampa"
+   },
+   "screenshot_plugin_save": {
+      "message": "Salva"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Condividi su Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Cerca immagini simili su Google"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Invia via e-mail"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Cerca immagini simili su TinEye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Condividi su Twitter"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Seleziona area"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Carica prntscr.com"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Upload fallito. Riprovare?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Caricamento immagine"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Take Screenshot"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (screenshot tool)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Easy and convenient screen capture tool. Allows you to make screenshot of any selected area, edit and upload it to server."
+   }
+}

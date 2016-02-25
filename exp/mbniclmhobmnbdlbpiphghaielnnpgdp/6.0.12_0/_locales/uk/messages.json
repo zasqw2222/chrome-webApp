@@ -1,0 +1,257 @@
+{
+   "Screenshot_app_options_error_hotkeyequal": {
+      "message": "Обрано однакові хоткеї, змініть один із них."
+   },
+   "screenshot_app_about": {
+      "message": "Про нас"
+   },
+   "screenshot_app_copyright": {
+      "message": "%company% Усі права захищено."
+   },
+   "screenshot_app_exit": {
+      "message": "Вийти"
+   },
+   "screenshot_app_help": {
+      "message": "Допомога"
+   },
+   "screenshot_app_hotkey_failtoregister1": {
+      "message": "Не вдалося зареєструвати хоткей:"
+   },
+   "screenshot_app_hotkey_failtoregister2": {
+      "message": "Швидше за все він вже використовується іншою програмою. Натисніть на це повідомлення, щоб відкрити діалог налаштувань."
+   },
+   "screenshot_app_language_code": {
+      "message": "UA"
+   },
+   "screenshot_app_language_name": {
+      "message": "Українська"
+   },
+   "screenshot_app_language_name_eng": {
+      "message": "Ukrainian"
+   },
+   "screenshot_app_menu_gallery": {
+      "message": "Моя галерея (%username%)"
+   },
+   "screenshot_app_menu_sign_in": {
+      "message": "Увійти..."
+   },
+   "screenshot_app_menu_sign_out": {
+      "message": "Вийти"
+   },
+   "screenshot_app_options": {
+      "message": "Налаштування"
+   },
+   "screenshot_app_options_autoclose": {
+      "message": "Автоматично закривати вікно завантаження"
+   },
+   "screenshot_app_options_autocopy": {
+      "message": "Автоматично копіювати посилання після завантаження на сервер"
+   },
+   "screenshot_app_options_capturecursor": {
+      "message": "Зберігати курсор на знятку"
+   },
+   "screenshot_app_options_error_hotkeyinvalid": {
+      "message": "Один з ваших хоткеїв недійсний. Якщо ви хочете повністю відключити хоткей, приберіть відповідну галочку."
+   },
+   "screenshot_app_options_formats": {
+      "message": "Формати"
+   },
+   "screenshot_app_options_general": {
+      "message": "Основні"
+   },
+   "screenshot_app_options_hotkey": {
+      "message": "Гаряча клавіша"
+   },
+   "screenshot_app_options_hotkeygeneral": {
+      "message": "Основний хоткей"
+   },
+   "screenshot_app_options_hotkeys": {
+      "message": "Хоткей"
+   },
+   "screenshot_app_options_hotkeysavefullscreen": {
+      "message": "Швидке збереження всього екрану..."
+   },
+   "screenshot_app_options_hotkeyuploadfullscreen": {
+      "message": "Швидке збереження всього екрану..."
+   },
+   "screenshot_app_options_httpsproxy": {
+      "message": "HTTP(S) проксі"
+   },
+   "screenshot_app_options_jpegquality": {
+      "message": "Якість JPEG"
+   },
+   "screenshot_app_options_keepselection": {
+      "message": "Зберігати позицію виділеної області"
+   },
+   "screenshot_app_options_language": {
+      "message": "Мова"
+   },
+   "screenshot_app_options_manualproxy": {
+      "message": "Самотужки налаштувати проксі"
+   },
+   "screenshot_app_options_noproxy": {
+      "message": "Не перенаправлювати"
+   },
+   "screenshot_app_options_proxy": {
+      "message": "Перенаправлення"
+   },
+   "screenshot_app_options_proxyport": {
+      "message": "Порт"
+   },
+   "screenshot_app_options_showbubbles": {
+      "message": "Показувати сповіщення про копіювання та збереження"
+   },
+   "screenshot_app_options_systemproxy": {
+      "message": "Використовувати системні налаштування проксі"
+   },
+   "screenshot_app_options_uploadformat": {
+      "message": "Відвантажити на сервер у форматі"
+   },
+   "screenshot_app_signed_in_as": {
+      "message": "Ви зайшли як:"
+   },
+   "screenshot_app_signin_dialog_caption": {
+      "message": "Входимо"
+   },
+   "screenshot_app_signin_error_caption": {
+      "message": "Lightshot: помилка"
+   },
+   "screenshot_app_signin_error_text": {
+      "message": "Lightshot: Під час входу до акаунту виникла помилка. Спробуйте ще раз."
+   },
+   "screenshot_app_take_screenshot": {
+      "message": "Зробити знімок"
+   },
+   "screenshot_app_terms": {
+      "message": "Умови використання Lightshot"
+   },
+   "screenshot_app_tray_tooltip": {
+      "message": "Натисніть кнопку PrtScr на Вашій клавіатурі, аби зробити знімок"
+   },
+   "screenshot_plugin_cancel": {
+      "message": "Скасувати"
+   },
+   "screenshot_plugin_clear": {
+      "message": "Очистити"
+   },
+   "screenshot_plugin_close": {
+      "message": "Закрити"
+   },
+   "screenshot_plugin_copy": {
+      "message": "Копіювати"
+   },
+   "screenshot_plugin_edit_arrow": {
+      "message": "Стрілка"
+   },
+   "screenshot_plugin_edit_blur": {
+      "message": "Розмиття"
+   },
+   "screenshot_plugin_edit_circle": {
+      "message": "Округлість"
+   },
+   "screenshot_plugin_edit_color": {
+      "message": "Колір"
+   },
+   "screenshot_plugin_edit_line": {
+      "message": "Лінія"
+   },
+   "screenshot_plugin_edit_marker": {
+      "message": "Маркер"
+   },
+   "screenshot_plugin_edit_pencil": {
+      "message": "Олівець"
+   },
+   "screenshot_plugin_edit_rect": {
+      "message": "Прямокукник"
+   },
+   "screenshot_plugin_edit_text": {
+      "message": "Текст"
+   },
+   "screenshot_plugin_edit_undo": {
+      "message": "Скасувати"
+   },
+   "screenshot_plugin_editonline": {
+      "message": "Редагувати"
+   },
+   "screenshot_plugin_error_capt": {
+      "message": "Помилка"
+   },
+   "screenshot_plugin_fullscreen": {
+      "message": "Виділити весь екран"
+   },
+   "screenshot_plugin_go_to_mac_store": {
+      "message": "Вибачте, але додаток Lightshot доступний лише для платформи Windows. Аби використовувати додаток Lightshot на Mac, будь ласка, встановіть його з App Store. Перейти на сторінку Lightshot в App Store?"
+   },
+   "screenshot_plugin_incorrect_size": {
+      "message": "Неправильний розмір"
+   },
+   "screenshot_plugin_npapi_not_found": {
+      "message": "Помилка: плагін Lightshot NPAPI не знайдено."
+   },
+   "screenshot_plugin_open": {
+      "message": "Відкрити"
+   },
+   "screenshot_plugin_other_os": {
+      "message": "Вибачте за незручності, але програма Lightshot доступна лише для платформи Windows. Якщо Ви бажаєте використовувати Lightshot на своїй ОС зв'яжіться з нами через support@skillbrains.com"
+   },
+   "screenshot_plugin_print": {
+      "message": "Друкувати"
+   },
+   "screenshot_plugin_save": {
+      "message": "Зберегти"
+   },
+   "screenshot_plugin_screenshot_copied_to_clipboard": {
+      "message": "Знімок скопійовано до буферу обміну"
+   },
+   "screenshot_plugin_screenshot_saved": {
+      "message": "Знімок збережено до %filename%. Натисніть, аби відкрити теку зі знімком."
+   },
+   "screenshot_plugin_screenshot_uploaded_link_copied": {
+      "message": "Знімок завантажено на сервер. Посилання скопійовано до буферу обміну."
+   },
+   "screenshot_plugin_share": {
+      "message": "Поділитися в соц.мережах"
+   },
+   "screenshot_plugin_share_facebook": {
+      "message": "Поділитися на Facebook"
+   },
+   "screenshot_plugin_share_googlesearch": {
+      "message": "Шукати схожі зображення на Google"
+   },
+   "screenshot_plugin_share_pinterest": {
+      "message": "Поділитися на Pinterest"
+   },
+   "screenshot_plugin_share_sendmail": {
+      "message": "Надіслати на email"
+   },
+   "screenshot_plugin_share_tineyesearch": {
+      "message": "Шукати схожі зображення на Tineye"
+   },
+   "screenshot_plugin_share_twitter": {
+      "message": "Поділитися у Twitter"
+   },
+   "screenshot_plugin_share_vk": {
+      "message": "Поділитися у VK"
+   },
+   "screenshot_plugin_tooltip": {
+      "message": "Виділіть область"
+   },
+   "screenshot_plugin_upload": {
+      "message": "Завантажити на сервер prntscr.com"
+   },
+   "screenshot_plugin_upload_failed_retry": {
+      "message": "Помилка завантаження на сервер. Спробувати ще раз?"
+   },
+   "screenshot_plugin_uploading_window_capt": {
+      "message": "Завантаження зображення на сервер"
+   },
+   "screenshotplugin_default_title": {
+      "message": "Зробити знімок"
+   },
+   "screenshotplugin_name": {
+      "message": "Lightshot (screenshot tool)"
+   },
+   "screenshotplugin_short_description": {
+      "message": "Проста та зручна програма для роблення знімків"
+   }
+}
